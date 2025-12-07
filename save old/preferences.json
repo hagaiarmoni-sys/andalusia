@@ -1,0 +1,20 @@
+{
+  "default_trip_type": "Star/Hub",
+  "default_budget": "mid-range",
+  "default_pace": "medium",
+  "max_km_per_day": 200,
+  "poi_categories": [
+    "history",
+    "architecture",
+    "museums",
+    "parks",
+    "art",
+    "nature",
+    "castles",
+    "palaces"
+  ],
+  "hotel_platform": "Any",
+  "max_price_per_night": 200,
+  "min_poi_rating": 3.0,
+  "max_same_category_per_day": 2
+}

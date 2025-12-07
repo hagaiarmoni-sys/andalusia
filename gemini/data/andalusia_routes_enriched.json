@@ -1,0 +1,1168 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2025-11-20",
+    "total_routes": 34,
+    "description": "En-route attractions between major Andalusian cities with enriched metadata for intelligent route planning.",
+    "usage": "Use this file to find attractions that can be visited while traveling between cities. Each route includes category, suitability, seasonality, and booking information.",
+    "changelog": "v2.0 - Added category, tags, suitability, seasonality, booking, drive_impact, and road_context"
+  },
+  "routes": [
+    {
+      "attraction_id": "italica_roman_ruins",
+      "attraction_name": "Italica Roman Ruins",
+      "location": "Santiponce",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2.5,
+      "category": "History",
+      "subcategory": "Roman Ruins",
+      "tags": ["archaeology", "ancient_rome", "unesco_candidate", "outdoor"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 20
+      },
+      "road_context_tags": ["easy_access", "well_signposted", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very hot in summer with limited shade. Best visited in cooler months."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Buy tickets on arrival. Arrive early to avoid midday heat."
+      }
+    },
+    {
+      "attraction_id": "caminito_del_rey",
+      "attraction_name": "Caminito del Rey",
+      "location": "El Chorro",
+      "between_cities": ["Málaga", "Granada", "Ronda"],
+      "detour_km": 25,
+      "recommended_stop_hours": 3,
+      "category": "Nature",
+      "subcategory": "Hiking / Gorge walk",
+      "tags": ["thrilling", "tickets_required", "not_for_small_kids", "world_famous", "must_see"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 40,
+        "min_buffer_minutes": 30
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "parking_limited"],
+      "suitability": {
+        "kids_friendly": false,
+        "seniors_friendly": false,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": ["July", "August"],
+        "notes": "Too hot and crowded in mid-summer. Check heat warnings. Closed in very high winds."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 60,
+        "tip": "Book afternoon slots if driving from Málaga same day. Morning slots sell out fastest."
+      }
+    },
+    {
+      "attraction_id": "arcos_de_la_frontera",
+      "attraction_name": "Arcos de la Frontera",
+      "location": "Arcos de la Frontera",
+      "between_cities": ["Jerez", "Ronda"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "dramatic_views", "clifftop", "photography"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 25,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["scenic_drive", "narrow_streets", "parking_challenging"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Beautiful year-round. Can be windy on clifftop viewpoints."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Park at bottom of town and walk up. Best light for photos is late afternoon."
+      }
+    },
+    {
+      "attraction_id": "setenil_de_las_bodegas",
+      "attraction_name": "Setenil de las Bodegas",
+      "location": "Setenil de las Bodegas",
+      "between_cities": ["Ronda", "Granada"],
+      "detour_km": 18,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "unique_architecture", "cave_houses", "instagram_worthy"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 30,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["mountain_road", "narrow_streets", "scenic_drive"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Famous for houses built into rock overhangs. Great in any season."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit Calle Cuevas del Sol and Calle Cuevas de la Sombra for best cave houses."
+      }
+    },
+    {
+      "attraction_id": "zahara_de_la_sierra",
+      "attraction_name": "Zahara de la Sierra",
+      "location": "Zahara de la Sierra",
+      "between_cities": ["Ronda", "Grazalema"],
+      "detour_km": 20,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "mountain_views", "reservoir", "castle", "photography"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 35,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["scenic_drive", "mountain_pass", "viewpoints"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "October", "November"],
+        "avoid_months": [],
+        "notes": "Stunning views of the turquoise reservoir. Spring wildflowers add extra beauty."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Climb to the castle ruins for panoramic views. Best in late afternoon light."
+      }
+    },
+    {
+      "attraction_id": "grazalema_village",
+      "attraction_name": "Grazalema Village",
+      "location": "Grazalema",
+      "between_cities": ["Ronda", "Jerez"],
+      "detour_km": 25,
+      "recommended_stop_hours": 2,
+      "category": "Nature",
+      "subcategory": "Mountain Village",
+      "tags": ["white_village", "natural_park", "hiking_base", "artisan_goods"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 40,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["scenic_drive", "mountain_pass", "winding_roads"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": [],
+        "notes": "Spain's rainiest town. Bring layers. Gateway to Sierra de Grazalema hiking."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Shop for local wool blankets and artisan cheeses."
+      }
+    },
+    {
+      "attraction_id": "vejer_de_la_frontera",
+      "attraction_name": "Vejer de la Frontera",
+      "location": "Vejer de la Frontera",
+      "between_cities": ["Cádiz", "Tarifa"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "moorish_heritage", "hilltop", "bohemian_vibe"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "parking_available", "well_signposted"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Beautiful year-round. Known for windy conditions (near Atlantic coast)."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Explore the old Jewish quarter and enjoy sunset views from the castle."
+      }
+    },
+    {
+      "attraction_id": "olvera",
+      "attraction_name": "Olvera",
+      "location": "Olvera",
+      "between_cities": ["Ronda", "Seville"],
+      "detour_km": 22,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "castle", "dramatic_setting", "via_verde"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 35,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["scenic_drive", "mountain_road", "good_road_quality"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "October", "November"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very hot in summer. Starting point for Vía Verde cycling route."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Climb to the castle and church for commanding views."
+      }
+    },
+    {
+      "attraction_id": "frigiliana",
+      "attraction_name": "Frigiliana",
+      "location": "Frigiliana",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "moorish_quarter", "coastal_views", "pretty_village"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 25,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["coastal_road", "scenic_drive", "parking_limited"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": ["July", "August"],
+        "notes": "Crowded in summer. One of Andalusia's prettiest white villages."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Get lost in the Moorish quarter's narrow whitewashed streets."
+      }
+    },
+    {
+      "attraction_id": "bodegas_alvear",
+      "attraction_name": "Bodegas Alvear",
+      "location": "Montilla",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5,
+      "category": "Food & Wine",
+      "subcategory": "Winery",
+      "tags": ["wine_tasting", "montilla_moriles", "historic_bodega", "sherry_alternative"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["easy_access", "highway_exit", "parking_available"],
+      "suitability": {
+        "kids_friendly": false,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Indoor experience, good year-round. Harvest season (Sept-Oct) is special."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 2,
+        "tip": "Book tours in advance. Try Pedro Ximénez sweet wine."
+      }
+    },
+    {
+      "attraction_id": "bodegas_p_rez_barquero",
+      "attraction_name": "Bodegas Pérez Barquero",
+      "location": "Montilla",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5,
+      "category": "Food & Wine",
+      "subcategory": "Winery",
+      "tags": ["wine_tasting", "montilla_moriles", "historic_bodega", "traditional"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["easy_access", "highway_exit", "parking_available"],
+      "suitability": {
+        "kids_friendly": false,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Indoor experience, good year-round. Harvest season (Sept-Oct) is special."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 2,
+        "tip": "Book tours in advance. Family-run bodega with excellent amontillado."
+      }
+    },
+    {
+      "attraction_id": "do_ana_national_park",
+      "attraction_name": "Doñana National Park",
+      "location": "Huelva",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 35,
+      "recommended_stop_hours": 5,
+      "category": "Nature",
+      "subcategory": "National Park / Wildlife",
+      "tags": ["unesco", "wetlands", "birdwatching", "guided_tours_only", "full_day"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 50,
+        "min_buffer_minutes": 30
+      },
+      "road_context_tags": ["rural_roads", "good_road_quality", "remote_area"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": ["July", "August"],
+        "notes": "Best for bird migration in spring/fall. Very hot in summer. Tours may be limited in winter."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 7,
+        "tip": "Must book guided 4x4 tours in advance. Bring binoculars and sun protection."
+      }
+    },
+    {
+      "attraction_id": "el_torcal_de_antequera",
+      "attraction_name": "El Torcal de Antequera",
+      "location": "Antequera",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2.5,
+      "category": "Nature",
+      "subcategory": "Geological Formation",
+      "tags": ["hiking", "unique_landscape", "limestone_formations", "easy_trails"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 30,
+        "min_buffer_minutes": 20
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": ["July", "August"],
+        "notes": "Can be very hot in summer. Foggy conditions possible in winter add atmosphere."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Green trail is easy and family-friendly. Bring sturdy shoes and water."
+      }
+    },
+    {
+      "attraction_id": "antequera_dolmens",
+      "attraction_name": "Antequera Dolmens",
+      "location": "Antequera",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5,
+      "category": "History",
+      "subcategory": "Prehistoric Site",
+      "tags": ["unesco", "prehistoric", "megalithic", "archaeology", "educational"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "well_signposted", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Indoor/covered site, good year-round."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Free admission. Excellent visitor center. Combine with El Torcal."
+      }
+    },
+    {
+      "attraction_id": "sierra_de_grazalema_natural_park",
+      "attraction_name": "Sierra de Grazalema Natural Park",
+      "location": "Grazalema",
+      "between_cities": ["Ronda", "Jerez"],
+      "detour_km": 28,
+      "recommended_stop_hours": 4,
+      "category": "Nature",
+      "subcategory": "Natural Park / Hiking",
+      "tags": ["hiking", "nature_reserve", "spanish_fir", "mountain_scenery", "half_day"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 45,
+        "min_buffer_minutes": 30
+      },
+      "road_context_tags": ["mountain_pass", "scenic_drive", "winding_roads", "viewpoints"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": false,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": ["December", "January", "February"],
+        "notes": "Can be muddy/wet in winter (rainiest area in Spain). Some trails require permits."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 14,
+        "tip": "Popular trails like Pinsapar require advance permits. Book early."
+      }
+    },
+    {
+      "attraction_id": "los_alcornocales_natural_park",
+      "attraction_name": "Los Alcornocales Natural Park",
+      "location": "Jimena de la Frontera",
+      "between_cities": ["Ronda", "Gibraltar", "Tarifa"],
+      "detour_km": 20,
+      "recommended_stop_hours": 3,
+      "category": "Nature",
+      "subcategory": "Natural Park / Forest",
+      "tags": ["cork_forest", "hiking", "remote", "nature_lovers", "off_beaten_path"],
+      "priority": 3,
+      "drive_impact": {
+        "extra_drive_minutes": 35,
+        "min_buffer_minutes": 25
+      },
+      "road_context_tags": ["rural_roads", "remote_area", "limited_signage"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": false,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "October", "November"],
+        "avoid_months": [],
+        "notes": "Atmospheric in misty conditions. Cork oak forests are unique to this region."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Download maps in advance. Limited facilities. Great for nature photographers."
+      }
+    },
+    {
+      "attraction_id": "playa_de_los_muertos",
+      "attraction_name": "Playa de los Muertos",
+      "location": "Carboneras",
+      "between_cities": ["Almería", "Nerja"],
+      "detour_km": 18,
+      "recommended_stop_hours": 2.5,
+      "category": "Beach",
+      "subcategory": "Beach / Swimming",
+      "tags": ["pristine_beach", "turquoise_water", "scenic", "swimming", "remote"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 30,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["coastal_road", "scenic_drive", "parking_limited"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": false,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["May", "June", "September", "October"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very crowded in peak summer. Water is clearest in spring/fall."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Arrive early for parking. Steep path down to beach. Bring all supplies."
+      }
+    },
+    {
+      "attraction_id": "olive_oil_mill_tour_hacienda_guzm_n",
+      "attraction_name": "Olive Oil Mill Tour - Hacienda Guzmán",
+      "location": "La Rinconada",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2,
+      "category": "Food & Wine",
+      "subcategory": "Olive Oil Tour",
+      "tags": ["olive_oil", "tasting", "educational", "local_product", "gastronomy"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["easy_access", "highway_exit", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "December"],
+        "avoid_months": [],
+        "notes": "Harvest season (Nov-Dec) is most interesting. Tours available year-round."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 3,
+        "tip": "Book tours in advance. Great to learn about Andalusian olive oil production."
+      }
+    },
+    {
+      "attraction_id": "castillo_de_almod_var_del_r_o",
+      "attraction_name": "Castillo de Almodóvar del Río",
+      "location": "Almodóvar del Río",
+      "between_cities": ["Córdoba", "Seville"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5,
+      "category": "History",
+      "subcategory": "Castle",
+      "tags": ["castle", "medieval", "game_of_thrones", "views", "family_friendly"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "well_signposted", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very hot in summer. Featured in Game of Thrones."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Well-preserved medieval castle with great views. Kids will love it."
+      }
+    },
+    {
+      "attraction_id": "laguna_de_fuente_de_piedra",
+      "attraction_name": "Laguna de Fuente de Piedra",
+      "location": "Fuente de Piedra",
+      "between_cities": ["Málaga", "Antequera", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2,
+      "category": "Nature",
+      "subcategory": "Wetland / Birdwatching",
+      "tags": ["birdwatching", "flamingos", "wetland", "nature_reserve", "seasonal"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "rural_roads", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["February", "March", "April", "May"],
+        "avoid_months": ["July", "August", "September"],
+        "notes": "Flamingo breeding season is Feb-May. Lagoon can dry up in summer."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Best time is early morning. Bring binoculars. Free visitor center."
+      }
+    },
+    {
+      "attraction_id": "priego_de_c_rdoba",
+      "attraction_name": "Priego de Córdoba",
+      "location": "Priego de Córdoba",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 20,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "Historic Town",
+      "tags": ["baroque", "fountains", "old_town", "hidden_gem", "white_village"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 35,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Known as 'City of Water' for its fountains. Beautiful baroque churches."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit the Barrio de la Villa (old quarter) and numerous baroque churches."
+      }
+    },
+    {
+      "attraction_id": "zuheros_village_castle",
+      "attraction_name": "Zuheros Village & Castle",
+      "location": "Zuheros",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 25,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "castle", "mountain_setting", "pretty_village", "caves_nearby"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 40,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "narrow_roads"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "October", "November"],
+        "avoid_months": [],
+        "notes": "One of the prettiest villages in Córdoba province. Combine with nearby caves."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Climb to the castle for views. Excellent local restaurants."
+      }
+    },
+    {
+      "attraction_id": "cueva_de_los_murci_lagos",
+      "attraction_name": "Cueva de los Murciélagos",
+      "location": "Zuheros",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 25,
+      "recommended_stop_hours": 1.5,
+      "category": "Nature",
+      "subcategory": "Cave",
+      "tags": ["cave", "stalactites", "prehistoric_art", "guided_tour", "underground"],
+      "priority": 3,
+      "drive_impact": {
+        "extra_drive_minutes": 40,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "narrow_roads"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": false,
+        "wheelchair_friendly": false,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Cool inside year-round. Combine with Zuheros village visit."
+      },
+      "booking": {
+        "required": true,
+        "lead_time_days": 1,
+        "tip": "Book guided tours in advance. Wear comfortable shoes. Limited photography allowed."
+      }
+    },
+    {
+      "attraction_id": "osuna_historic_town",
+      "attraction_name": "Osuna Historic Town",
+      "location": "Osuna",
+      "between_cities": ["Seville", "Málaga"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "Historic Town",
+      "tags": ["game_of_thrones", "baroque", "historic_center", "university", "aristocratic"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 25,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "highway_exit", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very hot in summer. Featured in Game of Thrones (Daznak's Pit)."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit the Collegiate Church and ducal palace. Historic aristocratic town."
+      }
+    },
+    {
+      "attraction_id": "_cija_city_of_towers",
+      "attraction_name": "Écija - City of Towers",
+      "location": "Écija",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 5,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "Historic Town",
+      "tags": ["baroque", "church_towers", "hot_climate", "historic_center", "palaces"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 10,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["easy_access", "main_highway", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Known as 'Frying Pan of Andalusia' - extremely hot in summer."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Famous for 11 baroque church towers. Quick stop between Seville and Córdoba."
+      }
+    },
+    {
+      "attraction_id": "carmona_historic_town",
+      "attraction_name": "Carmona Historic Town",
+      "location": "Carmona",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2,
+      "category": "Culture",
+      "subcategory": "Historic Town",
+      "tags": ["roman_ruins", "historic_center", "castle", "views", "fortified_town"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "main_highway", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "One of the oldest towns in Spain. Good year-round."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit the Roman necropolis and walk the old town walls."
+      }
+    },
+    {
+      "attraction_id": "aracena_castle_grotto",
+      "attraction_name": "Aracena Castle & Grotto",
+      "location": "Aracena",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 35,
+      "recommended_stop_hours": 3,
+      "category": "Nature",
+      "subcategory": "Cave / Town",
+      "tags": ["cave", "castle", "mountain_town", "stalactites", "sierra_aracena"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 50,
+        "min_buffer_minutes": 20
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "winding_roads"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Cave is cool year-round. Charming mountain town. Ham production area."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit Gruta de las Maravillas (spectacular cave). Try local Ibérico ham."
+      }
+    },
+    {
+      "attraction_id": "jabugo_ham_museum_tasting",
+      "attraction_name": "Jabugo Ham Museum & Tasting",
+      "location": "Jabugo",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 40,
+      "recommended_stop_hours": 1.5,
+      "category": "Food & Wine",
+      "subcategory": "Gastronomy Tour",
+      "tags": ["jamon_iberico", "tasting", "local_specialty", "museum", "foodie"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 55,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["mountain_road", "scenic_drive", "winding_roads"],
+      "suitability": {
+        "kids_friendly": false,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Indoor experience. World's finest ham comes from this region."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Must-visit for food lovers. Best Ibérico ham in the world. Combine with Aracena."
+      }
+    },
+    {
+      "attraction_id": "guadix_cave_houses",
+      "attraction_name": "Guadix Cave Houses",
+      "location": "Guadix",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 5,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "Unique Architecture",
+      "tags": ["cave_dwellings", "unique", "troglodyte", "museum", "unusual"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 10,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "main_highway", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Cave homes keep cool in summer, warm in winter. Unique experience."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit the cave museum. Still inhabited by around 2,000 people today."
+      }
+    },
+    {
+      "attraction_id": "tabernas_desert",
+      "attraction_name": "Tabernas Desert",
+      "location": "Tabernas",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2.5,
+      "category": "Nature",
+      "subcategory": "Desert / Film Location",
+      "tags": ["desert", "western_films", "unique_landscape", "badlands", "photography"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["easy_access", "main_highway", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Europe's only desert. Extremely hot in summer. Used in many Western films."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit Western film sets (Oasys Mini Hollywood). Best light for photos at sunset."
+      }
+    },
+    {
+      "attraction_id": "moj_car_pueblo",
+      "attraction_name": "Mojácar Pueblo",
+      "location": "Mojácar",
+      "between_cities": ["Almería", "Granada"],
+      "detour_km": 20,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "White Village",
+      "tags": ["white_village", "hilltop", "coastal_views", "bohemian", "artists"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 35,
+        "min_buffer_minutes": 15
+      },
+      "road_context_tags": ["coastal_road", "scenic_drive", "parking_limited"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Charming hilltop village near the coast. Artist community."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Explore the whitewashed streets. Great views from the mirador."
+      }
+    },
+    {
+      "attraction_id": "n_jar_pottery_village",
+      "attraction_name": "Níjar Pottery Village",
+      "location": "Níjar",
+      "between_cities": ["Almería", "Cabo de Gata"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5,
+      "category": "Culture",
+      "subcategory": "Artisan Village",
+      "tags": ["pottery", "artisan", "traditional_crafts", "shopping", "local_crafts"],
+      "priority": 2,
+      "drive_impact": {
+        "extra_drive_minutes": 15,
+        "min_buffer_minutes": 10
+      },
+      "road_context_tags": ["easy_access", "well_signposted", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": false,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["All year"],
+        "avoid_months": [],
+        "notes": "Famous for traditional pottery and woven goods. Good year-round."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Buy handmade pottery and jarapas (woven blankets). Watch artisans at work."
+      }
+    },
+    {
+      "attraction_id": "alpujarras_villages_route",
+      "attraction_name": "Alpujarras Villages Route",
+      "location": "Las Alpujarras",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 45,
+      "recommended_stop_hours": 5,
+      "category": "Culture",
+      "subcategory": "Mountain Villages",
+      "tags": ["white_villages", "mountain_scenery", "berber_influence", "hiking", "full_day"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 90,
+        "min_buffer_minutes": 30
+      },
+      "road_context_tags": ["mountain_pass", "scenic_drive", "winding_roads", "challenging_drive"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": false,
+        "photography_spot": true,
+        "rainy_day_ok": true
+      },
+      "seasonality": {
+        "best_months": ["March", "April", "May", "September", "October"],
+        "avoid_months": ["December", "January", "February"],
+        "notes": "Snow can close passes in winter. Spring wildflowers are spectacular."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Visit Pampaneira, Bubión, and Capileira. Allow full day. Unique mountain culture."
+      }
+    },
+    {
+      "attraction_id": "medina_azahara",
+      "attraction_name": "Medina Azahara",
+      "location": "Córdoba",
+      "between_cities": ["Córdoba", "Seville"],
+      "detour_km": 12,
+      "recommended_stop_hours": 2,
+      "category": "History",
+      "subcategory": "Archaeological Site",
+      "tags": ["unesco", "moorish", "archaeology", "palatial_city", "must_see"],
+      "priority": 1,
+      "drive_impact": {
+        "extra_drive_minutes": 20,
+        "min_buffer_minutes": 20
+      },
+      "road_context_tags": ["easy_access", "well_signposted", "parking_available"],
+      "suitability": {
+        "kids_friendly": true,
+        "seniors_friendly": true,
+        "wheelchair_friendly": true,
+        "photography_spot": true,
+        "rainy_day_ok": false
+      },
+      "seasonality": {
+        "best_months": ["October", "November", "March", "April", "May"],
+        "avoid_months": ["July", "August"],
+        "notes": "Very hot in summer with limited shade. UNESCO World Heritage Site."
+      },
+      "booking": {
+        "required": false,
+        "lead_time_days": 0,
+        "tip": "Free for EU citizens. Impressive Moorish palatial complex. Take bus from visitor center."
+      }
+    }
+  ]
+}

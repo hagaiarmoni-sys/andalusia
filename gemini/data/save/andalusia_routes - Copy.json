@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2025-10-18",
+    "total_routes": 34,
+    "description": "En-route attractions between major Andalusian cities. Reference attractions using attraction_id from the main attractions file.",
+    "usage": "Use this file to find attractions that can be visited while traveling between cities. Each route specifies detour distance and recommended stop duration."
+  },
+  "routes": [
+    {
+      "attraction_id": "italica_roman_ruins",
+      "attraction_name": "Italica Roman Ruins",
+      "location": "Santiponce",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2.5
+    },
+    {
+      "attraction_id": "caminito_del_rey",
+      "attraction_name": "Caminito del Rey",
+      "location": "El Chorro",
+      "between_cities": ["Málaga", "Granada", "Ronda"],
+      "detour_km": 25,
+      "recommended_stop_hours": 3
+    },
+    {
+      "attraction_id": "arcos_de_la_frontera",
+      "attraction_name": "Arcos de la Frontera",
+      "location": "Arcos de la Frontera",
+      "between_cities": ["Jerez", "Ronda"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "setenil_de_las_bodegas",
+      "attraction_name": "Setenil de las Bodegas",
+      "location": "Setenil de las Bodegas",
+      "between_cities": ["Ronda", "Granada"],
+      "detour_km": 18,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "zahara_de_la_sierra",
+      "attraction_name": "Zahara de la Sierra",
+      "location": "Zahara de la Sierra",
+      "between_cities": ["Ronda", "Grazalema"],
+      "detour_km": 20,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "grazalema_village",
+      "attraction_name": "Grazalema Village",
+      "location": "Grazalema",
+      "between_cities": ["Ronda", "Jerez"],
+      "detour_km": 25,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "vejer_de_la_frontera",
+      "attraction_name": "Vejer de la Frontera",
+      "location": "Vejer de la Frontera",
+      "between_cities": ["Cádiz", "Tarifa"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "olvera",
+      "attraction_name": "Olvera",
+      "location": "Olvera",
+      "between_cities": ["Ronda", "Seville"],
+      "detour_km": 22,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "frigiliana",
+      "attraction_name": "Frigiliana",
+      "location": "Frigiliana",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "bodegas_alvear",
+      "attraction_name": "Bodegas Alvear",
+      "location": "Montilla",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "bodegas_p_rez_barquero",
+      "attraction_name": "Bodegas Pérez Barquero",
+      "location": "Montilla",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "do_ana_national_park",
+      "attraction_name": "Doñana National Park",
+      "location": "Huelva",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 35,
+      "recommended_stop_hours": 5
+    },
+    {
+      "attraction_id": "el_torcal_de_antequera",
+      "attraction_name": "El Torcal de Antequera",
+      "location": "Antequera",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2.5
+    },
+    {
+      "attraction_id": "antequera_dolmens",
+      "attraction_name": "Antequera Dolmens",
+      "location": "Antequera",
+      "between_cities": ["Málaga", "Granada"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "sierra_de_grazalema_natural_park",
+      "attraction_name": "Sierra de Grazalema Natural Park",
+      "location": "Grazalema",
+      "between_cities": ["Ronda", "Jerez"],
+      "detour_km": 28,
+      "recommended_stop_hours": 4
+    },
+    {
+      "attraction_id": "los_alcornocales_natural_park",
+      "attraction_name": "Los Alcornocales Natural Park",
+      "location": "Jimena de la Frontera",
+      "between_cities": ["Ronda", "Gibraltar", "Tarifa"],
+      "detour_km": 20,
+      "recommended_stop_hours": 3
+    },
+    {
+      "attraction_id": "playa_de_los_muertos",
+      "attraction_name": "Playa de los Muertos",
+      "location": "Carboneras",
+      "between_cities": ["Almería", "Nerja"],
+      "detour_km": 18,
+      "recommended_stop_hours": 2.5
+    },
+    {
+      "attraction_id": "olive_oil_mill_tour_hacienda_guzm_n",
+      "attraction_name": "Olive Oil Mill Tour - Hacienda Guzmán",
+      "location": "La Rinconada",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "castillo_de_almod_var_del_r_o",
+      "attraction_name": "Castillo de Almodóvar del Río",
+      "location": "Almodóvar del Río",
+      "between_cities": ["Córdoba", "Seville"],
+      "detour_km": 12,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "laguna_de_fuente_de_piedra",
+      "attraction_name": "Laguna de Fuente de Piedra",
+      "location": "Fuente de Piedra",
+      "between_cities": ["Málaga", "Antequera", "Granada"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "priego_de_c_rdoba",
+      "attraction_name": "Priego de Córdoba",
+      "location": "Priego de Córdoba",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 20,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "zuheros_village_castle",
+      "attraction_name": "Zuheros Village & Castle",
+      "location": "Zuheros",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 25,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "cueva_de_los_murci_lagos",
+      "attraction_name": "Cueva de los Murciélagos",
+      "location": "Zuheros",
+      "between_cities": ["Córdoba", "Granada"],
+      "detour_km": 25,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "osuna_historic_town",
+      "attraction_name": "Osuna Historic Town",
+      "location": "Osuna",
+      "between_cities": ["Seville", "Málaga"],
+      "detour_km": 15,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "_cija_city_of_towers",
+      "attraction_name": "Écija - City of Towers",
+      "location": "Écija",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 5,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "carmona_historic_town",
+      "attraction_name": "Carmona Historic Town",
+      "location": "Carmona",
+      "between_cities": ["Seville", "Córdoba"],
+      "detour_km": 8,
+      "recommended_stop_hours": 2
+    },
+    {
+      "attraction_id": "aracena_castle_grotto",
+      "attraction_name": "Aracena Castle & Grotto",
+      "location": "Aracena",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 35,
+      "recommended_stop_hours": 3
+    },
+    {
+      "attraction_id": "jabugo_ham_museum_tasting",
+      "attraction_name": "Jabugo Ham Museum & Tasting",
+      "location": "Jabugo",
+      "between_cities": ["Seville", "Huelva"],
+      "detour_km": 40,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "guadix_cave_houses",
+      "attraction_name": "Guadix Cave Houses",
+      "location": "Guadix",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 5,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "tabernas_desert",
+      "attraction_name": "Tabernas Desert",
+      "location": "Tabernas",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 10,
+      "recommended_stop_hours": 2.5
+    },
+    {
+      "attraction_id": "moj_car_pueblo",
+      "attraction_name": "Mojácar Pueblo",
+      "location": "Mojácar",
+      "between_cities": ["Almería", "Granada"],
+      "detour_km": 20,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "n_jar_pottery_village",
+      "attraction_name": "Níjar Pottery Village",
+      "location": "Níjar",
+      "between_cities": ["Almería", "Cabo de Gata"],
+      "detour_km": 8,
+      "recommended_stop_hours": 1.5
+    },
+    {
+      "attraction_id": "alpujarras_villages_route",
+      "attraction_name": "Alpujarras Villages Route",
+      "location": "Las Alpujarras",
+      "between_cities": ["Granada", "Almería"],
+      "detour_km": 45,
+      "recommended_stop_hours": 5
+    },
+    {
+      "attraction_id": "medina_azahara",
+      "attraction_name": "Medina Azahara",
+      "location": "Córdoba",
+      "between_cities": ["Córdoba", "Seville"],
+      "detour_km": 12,
+      "recommended_stop_hours": 2
+    }
+  ]
+}

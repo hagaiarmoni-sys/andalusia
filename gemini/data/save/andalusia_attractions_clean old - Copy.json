@@ -1,0 +1,2907 @@
+{
+  "metadata": {
+    "version": "2.1",
+    "last_updated": "2025-10-06",
+    "total_attractions": 131,
+    "cities_covered": [
+      "Seville",
+      "Granada",
+      "Córdoba",
+      "Málaga",
+      "Ronda",
+      "Cádiz",
+      "Nerja",
+      "Tarifa",
+      "Jerez",
+      "Antequera",
+      "Úbeda",
+      "Baeza",
+      "Marbella",
+      "Gibraltar"
+    ],
+    "categories": [
+      "Historical Sites",
+      "Museums",
+      "Natural Parks",
+      "Beaches",
+      "Architecture",
+      "Cultural Shows",
+      "White Villages",
+      "Adventure"
+    ]
+  },
+  "attractions": [
+    {
+      "name": "Real Alcázar Sevilla",
+      "city": "Seville",
+      "category": "Palace & Gardens",
+      "rating": 9.5,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 37.3832,
+        "lng": -5.9902
+      },
+      "description": "Moorish-Christian palace with lush patios",
+      "entrance_fee": "€14.50",
+      "advance_booking": true,
+      "tags": [
+        "Palace",
+        "Gardens",
+        "UNESCO"
+      ],
+      "id": "real_alcazar_sevilla"
+    },
+    {
+      "name": "Seville Cathedral & Giralda",
+      "city": "Seville",
+      "category": "Cathedral",
+      "rating": 9.5,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.3857,
+        "lng": -5.9932
+      },
+      "description": "World's largest Gothic cathedral",
+      "entrance_fee": "€11.50",
+      "advance_booking": true,
+      "tags": [
+        "Cathedral",
+        "Tower",
+        "Views"
+      ],
+      "id": "seville_cathedral___giralda"
+    },
+    {
+      "name": "Plaza de España",
+      "city": "Seville",
+      "category": "Landmark",
+      "rating": 9.5,
+      "visit_duration_hours": 1.2,
+      "coordinates": {
+        "lat": 37.377,
+        "lng": -5.9869
+      },
+      "description": "Iconic semicircular plaza",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Landmark",
+        "Photography"
+      ],
+      "id": "plaza_de_espana"
+    },
+    {
+      "name": "Barrio Santa Cruz",
+      "city": "Seville",
+      "category": "Historic Quarter",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.3862,
+        "lng": -5.9916
+      },
+      "description": "Former Jewish quarter",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Quarter"
+      ],
+      "id": "barrio_santa_cruz"
+    },
+    {
+      "name": "Metropol Parasol",
+      "city": "Seville",
+      "category": "Architecture",
+      "rating": 8.9,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 37.3931,
+        "lng": -5.9919
+      },
+      "description": "Modern wooden structure",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Architecture",
+        "Views"
+      ],
+      "id": "metropol_parasol"
+    },
+    {
+      "name": "Triana Neighborhood",
+      "city": "Seville",
+      "category": "Neighborhood",
+      "rating": 9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.384,
+        "lng": -6.0029
+      },
+      "description": "Traditional flamenco neighborhood",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Flamenco",
+        "Authentic"
+      ],
+      "id": "triana_neighborhood"
+    },
+    {
+      "name": "Casa de Pilatos",
+      "city": "Seville",
+      "category": "Palace",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.3919,
+        "lng": -5.9871
+      },
+      "description": "Renaissance-Mudéjar palace",
+      "entrance_fee": "€10",
+      "advance_booking": false,
+      "tags": [
+        "Palace",
+        "Architecture"
+      ],
+      "id": "casa_de_pilatos"
+    },
+    {
+      "name": "Torre del Oro",
+      "city": "Seville",
+      "category": "Monument",
+      "rating": 8.3,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 37.3825,
+        "lng": -5.9962
+      },
+      "description": "13th-century watchtower",
+      "entrance_fee": "€3",
+      "advance_booking": false,
+      "tags": [
+        "Monument",
+        "Maritime"
+      ],
+      "id": "torre_del_oro"
+    },
+    {
+      "name": "María Luisa Park",
+      "city": "Seville",
+      "category": "Park",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.3771,
+        "lng": -5.9872
+      },
+      "description": "Landscaped park with pavilions",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Park",
+        "Nature"
+      ],
+      "id": "maria_luisa_park"
+    },
+    {
+      "name": "Flamenco Museum",
+      "city": "Seville",
+      "category": "Museum",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.3886,
+        "lng": -5.9923
+      },
+      "description": "Flamenco history & culture",
+      "entrance_fee": "€10",
+      "advance_booking": true,
+      "tags": [
+        "Museum",
+        "Flamenco",
+        "Show"
+      ],
+      "id": "flamenco_museum"
+    },
+    {
+      "name": "Alhambra",
+      "city": "Granada",
+      "category": "Palace/Fortress",
+      "rating": 9.8,
+      "visit_duration_hours": 5,
+      "coordinates": {
+        "lat": 37.1761,
+        "lng": -3.5882
+      },
+      "description": "Crown jewel of Moorish Spain",
+      "entrance_fee": "€14-19",
+      "advance_booking": true,
+      "tags": [
+        "Palace",
+        "UNESCO",
+        "Must-see"
+      ],
+      "id": "alhambra"
+    },
+    {
+      "name": "Generalife Gardens",
+      "city": "Granada",
+      "category": "Gardens",
+      "rating": 9.4,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1778,
+        "lng": -3.5847
+      },
+      "description": "Spectacular Islamic gardens",
+      "entrance_fee": "Included with Alhambra",
+      "advance_booking": true,
+      "tags": [
+        "Gardens",
+        "Views"
+      ],
+      "id": "generalife_gardens"
+    },
+    {
+      "name": "Albaicín Quarter",
+      "city": "Granada",
+      "category": "Historic Quarter",
+      "rating": 9.5,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.1814,
+        "lng": -3.5936
+      },
+      "description": "UNESCO Moorish quarter",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Historic",
+        "Views"
+      ],
+      "id": "albaicin_quarter"
+    },
+    {
+      "name": "Mirador San Nicolás",
+      "city": "Granada",
+      "category": "Viewpoint",
+      "rating": 9,
+      "visit_duration_hours": 0.5,
+      "coordinates": {
+        "lat": 37.1814,
+        "lng": -3.5939
+      },
+      "description": "Famous Alhambra viewpoint",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Views",
+        "Sunset",
+        "Photography"
+      ],
+      "id": "mirador_san_nicolas"
+    },
+    {
+      "name": "Granada Cathedral",
+      "city": "Granada",
+      "category": "Cathedral",
+      "rating": 8.3,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1759,
+        "lng": -3.5986
+      },
+      "description": "Renaissance cathedral",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Cathedral",
+        "Architecture"
+      ],
+      "id": "granada_cathedral"
+    },
+    {
+      "name": "Royal Chapel",
+      "city": "Granada",
+      "category": "Historical",
+      "rating": 8.5,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 37.1759,
+        "lng": -3.5986
+      },
+      "description": "Tomb of Catholic Monarchs",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Royal",
+        "History"
+      ],
+      "id": "royal_chapel"
+    },
+    {
+      "name": "Sacromonte Abbey",
+      "city": "Granada",
+      "category": "Monastery",
+      "rating": 8.3,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.1832,
+        "lng": -3.5847
+      },
+      "description": "Historic abbey with cave churches",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Monastery",
+        "Caves"
+      ],
+      "id": "sacromonte_abbey"
+    },
+    {
+      "name": "Science Park Granada",
+      "city": "Granada",
+      "category": "Museum",
+      "rating": 8.9,
+      "visit_duration_hours": 4,
+      "coordinates": {
+        "lat": 37.1702,
+        "lng": -3.6072
+      },
+      "description": "Interactive science museum",
+      "entrance_fee": "€7",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Family"
+      ],
+      "id": "science_park_granada"
+    },
+    {
+      "name": "Carmen Mártires",
+      "city": "Granada",
+      "category": "Garden",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1728,
+        "lng": -3.5907
+      },
+      "description": "Romantic 19th-century gardens",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Garden",
+        "Views"
+      ],
+      "id": "carmen_martires"
+    },
+    {
+      "name": "Hammam Al Ándalus",
+      "city": "Granada",
+      "category": "Spa",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1775,
+        "lng": -3.5906
+      },
+      "description": "Traditional Arab baths",
+      "entrance_fee": "€35",
+      "advance_booking": true,
+      "tags": [
+        "Spa",
+        "Wellness"
+      ],
+      "id": "hammam_al_andalus"
+    },
+    {
+      "name": "Mezquita-Cathedral",
+      "city": "Córdoba",
+      "category": "Mosque-Cathedral",
+      "rating": 9.7,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.8785,
+        "lng": -4.7794
+      },
+      "description": "Unique mosque-cathedral with horseshoe arches",
+      "entrance_fee": "€13",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Mosque",
+        "Cathedral"
+      ],
+      "id": "mezquita_cathedral"
+    },
+    {
+      "name": "Jewish Quarter",
+      "city": "Córdoba",
+      "category": "Historic Quarter",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.8785,
+        "lng": -4.7794
+      },
+      "description": "Medieval Jewish quarter",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Jewish",
+        "Historic"
+      ],
+      "id": "jewish_quarter"
+    },
+    {
+      "name": "Alcázar Reyes Cristianos",
+      "city": "Córdoba",
+      "category": "Palace",
+      "rating": 8.3,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.8758,
+        "lng": -4.7831
+      },
+      "description": "Fortress with beautiful gardens",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Palace",
+        "Gardens"
+      ],
+      "id": "alcazar_reyes_cristianos"
+    },
+    {
+      "name": "Roman Bridge",
+      "city": "Córdoba",
+      "category": "Historical",
+      "rating": 8.3,
+      "visit_duration_hours": 0.5,
+      "coordinates": {
+        "lat": 37.8741,
+        "lng": -4.7794
+      },
+      "description": "Ancient Roman bridge",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Roman",
+        "Bridge",
+        "Views"
+      ],
+      "id": "roman_bridge"
+    },
+    {
+      "name": "Patios of Córdoba",
+      "city": "Córdoba",
+      "category": "Cultural Heritage",
+      "rating": 9.5,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.88,
+        "lng": -4.775
+      },
+      "description": "UNESCO Intangible Heritage courtyards",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Patios",
+        "Flowers"
+      ],
+      "id": "patios_of_cordoba"
+    },
+    {
+      "name": "Calleja de las Flores",
+      "city": "Córdoba",
+      "category": "Street",
+      "rating": 8.3,
+      "visit_duration_hours": 0.3,
+      "coordinates": {
+        "lat": 37.8788,
+        "lng": -4.7797
+      },
+      "description": "Flowered lane with Mezquita view",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Photography",
+        "Flowers"
+      ],
+      "id": "calleja_de_las_flores"
+    },
+    {
+      "name": "Viana Palace",
+      "city": "Córdoba",
+      "category": "Palace",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.8843,
+        "lng": -4.7726
+      },
+      "description": "Palace with 12 different patios",
+      "entrance_fee": "€8",
+      "advance_booking": false,
+      "tags": [
+        "Palace",
+        "Patios"
+      ],
+      "id": "viana_palace"
+    },
+    {
+      "name": "Medina Azahara",
+      "city": "Córdoba",
+      "category": "Archaeology",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.8919,
+        "lng": -4.8639
+      },
+      "description": "UNESCO ruins of caliphate capital",
+      "entrance_fee": "€1.50",
+      "advance_booking": true,
+      "tags": [
+        "UNESCO",
+        "Ruins"
+      ],
+      "id": "medina_azahara"
+    },
+    {
+      "name": "Alcazaba Málaga",
+      "city": "Málaga",
+      "category": "Fortress",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.7195,
+        "lng": -4.4155
+      },
+      "description": "11th-century hilltop fortress",
+      "entrance_fee": "€3.50",
+      "advance_booking": false,
+      "tags": [
+        "Fortress",
+        "Views"
+      ],
+      "id": "alcazaba_malaga"
+    },
+    {
+      "name": "Gibralfaro Castle",
+      "city": "Málaga",
+      "category": "Castle",
+      "rating": 8.9,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7208,
+        "lng": -4.4097
+      },
+      "description": "14th-century castle with panoramic views",
+      "entrance_fee": "€3.50",
+      "advance_booking": false,
+      "tags": [
+        "Castle",
+        "Views"
+      ],
+      "id": "gibralfaro_castle"
+    },
+    {
+      "name": "Picasso Museum",
+      "city": "Málaga",
+      "category": "Museum",
+      "rating": 8.9,
+      "visit_duration_hours": 1.3,
+      "coordinates": {
+        "lat": 36.7212,
+        "lng": -4.4182
+      },
+      "description": "Birthplace museum with 200+ works",
+      "entrance_fee": "€9",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Art",
+        "Picasso"
+      ],
+      "id": "picasso_museum"
+    },
+    {
+      "name": "Roman Theatre",
+      "city": "Málaga",
+      "category": "Ruins",
+      "rating": 8.3,
+      "visit_duration_hours": 0.5,
+      "coordinates": {
+        "lat": 36.719,
+        "lng": -4.4163
+      },
+      "description": "Well-preserved 1st-century theatre",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Roman",
+        "Ruins",
+        "Free"
+      ],
+      "id": "roman_theatre"
+    },
+    {
+      "name": "Málaga Cathedral",
+      "city": "Málaga",
+      "category": "Cathedral",
+      "rating": 8.3,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.7201,
+        "lng": -4.4199
+      },
+      "description": "Renaissance cathedral La Manquita",
+      "entrance_fee": "€6",
+      "advance_booking": false,
+      "tags": [
+        "Cathedral",
+        "Architecture"
+      ],
+      "id": "malaga_cathedral"
+    },
+    {
+      "name": "Carmen Thyssen Museum",
+      "city": "Málaga",
+      "category": "Museum",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.7199,
+        "lng": -4.4204
+      },
+      "description": "19th-century Spanish art",
+      "entrance_fee": "€10",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Art"
+      ],
+      "id": "carmen_thyssen_museum"
+    },
+    {
+      "name": "Centre Pompidou",
+      "city": "Málaga",
+      "category": "Museum",
+      "rating": 8.3,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.7175,
+        "lng": -4.4203
+      },
+      "description": "Modern & contemporary art",
+      "entrance_fee": "€9",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Modern Art"
+      ],
+      "id": "centre_pompidou"
+    },
+    {
+      "name": "Atarazanas Market",
+      "city": "Málaga",
+      "category": "Market",
+      "rating": 8.9,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7197,
+        "lng": -4.422
+      },
+      "description": "Historic covered market",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Market",
+        "Food"
+      ],
+      "id": "atarazanas_market"
+    },
+    {
+      "name": "Malagueta Beach",
+      "city": "Málaga",
+      "category": "Beach",
+      "rating": 8.3,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 36.7158,
+        "lng": -4.4042
+      },
+      "description": "Main city beach",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "City"
+      ],
+      "id": "malagueta_beach"
+    },
+    {
+      "name": "Caminito del Rey",
+      "city": "El Chorro",
+      "category": "Hike",
+      "rating": 9.5,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 36.9103,
+        "lng": -4.7697
+      },
+      "description": "Famous clifftop boardwalk",
+      "entrance_fee": "€10",
+      "advance_booking": true,
+      "tags": [
+        "Hike",
+        "Adventure",
+        "Must-book"
+      ],
+      "id": "caminito_del_rey"
+    },
+    {
+      "name": "Puente Nuevo",
+      "city": "Ronda",
+      "category": "Bridge",
+      "rating": 9.5,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.7425,
+        "lng": -5.1656
+      },
+      "description": "Iconic bridge spanning 150m gorge",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Bridge",
+        "Icon",
+        "Photography"
+      ],
+      "id": "puente_nuevo"
+    },
+    {
+      "name": "Ronda Bullring",
+      "city": "Ronda",
+      "category": "Bullring",
+      "rating": 8.9,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7409,
+        "lng": -5.1627
+      },
+      "description": "One of Spain's oldest bullrings",
+      "entrance_fee": "€8",
+      "advance_booking": false,
+      "tags": [
+        "Bullring",
+        "Museum"
+      ],
+      "id": "ronda_bullring"
+    },
+    {
+      "name": "Arab Baths Ronda",
+      "city": "Ronda",
+      "category": "Historical",
+      "rating": 8.3,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7391,
+        "lng": -5.1668
+      },
+      "description": "13th-century Moorish baths",
+      "entrance_fee": "€4",
+      "advance_booking": false,
+      "tags": [
+        "Moorish",
+        "Baths"
+      ],
+      "id": "arab_baths_ronda"
+    },
+    {
+      "name": "Alameda del Tajo",
+      "city": "Ronda",
+      "category": "Park",
+      "rating": 8.3,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7415,
+        "lng": -5.1645
+      },
+      "description": "Clifftop gardens with views",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Park",
+        "Views"
+      ],
+      "id": "alameda_del_tajo"
+    },
+    {
+      "name": "Nerja Caves",
+      "city": "Nerja",
+      "category": "Caves",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.7611,
+        "lng": -3.8422
+      },
+      "description": "Prehistoric caves with stalactites",
+      "entrance_fee": "€10",
+      "advance_booking": true,
+      "tags": [
+        "Caves",
+        "Prehistoric"
+      ],
+      "id": "nerja_caves"
+    },
+    {
+      "name": "Balcón de Europa",
+      "city": "Nerja",
+      "category": "Viewpoint",
+      "rating": 8.9,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.7519,
+        "lng": -3.8736
+      },
+      "description": "Palm-lined coastal promenade",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Viewpoint",
+        "Mediterranean"
+      ],
+      "id": "balcon_de_europa"
+    },
+    {
+      "name": "Cádiz Cathedral",
+      "city": "Cádiz",
+      "category": "Cathedral",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.5286,
+        "lng": -6.2934
+      },
+      "description": "Baroque cathedral with golden dome",
+      "entrance_fee": "€7",
+      "advance_booking": false,
+      "tags": [
+        "Cathedral",
+        "Views"
+      ],
+      "id": "cadiz_cathedral"
+    },
+    {
+      "name": "La Caleta Beach",
+      "city": "Cádiz",
+      "category": "Beach",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.5258,
+        "lng": -6.3158
+      },
+      "description": "Picturesque beach between castles",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "Sunset"
+      ],
+      "id": "la_caleta_beach"
+    },
+    {
+      "name": "Castillo de San Sebastián",
+      "city": "Cádiz",
+      "category": "Fortress",
+      "rating": 8.3,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.525,
+        "lng": -6.318
+      },
+      "description": "Island fortress at La Caleta Beach end",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Fortress",
+        "Views"
+      ],
+      "id": "castillo_de_san_sebastian"
+    },
+    {
+      "name": "Arco de la Rosa",
+      "city": "Cádiz",
+      "category": "Monument",
+      "rating": 8.3,
+      "visit_duration_hours": 0.5,
+      "coordinates": {
+        "lat": 36.528,
+        "lng": -6.294
+      },
+      "description": "Old city gate near the Cathedral",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Arch"
+      ],
+      "id": "arco_de_la_rosa"
+    },
+    {
+      "name": "Playa de Bolonia",
+      "city": "Tarifa",
+      "category": "Beach",
+      "rating": 9.5,
+      "visit_duration_hours": 4,
+      "coordinates": {
+        "lat": 36.0827,
+        "lng": -5.787
+      },
+      "description": "Wild, beautiful beach with Roman ruins",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "Nature",
+        "Ruins"
+      ],
+      "id": "playa_de_bolonia"
+    },
+    {
+      "name": "Punta Paloma Dune",
+      "city": "Tarifa",
+      "category": "Nature",
+      "rating": 9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.027,
+        "lng": -5.698
+      },
+      "description": "Massive moving sand dune",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Dune",
+        "Nature"
+      ],
+      "id": "punta_paloma_dune"
+    },
+    {
+      "name": "Arcos de la Frontera",
+      "city": "Arcos",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.7555,
+        "lng": -5.8069
+      },
+      "description": "Dramatic white village on cliff",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Views"
+      ],
+      "id": "arcos_de_la_frontera"
+    },
+    {
+      "name": "Setenil de las Bodegas",
+      "city": "Setenil",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.8606,
+        "lng": -5.1806
+      },
+      "description": "Village built into rock overhangs",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Unique"
+      ],
+      "id": "setenil_de_las_bodegas"
+    },
+    {
+      "name": "Zahara de la Sierra",
+      "city": "Zahara",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.8358,
+        "lng": -5.3922
+      },
+      "description": "Lakeside white village with castle",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Lake"
+      ],
+      "id": "zahara_de_la_sierra"
+    },
+    {
+      "name": "Grazalema",
+      "city": "Grazalema",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.7583,
+        "lng": -5.3917
+      },
+      "description": "Mountain village in natural park",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Nature"
+      ],
+      "id": "grazalema"
+    },
+    {
+      "name": "Vejer de la Frontera",
+      "city": "Vejer",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.2519,
+        "lng": -5.9658
+      },
+      "description": "Hilltop white village near coast",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Hilltop"
+      ],
+      "id": "vejer_de_la_frontera"
+    },
+    {
+      "name": "Equestrian School Jerez",
+      "city": "Jerez",
+      "category": "Show",
+      "rating": 9.5,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.6924,
+        "lng": -6.1412
+      },
+      "description": "World-renowned horse dancing shows",
+      "entrance_fee": "€25-35",
+      "advance_booking": true,
+      "tags": [
+        "Show",
+        "Horses"
+      ],
+      "id": "equestrian_school_jerez"
+    },
+    {
+      "name": "Sherry Bodegas",
+      "city": "Jerez",
+      "category": "Winery",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.6823,
+        "lng": -6.1368
+      },
+      "description": "Traditional sherry wine cellars",
+      "entrance_fee": "€15-25",
+      "advance_booking": true,
+      "tags": [
+        "Wine",
+        "Tasting"
+      ],
+      "id": "sherry_bodegas"
+    },
+    {
+      "name": "Doñana National Park",
+      "city": "Huelva",
+      "category": "Nature",
+      "rating": 9.5,
+      "visit_duration_hours": 8,
+      "coordinates": {
+        "lat": 37.0067,
+        "lng": -6.45
+      },
+      "description": "UNESCO wetlands, bird migration site",
+      "entrance_fee": "€30",
+      "advance_booking": true,
+      "tags": [
+        "UNESCO",
+        "Nature",
+        "Birds"
+      ],
+      "id": "donana_national_park"
+    },
+    {
+      "name": "Cabo de Gata",
+      "city": "Almería",
+      "category": "Nature",
+      "rating": 9.5,
+      "visit_duration_hours": 6,
+      "coordinates": {
+        "lat": 36.7983,
+        "lng": -2.1536
+      },
+      "description": "Protected volcanic landscape",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Beach",
+        "Volcanic"
+      ],
+      "id": "cabo_de_gata"
+    },
+    {
+      "name": "El Torcal Antequera",
+      "city": "Antequera",
+      "category": "Nature",
+      "rating": 8.9,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 37.0194,
+        "lng": -4.5439
+      },
+      "description": "Spectacular limestone formations",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Geology",
+        "Hike"
+      ],
+      "id": "el_torcal_antequera"
+    },
+    {
+      "name": "Antequera Dolmens",
+      "city": "Antequera",
+      "category": "Archaeology",
+      "rating": 8.3,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.0236,
+        "lng": -4.5619
+      },
+      "description": "UNESCO Neolithic burial monuments",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Prehistoric",
+        "Free"
+      ],
+      "id": "antequera_dolmens"
+    },
+    {
+      "name": "Úbeda Historic Center",
+      "city": "Úbeda",
+      "category": "UNESCO Town",
+      "rating": 8.9,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 38.0139,
+        "lng": -3.3706
+      },
+      "description": "UNESCO Renaissance town",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Renaissance"
+      ],
+      "id": "ubeda_historic_center"
+    },
+    {
+      "name": "Baeza Historic Center",
+      "city": "Baeza",
+      "category": "UNESCO Town",
+      "rating": 8.3,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.9933,
+        "lng": -3.4739
+      },
+      "description": "UNESCO Renaissance town",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Renaissance"
+      ],
+      "id": "baeza_historic_center"
+    },
+    {
+      "name": "Puerto Banús Marina",
+      "city": "Marbella",
+      "category": "Harbor/Marina",
+      "rating": 8.5,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.4883,
+        "lng": -4.9531
+      },
+      "description": "Luxury marina with designer shops and yachts",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Luxury",
+        "Shopping",
+        "Marina"
+      ],
+      "id": "puerto_banus_marina"
+    },
+    {
+      "name": "Marbella Old Town",
+      "city": "Marbella",
+      "category": "Historic Quarter",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.511,
+        "lng": -4.883
+      },
+      "description": "Charming, flower-filled historic center (Casco Antiguo)",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Charming"
+      ],
+      "id": "marbella_old_town"
+    },
+    {
+      "name": "Rock of Gibraltar Cable Car",
+      "city": "Gibraltar",
+      "category": "Viewpoint/Attraction",
+      "rating": 9.0,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 36.1387,
+        "lng": -5.3529
+      },
+      "description": "Ride to the top of the Rock for views and monkeys",
+      "entrance_fee": "£22 (Return + Reserve)",
+      "advance_booking": false,
+      "tags": [
+        "Views",
+        "Nature",
+        "Wildlife"
+      ],
+      "id": "rock_of_gibraltar_cable_car"
+    },
+    {
+      "name": "St. Michael's Cave",
+      "city": "Gibraltar",
+      "category": "Caves",
+      "rating": 8.5,
+      "visit_duration_hours": 1,
+      "coordinates": {
+        "lat": 36.1311,
+        "lng": -5.3516
+      },
+      "description": "Natural grotto used for concerts",
+      "entrance_fee": "Included in Nature Reserve Ticket",
+      "advance_booking": false,
+      "tags": [
+        "Caves",
+        "Geology"
+      ],
+      "id": "st__michael_s_cave"
+    },
+    {
+      "name": "Gibraltar Tunnels",
+      "city": "Gibraltar",
+      "category": "Historical",
+      "rating": 8.0,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.1415,
+        "lng": -5.352
+      },
+      "description": "Great Siege Tunnels and WWII Tunnels",
+      "entrance_fee": "Included in Nature Reserve Ticket",
+      "advance_booking": false,
+      "tags": [
+        "History",
+        "Tunnels"
+      ],
+      "id": "gibraltar_tunnels"
+    },
+    {
+      "name": "Grazalema Village",
+      "city": "Grazalema",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.7583,
+        "lng": -5.3917
+      },
+      "description": "Mountain village in natural park with traditional architecture",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Nature",
+        "Hiking"
+      ],
+      "id": "grazalema_village"
+    },
+    {
+      "name": "Zahara de la Sierra Castle & Lake",
+      "city": "Zahara de la Sierra",
+      "category": "White Village/Castle",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.8358,
+        "lng": -5.3922
+      },
+      "description": "Lakeside white village with hilltop Moorish castle ruins",
+      "entrance_fee": "€2 (castle)",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Castle",
+        "Lake"
+      ],
+      "id": "zahara_de_la_sierra_castle___lake"
+    },
+    {
+      "name": "Setenil de las Bodegas",
+      "city": "Setenil de las Bodegas",
+      "category": "White Village",
+      "rating": 9.2,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.8606,
+        "lng": -5.1806
+      },
+      "description": "Unique village built into and under massive rock overhangs",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Unique",
+        "Photography"
+      ],
+      "id": "setenil_de_las_bodegas"
+    },
+    {
+      "name": "Vejer de la Frontera",
+      "city": "Vejer de la Frontera",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.2519,
+        "lng": -5.9658
+      },
+      "description": "Hilltop Moorish village with labyrinthine streets near coast",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Moorish",
+        "Historic"
+      ],
+      "id": "vejer_de_la_frontera"
+    },
+    {
+      "name": "Marbella Old Town (Casco Antiguo)",
+      "city": "Marbella",
+      "category": "Historic Quarter",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.511,
+        "lng": -4.883
+      },
+      "description": "Charming whitewashed old town with orange trees and Plaza de los Naranjos",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Charming",
+        "Photography"
+      ],
+      "id": "marbella_old_town__casco_antiguo"
+    },
+    {
+      "name": "Puerto Banús Marina",
+      "city": "Marbella",
+      "category": "Harbor/Marina",
+      "rating": 8.5,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.4883,
+        "lng": -4.9531
+      },
+      "description": "Luxury marina with superyachts, designer boutiques and restaurants",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Luxury",
+        "Marina",
+        "Shopping"
+      ],
+      "id": "puerto_banus_marina"
+    },
+    {
+      "name": "Nagüeles Beach",
+      "city": "Marbella",
+      "category": "Beach",
+      "rating": 8.6,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 36.5012,
+        "lng": -4.9123
+      },
+      "description": "Golden Mile beach with beach clubs and mountain views",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "Luxury",
+        "Golden Mile"
+      ],
+      "id": "nagueles_beach"
+    },
+    {
+      "name": "Estepona Old Town & Murals",
+      "city": "Estepona",
+      "category": "Historic Quarter/Art",
+      "rating": 8.7,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.4267,
+        "lng": -5.1489
+      },
+      "description": "Charming old town famous for colorful street art murals",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Art",
+        "Murals"
+      ],
+      "id": "estepona_old_town___murals"
+    },
+    {
+      "name": "Orchid House (Orquidario)",
+      "city": "Estepona",
+      "category": "Botanical",
+      "rating": 8.8,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.4245,
+        "lng": -5.1512
+      },
+      "description": "Europe's largest orchid house with tropical botanical garden",
+      "entrance_fee": "€3",
+      "advance_booking": false,
+      "tags": [
+        "Botanical",
+        "Orchids",
+        "Tropical"
+      ],
+      "id": "orchid_house__orquidario"
+    },
+    {
+      "name": "Cabo de Gata Natural Park",
+      "city": "Almería",
+      "category": "Nature/Beach",
+      "rating": 9.5,
+      "visit_duration_hours": 6.0,
+      "coordinates": {
+        "lat": 36.7983,
+        "lng": -2.1536
+      },
+      "description": "Protected volcanic coastal park with pristine beaches and dramatic cliffs",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Beach",
+        "Volcanic"
+      ],
+      "id": "cabo_de_gata_natural_park"
+    },
+    {
+      "name": "Playa de los Muertos",
+      "city": "Carboneras",
+      "category": "Beach",
+      "rating": 9.2,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 36.9789,
+        "lng": -1.8967
+      },
+      "description": "Stunning turquoise-water beach flanked by cliffs",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "Crystal Water",
+        "Natural"
+      ],
+      "id": "playa_de_los_muertos"
+    },
+    {
+      "name": "Almuñécar Castle",
+      "city": "Almuñécar",
+      "category": "Castle",
+      "rating": 8.5,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.7333,
+        "lng": -3.6833
+      },
+      "description": "Moorish castle overlooking Mediterranean coast and town",
+      "entrance_fee": "€2.35",
+      "advance_booking": false,
+      "tags": [
+        "Castle",
+        "Moorish",
+        "Views"
+      ],
+      "id": "almunecar_castle"
+    },
+    {
+      "name": "Palacio de Viana",
+      "city": "Córdoba",
+      "category": "Palace/Gardens",
+      "rating": 8.9,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.8843,
+        "lng": -4.7726
+      },
+      "description": "Renaissance palace famous for 12 beautiful courtyards and patios",
+      "entrance_fee": "€8",
+      "advance_booking": false,
+      "tags": [
+        "Palace",
+        "Patios",
+        "Gardens"
+      ],
+      "id": "palacio_de_viana"
+    },
+    {
+      "name": "Calahorra Tower & Bridge Museum",
+      "city": "Córdoba",
+      "category": "Museum/Tower",
+      "rating": 8.4,
+      "visit_duration_hours": 1.0,
+      "coordinates": {
+        "lat": 37.8741,
+        "lng": -4.7794
+      },
+      "description": "Medieval tower with museum about the Roman Bridge and three cultures",
+      "entrance_fee": "€4.50",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Tower",
+        "History"
+      ],
+      "id": "calahorra_tower___bridge_museum"
+    },
+    {
+      "name": "Córdoba Synagogue",
+      "city": "Córdoba",
+      "category": "Historical/Religious",
+      "rating": 8.6,
+      "visit_duration_hours": 0.5,
+      "coordinates": {
+        "lat": 37.8789,
+        "lng": -4.7801
+      },
+      "description": "One of only three medieval synagogues remaining in Spain",
+      "entrance_fee": "€0.30",
+      "advance_booking": false,
+      "tags": [
+        "Jewish",
+        "Historic",
+        "Synagogue"
+      ],
+      "id": "cordoba_synagogue"
+    },
+    {
+      "name": "Sacromonte Abbey & Caves",
+      "city": "Granada",
+      "category": "Monastery/Cultural",
+      "rating": 8.7,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.1832,
+        "lng": -3.5847
+      },
+      "description": "17th-century abbey with cave churches and Roma cave dwellings",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Monastery",
+        "Caves",
+        "Flamenco"
+      ],
+      "id": "sacromonte_abbey___caves"
+    },
+    {
+      "name": "Carmen de los Mártires",
+      "city": "Granada",
+      "category": "Gardens",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1728,
+        "lng": -3.5907
+      },
+      "description": "Romantic 19th-century gardens with Alhambra views, French and English styles",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Gardens",
+        "Romantic",
+        "Views"
+      ],
+      "id": "carmen_de_los_martires"
+    },
+    {
+      "name": "Hammam Al Ándalus Granada",
+      "city": "Granada",
+      "category": "Spa/Cultural",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.1775,
+        "lng": -3.5906
+      },
+      "description": "Traditional Arab baths experience with massage options",
+      "entrance_fee": "€35-60",
+      "advance_booking": true,
+      "tags": [
+        "Spa",
+        "Wellness",
+        "Arab Baths"
+      ],
+      "id": "hammam_al_andalus_granada"
+    },
+    {
+      "name": "Science Park Granada",
+      "city": "Granada",
+      "category": "Museum",
+      "rating": 8.8,
+      "visit_duration_hours": 3.5,
+      "coordinates": {
+        "lat": 37.1702,
+        "lng": -3.6072
+      },
+      "description": "Interactive science museum with planetarium, popular with families",
+      "entrance_fee": "€7",
+      "advance_booking": false,
+      "tags": [
+        "Museum",
+        "Family",
+        "Science"
+      ],
+      "id": "science_park_granada"
+    },
+    {
+      "name": "Hospital de los Venerables",
+      "city": "Seville",
+      "category": "Museum/Art",
+      "rating": 8.7,
+      "visit_duration_hours": 1.0,
+      "coordinates": {
+        "lat": 37.3864,
+        "lng": -5.9904
+      },
+      "description": "Baroque hospital with Velázquez paintings and beautiful courtyard",
+      "entrance_fee": "€10",
+      "advance_booking": false,
+      "tags": [
+        "Art",
+        "Baroque",
+        "Museum"
+      ],
+      "id": "hospital_de_los_venerables"
+    },
+    {
+      "name": "Archivo de Indias",
+      "city": "Seville",
+      "category": "Historical/UNESCO",
+      "rating": 8.5,
+      "visit_duration_hours": 1.0,
+      "coordinates": {
+        "lat": 37.3843,
+        "lng": -5.9927
+      },
+      "description": "UNESCO archive of Spanish Empire documents in Renaissance building",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "History",
+        "Archive"
+      ],
+      "id": "archivo_de_indias"
+    },
+    {
+      "name": "Italica Roman Ruins",
+      "city": "Santiponce (near Seville)",
+      "category": "Archaeological",
+      "rating": 9.0,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.4425,
+        "lng": -6.0456
+      },
+      "description": "Ancient Roman city birthplace of emperors Trajan and Hadrian with massive amphitheater",
+      "entrance_fee": "Free (EU citizens)",
+      "advance_booking": false,
+      "tags": [
+        "Roman",
+        "Ruins",
+        "Game of Thrones"
+      ],
+      "id": "italica_roman_ruins"
+    },
+    {
+      "name": "Metropol Parasol (Las Setas)",
+      "city": "Seville",
+      "category": "Architecture/Viewpoint",
+      "rating": 8.4,
+      "visit_duration_hours": 1.0,
+      "coordinates": {
+        "lat": 37.3931,
+        "lng": -5.9919
+      },
+      "description": "Modern wooden structure with rooftop walkway and city views",
+      "entrance_fee": "€5",
+      "advance_booking": false,
+      "tags": [
+        "Architecture",
+        "Modern",
+        "Views"
+      ],
+      "id": "metropol_parasol__las_setas"
+    },
+    {
+      "name": "Úbeda Renaissance Ensemble",
+      "city": "Úbeda",
+      "category": "UNESCO Town",
+      "rating": 9.0,
+      "visit_duration_hours": 3.5,
+      "coordinates": {
+        "lat": 38.0139,
+        "lng": -3.3706
+      },
+      "description": "UNESCO World Heritage Renaissance town with spectacular plaza and palaces",
+      "entrance_fee": "Free (monuments vary)",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Renaissance",
+        "Architecture"
+      ],
+      "id": "ubeda_renaissance_ensemble"
+    },
+    {
+      "name": "Baeza Cathedral & Old Town",
+      "city": "Baeza",
+      "category": "UNESCO Town",
+      "rating": 8.8,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.9933,
+        "lng": -3.4739
+      },
+      "description": "UNESCO Renaissance town with stunning cathedral and university",
+      "entrance_fee": "Free (monuments vary)",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Renaissance",
+        "Cathedral"
+      ],
+      "id": "baeza_cathedral___old_town"
+    },
+    {
+      "name": "Torcal de Antequera",
+      "city": "Antequera",
+      "category": "Nature/Geology",
+      "rating": 9.3,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 36.9544,
+        "lng": -4.5436
+      },
+      "description": "Spectacular karst limestone rock formations resembling a moonscape",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Geology",
+        "Hiking"
+      ],
+      "id": "torcal_de_antequera"
+    },
+    {
+      "name": "Sierra de Grazalema Natural Park",
+      "city": "Grazalema",
+      "category": "Nature/Hiking",
+      "rating": 9.1,
+      "visit_duration_hours": 5.0,
+      "coordinates": {
+        "lat": 36.7583,
+        "lng": -5.3917
+      },
+      "description": "UNESCO Biosphere Reserve with Spain's highest rainfall and rare pinsapo firs",
+      "entrance_fee": "Free (some routes need permit)",
+      "advance_booking": true,
+      "tags": [
+        "Nature",
+        "Hiking",
+        "UNESCO"
+      ],
+      "id": "sierra_de_grazalema_natural_park"
+    },
+    {
+      "name": "Doñana National Park",
+      "city": "Huelva",
+      "category": "Nature/Wildlife",
+      "rating": 9.4,
+      "visit_duration_hours": 6.0,
+      "coordinates": {
+        "lat": 37.0067,
+        "lng": -6.45
+      },
+      "description": "UNESCO wetlands sanctuary, Europe's most important bird migration site",
+      "entrance_fee": "€30 (guided tour)",
+      "advance_booking": true,
+      "tags": [
+        "UNESCO",
+        "Nature",
+        "Birds"
+      ],
+      "id": "donana_national_park"
+    },
+    {
+      "name": "Los Alcornocales Natural Park",
+      "city": "Jimena de la Frontera",
+      "category": "Nature/Forest",
+      "rating": 8.8,
+      "visit_duration_hours": 4.0,
+      "coordinates": {
+        "lat": 36.4356,
+        "lng": -5.4567
+      },
+      "description": "Largest cork oak forest in Iberian Peninsula with canopy walkways",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Forest",
+        "Hiking"
+      ],
+      "id": "los_alcornocales_natural_park"
+    },
+    {
+      "name": "Italica Roman Ruins",
+      "city": "Santiponce",
+      "region": "Near Seville",
+      "category": "Archaeological",
+      "rating": 9.0,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.4425,
+        "lng": -6.0456
+      },
+      "description": "Ancient Roman city with massive amphitheater",
+      "entrance_fee": "Free (EU citizens)",
+      "advance_booking": false,
+      "tags": [
+        "Roman",
+        "Ruins",
+        "Game of Thrones"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Huelva"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 2.5
+      },
+      "id": "italica_roman_ruins"
+    },
+    {
+      "name": "Caminito del Rey",
+      "city": "El Chorro",
+      "region": "Between Málaga and Granada",
+      "category": "Hike",
+      "rating": 9.5,
+      "visit_duration_hours": 3,
+      "coordinates": {
+        "lat": 36.9103,
+        "lng": -4.7697
+      },
+      "description": "Famous clifftop boardwalk",
+      "entrance_fee": "€10",
+      "advance_booking": true,
+      "tags": [
+        "Hike",
+        "Adventure",
+        "Must-book"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Málaga",
+          "Granada",
+          "Ronda"
+        ],
+        "detour_km": 25,
+        "min_stop_hours": 3
+      },
+      "id": "caminito_del_rey"
+    },
+    {
+      "name": "Arcos de la Frontera",
+      "city": "Arcos de la Frontera",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.7555,
+        "lng": -5.8069
+      },
+      "description": "Dramatic white village on cliff",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Views"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Jerez",
+          "Ronda"
+        ],
+        "detour_km": 15,
+        "min_stop_hours": 2
+      },
+      "id": "arcos_de_la_frontera"
+    },
+    {
+      "name": "Setenil de las Bodegas",
+      "city": "Setenil de las Bodegas",
+      "category": "White Village",
+      "rating": 9.2,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.8606,
+        "lng": -5.1806
+      },
+      "description": "Village built into rock overhangs",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Unique",
+        "Photography"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Granada"
+        ],
+        "detour_km": 18,
+        "min_stop_hours": 1.5
+      },
+      "id": "setenil_de_las_bodegas"
+    },
+    {
+      "name": "Zahara de la Sierra",
+      "city": "Zahara de la Sierra",
+      "category": "White Village/Castle",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.8358,
+        "lng": -5.3922
+      },
+      "description": "Lakeside white village with castle",
+      "entrance_fee": "€2 (castle)",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Castle",
+        "Lake"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Grazalema"
+        ],
+        "detour_km": 20,
+        "min_stop_hours": 2
+      },
+      "id": "zahara_de_la_sierra"
+    },
+    {
+      "name": "Grazalema Village",
+      "city": "Grazalema",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 36.7583,
+        "lng": -5.3917
+      },
+      "description": "Mountain village in natural park",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Nature",
+        "Hiking"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Jerez"
+        ],
+        "detour_km": 25,
+        "min_stop_hours": 2
+      },
+      "id": "grazalema_village"
+    },
+    {
+      "name": "Vejer de la Frontera",
+      "city": "Vejer de la Frontera",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 36.2519,
+        "lng": -5.9658
+      },
+      "description": "Hilltop Moorish village near coast",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Moorish",
+        "Historic"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Cádiz",
+          "Tarifa"
+        ],
+        "detour_km": 10,
+        "min_stop_hours": 2
+      },
+      "id": "vejer_de_la_frontera"
+    },
+    {
+      "name": "Olvera",
+      "city": "Olvera",
+      "category": "White Village",
+      "rating": 8.7,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.9389,
+        "lng": -5.2656
+      },
+      "description": "White village dominated by church and Moorish castle",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Castle",
+        "Church"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Seville"
+        ],
+        "detour_km": 22,
+        "min_stop_hours": 1.5
+      },
+      "id": "olvera"
+    },
+    {
+      "name": "Frigiliana",
+      "city": "Frigiliana",
+      "category": "White Village",
+      "rating": 8.9,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 36.7944,
+        "lng": -3.8972
+      },
+      "description": "Picturesque Moorish village near Nerja",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Moorish",
+        "Views"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Málaga",
+          "Granada"
+        ],
+        "detour_km": 12,
+        "min_stop_hours": 1.5
+      },
+      "id": "frigiliana"
+    },
+    {
+      "name": "Bodegas Alvear",
+      "city": "Montilla",
+      "region": "Between Córdoba and Granada",
+      "category": "Winery",
+      "rating": 8.8,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.5883,
+        "lng": -4.6333
+      },
+      "description": "Traditional Montilla-Moriles wine region bodega",
+      "entrance_fee": "€12-18",
+      "advance_booking": true,
+      "tags": [
+        "Wine",
+        "Traditional",
+        "Pedro Ximénez"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Granada"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 1.5
+      },
+      "id": "bodegas_alvear"
+    },
+    {
+      "name": "Bodegas Pérez Barquero",
+      "city": "Montilla",
+      "region": "Between Córdoba and Granada",
+      "category": "Winery",
+      "rating": 8.7,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.5856,
+        "lng": -4.6289
+      },
+      "description": "Family winery specializing in aged Montilla wines",
+      "entrance_fee": "€10-15",
+      "advance_booking": true,
+      "tags": [
+        "Wine",
+        "Family",
+        "Sweet Wine"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Granada"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 1.5
+      },
+      "id": "bodegas_perez_barquero"
+    },
+    {
+      "name": "Doñana National Park",
+      "city": "Huelva",
+      "region": "Between Seville and Huelva",
+      "category": "Nature/Wildlife",
+      "rating": 9.4,
+      "visit_duration_hours": 6.0,
+      "coordinates": {
+        "lat": 37.0067,
+        "lng": -6.45
+      },
+      "description": "UNESCO wetlands, bird migration site",
+      "entrance_fee": "€30 (guided tour)",
+      "advance_booking": true,
+      "tags": [
+        "UNESCO",
+        "Nature",
+        "Birds"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Huelva"
+        ],
+        "detour_km": 35,
+        "min_stop_hours": 5
+      },
+      "id": "donana_national_park"
+    },
+    {
+      "name": "El Torcal de Antequera",
+      "city": "Antequera",
+      "region": "Between Málaga and Granada",
+      "category": "Nature/Geology",
+      "rating": 9.3,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 36.9544,
+        "lng": -4.5436
+      },
+      "description": "Spectacular limestone rock formations",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Geology",
+        "Hiking"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Málaga",
+          "Granada"
+        ],
+        "detour_km": 15,
+        "min_stop_hours": 2.5
+      },
+      "id": "el_torcal_de_antequera"
+    },
+    {
+      "name": "Antequera Dolmens",
+      "city": "Antequera",
+      "region": "Between Málaga and Granada",
+      "category": "Archaeology",
+      "rating": 8.3,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.0236,
+        "lng": -4.5619
+      },
+      "description": "UNESCO Neolithic burial monuments",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "UNESCO",
+        "Prehistoric",
+        "Free"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Málaga",
+          "Granada"
+        ],
+        "detour_km": 12,
+        "min_stop_hours": 1.5
+      },
+      "id": "antequera_dolmens"
+    },
+    {
+      "name": "Sierra de Grazalema Natural Park",
+      "city": "Grazalema",
+      "region": "Between Ronda and Jerez",
+      "category": "Nature/Hiking",
+      "rating": 9.1,
+      "visit_duration_hours": 5.0,
+      "coordinates": {
+        "lat": 36.7583,
+        "lng": -5.3917
+      },
+      "description": "UNESCO Biosphere with rare pinsapo firs",
+      "entrance_fee": "Free (some routes need permit)",
+      "advance_booking": true,
+      "tags": [
+        "Nature",
+        "Hiking",
+        "UNESCO"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Jerez"
+        ],
+        "detour_km": 28,
+        "min_stop_hours": 4
+      },
+      "id": "sierra_de_grazalema_natural_park"
+    },
+    {
+      "name": "Los Alcornocales Natural Park",
+      "city": "Jimena de la Frontera",
+      "region": "Between Ronda and Gibraltar",
+      "category": "Nature/Forest",
+      "rating": 8.8,
+      "visit_duration_hours": 4.0,
+      "coordinates": {
+        "lat": 36.4356,
+        "lng": -5.4567
+      },
+      "description": "Largest cork oak forest in Iberia",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Forest",
+        "Hiking"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Ronda",
+          "Gibraltar",
+          "Tarifa"
+        ],
+        "detour_km": 20,
+        "min_stop_hours": 3
+      },
+      "id": "los_alcornocales_natural_park"
+    },
+    {
+      "name": "Playa de los Muertos",
+      "city": "Carboneras",
+      "region": "Cabo de Gata area",
+      "category": "Beach",
+      "rating": 9.2,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 36.9789,
+        "lng": -1.8967
+      },
+      "description": "Stunning turquoise-water beach",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Beach",
+        "Crystal Water",
+        "Natural"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Almería",
+          "Nerja"
+        ],
+        "detour_km": 18,
+        "min_stop_hours": 2.5
+      },
+      "id": "playa_de_los_muertos"
+    },
+    {
+      "name": "Olive Oil Mill Tour - Hacienda Guzmán",
+      "city": "La Rinconada",
+      "region": "Near Seville",
+      "category": "Cultural/Food",
+      "rating": 8.9,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.4833,
+        "lng": -5.9833
+      },
+      "description": "Traditional olive oil production with tasting",
+      "entrance_fee": "€15-25",
+      "advance_booking": true,
+      "tags": [
+        "Olive Oil",
+        "Food",
+        "Tour"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Córdoba"
+        ],
+        "detour_km": 10,
+        "min_stop_hours": 2
+      },
+      "id": "olive_oil_mill_tour___hacienda_guzman"
+    },
+    {
+      "name": "Castillo de Almodóvar del Río",
+      "city": "Almodóvar del Río",
+      "region": "Near Córdoba",
+      "category": "Castle",
+      "rating": 8.8,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.7119,
+        "lng": -5.0264
+      },
+      "description": "Medieval castle overlooking Guadalquivir",
+      "entrance_fee": "€8",
+      "advance_booking": false,
+      "tags": [
+        "Castle",
+        "Medieval",
+        "Game of Thrones"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Seville"
+        ],
+        "detour_km": 12,
+        "min_stop_hours": 1.5
+      },
+      "id": "castillo_de_almodovar_del_rio"
+    },
+    {
+      "name": "Laguna de Fuente de Piedra",
+      "city": "Fuente de Piedra",
+      "region": "Between Málaga and Antequera",
+      "category": "Nature/Wildlife",
+      "rating": 8.9,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.1058,
+        "lng": -4.7594
+      },
+      "description": "Europe's only inland flamingo breeding colony",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Nature",
+        "Flamingos",
+        "Birds"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Málaga",
+          "Antequera",
+          "Granada"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 2
+      },
+      "id": "laguna_de_fuente_de_piedra"
+    },
+    {
+      "name": "Priego de Córdoba",
+      "city": "Priego de Córdoba",
+      "region": "Between Córdoba and Granada",
+      "category": "Historic Town",
+      "rating": 8.7,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.4397,
+        "lng": -4.1972
+      },
+      "description": "Baroque capital of Córdoba province",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Baroque",
+        "Historic",
+        "Fountains"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Granada"
+        ],
+        "detour_km": 20,
+        "min_stop_hours": 2
+      },
+      "id": "priego_de_cordoba"
+    },
+    {
+      "name": "Zuheros Village & Castle",
+      "city": "Zuheros",
+      "region": "Between Córdoba and Granada",
+      "category": "White Village/Castle",
+      "rating": 8.8,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.5444,
+        "lng": -4.3139
+      },
+      "description": "Clifftop white village with Moorish castle",
+      "entrance_fee": "€2 (castle)",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Castle",
+        "Cliffs"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Granada"
+        ],
+        "detour_km": 25,
+        "min_stop_hours": 2
+      },
+      "id": "zuheros_village___castle"
+    },
+    {
+      "name": "Cueva de los Murciélagos",
+      "city": "Zuheros",
+      "region": "Near Córdoba",
+      "category": "Caves",
+      "rating": 8.6,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.5419,
+        "lng": -4.3086
+      },
+      "description": "Cave with prehistoric paintings and formations",
+      "entrance_fee": "€7",
+      "advance_booking": true,
+      "tags": [
+        "Caves",
+        "Prehistoric",
+        "Geology"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Granada"
+        ],
+        "detour_km": 25,
+        "min_stop_hours": 1.5
+      },
+      "id": "cueva_de_los_murcielagos"
+    },
+    {
+      "name": "Osuna Historic Town",
+      "city": "Osuna",
+      "region": "Between Seville and Málaga",
+      "category": "Historic Town",
+      "rating": 8.7,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.2333,
+        "lng": -5.1025
+      },
+      "description": "Baroque town with Game of Thrones filming location",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Baroque",
+        "Game of Thrones"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Málaga"
+        ],
+        "detour_km": 15,
+        "min_stop_hours": 2
+      },
+      "id": "osuna_historic_town"
+    },
+    {
+      "name": "Écija - City of Towers",
+      "city": "Écija",
+      "region": "Between Seville and Córdoba",
+      "category": "Historic Town",
+      "rating": 8.5,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.5428,
+        "lng": -5.0819
+      },
+      "description": "Baroque town with 11 church towers",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Baroque",
+        "Towers",
+        "Historic"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Córdoba"
+        ],
+        "detour_km": 5,
+        "min_stop_hours": 1.5
+      },
+      "id": "ecija___city_of_towers"
+    },
+    {
+      "name": "Carmona Historic Town",
+      "city": "Carmona",
+      "region": "Between Seville and Córdoba",
+      "category": "Historic Town",
+      "rating": 8.8,
+      "visit_duration_hours": 2.5,
+      "coordinates": {
+        "lat": 37.4706,
+        "lng": -5.6417
+      },
+      "description": "Hilltop town with Roman necropolis",
+      "entrance_fee": "Free (necropolis €1.50)",
+      "advance_booking": false,
+      "tags": [
+        "Historic",
+        "Roman",
+        "Views"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Córdoba"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 2
+      },
+      "id": "carmona_historic_town"
+    },
+    {
+      "name": "Aracena Castle & Grotto",
+      "city": "Aracena",
+      "region": "North of Huelva",
+      "category": "Castle/Caves",
+      "rating": 9.0,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 37.8894,
+        "lng": -6.5564
+      },
+      "description": "Castle and spectacular underground caves",
+      "entrance_fee": "€10 (caves)",
+      "advance_booking": false,
+      "tags": [
+        "Castle",
+        "Caves",
+        "Spectacular"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Huelva"
+        ],
+        "detour_km": 35,
+        "min_stop_hours": 3
+      },
+      "id": "aracena_castle___grotto"
+    },
+    {
+      "name": "Jabugo Ham Museum & Tasting",
+      "city": "Jabugo",
+      "region": "Near Aracena",
+      "category": "Cultural/Food",
+      "rating": 8.9,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 37.9192,
+        "lng": -6.7308
+      },
+      "description": "Famous Iberico ham production region",
+      "entrance_fee": "€15-30",
+      "advance_booking": true,
+      "tags": [
+        "Food",
+        "Ham",
+        "Tasting"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Seville",
+          "Huelva"
+        ],
+        "detour_km": 40,
+        "min_stop_hours": 1.5
+      },
+      "id": "jabugo_ham_museum___tasting"
+    },
+    {
+      "name": "Guadix Cave Houses",
+      "city": "Guadix",
+      "region": "Between Granada and Almería",
+      "category": "Cultural/Historic",
+      "rating": 8.7,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.3017,
+        "lng": -3.1383
+      },
+      "description": "Traditional cave dwellings still inhabited",
+      "entrance_fee": "€3 (museum)",
+      "advance_booking": false,
+      "tags": [
+        "Caves",
+        "Traditional",
+        "Unique"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Granada",
+          "Almería"
+        ],
+        "detour_km": 5,
+        "min_stop_hours": 1.5
+      },
+      "id": "guadix_cave_houses"
+    },
+    {
+      "name": "Tabernas Desert",
+      "city": "Tabernas",
+      "region": "Near Almería",
+      "category": "Nature/Film",
+      "rating": 8.5,
+      "visit_duration_hours": 3.0,
+      "coordinates": {
+        "lat": 37.0597,
+        "lng": -2.4522
+      },
+      "description": "Europe's only desert, spaghetti western film location",
+      "entrance_fee": "Free (theme parks €20-25)",
+      "advance_booking": false,
+      "tags": [
+        "Desert",
+        "Film",
+        "Wild West"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Granada",
+          "Almería"
+        ],
+        "detour_km": 10,
+        "min_stop_hours": 2.5
+      },
+      "id": "tabernas_desert"
+    },
+    {
+      "name": "Mojácar Pueblo",
+      "city": "Mojácar",
+      "region": "Almería coast",
+      "category": "White Village",
+      "rating": 8.8,
+      "visit_duration_hours": 2.0,
+      "coordinates": {
+        "lat": 37.1358,
+        "lng": -1.8553
+      },
+      "description": "Hilltop white village overlooking Mediterranean",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Village",
+        "Coast",
+        "Views"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Almería",
+          "Granada"
+        ],
+        "detour_km": 20,
+        "min_stop_hours": 1.5
+      },
+      "id": "mojacar_pueblo"
+    },
+    {
+      "name": "Níjar Pottery Village",
+      "city": "Níjar",
+      "region": "Near Almería",
+      "category": "Cultural/Crafts",
+      "rating": 8.4,
+      "visit_duration_hours": 1.5,
+      "coordinates": {
+        "lat": 36.9667,
+        "lng": -2.2083
+      },
+      "description": "Traditional pottery workshops and white village",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "Crafts",
+        "Pottery",
+        "Traditional"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Almería",
+          "Cabo de Gata"
+        ],
+        "detour_km": 8,
+        "min_stop_hours": 1.5
+      },
+      "id": "nijar_pottery_village"
+    },
+    {
+      "name": "Alpujarras Villages Route",
+      "city": "Las Alpujarras",
+      "region": "South of Granada",
+      "category": "White Villages/Nature",
+      "rating": 9.2,
+      "visit_duration_hours": 6.0,
+      "coordinates": {
+        "lat": 36.9167,
+        "lng": -3.3167
+      },
+      "description": "Scenic mountain villages route (Pampaneira, Bubión, Capileira)",
+      "entrance_fee": "Free",
+      "advance_booking": false,
+      "tags": [
+        "White Villages",
+        "Mountains",
+        "Hiking"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Granada",
+          "Almería"
+        ],
+        "detour_km": 45,
+        "min_stop_hours": 5
+      },
+      "id": "alpujarras_villages_route"
+    },
+    {
+      "name": "Medina Azahara",
+      "city": "Córdoba",
+      "region": "Outskirts of Córdoba",
+      "category": "Archaeology",
+      "rating": 8.9,
+      "visit_duration_hours": 2,
+      "coordinates": {
+        "lat": 37.8919,
+        "lng": -4.8639
+      },
+      "description": "UNESCO ruins of caliphate capital",
+      "entrance_fee": "€1.50",
+      "advance_booking": true,
+      "tags": [
+        "UNESCO",
+        "Ruins"
+      ],
+      "route_position": {
+        "between_cities": [
+          "Córdoba",
+          "Seville"
+        ],
+        "detour_km": 12,
+        "min_stop_hours": 2
+      },
+      "id": "medina_azahara"
+    }
+  ]
+}

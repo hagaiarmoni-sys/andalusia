@@ -1,0 +1,1822 @@
+{
+  "pois": [
+    {
+      "name": "Cabo de Gata Natural Park",
+      "city": "Almería",
+      "category": "Natural Park",
+      "subcategory": "Coastal Park",
+      "coordinates": {
+        "lat": 36.75,
+        "lon": -2.15
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Stunning natural park featuring pristine beaches, volcanic rock formations, dramatic cliffs, and crystal-clear waters. One of the most beautiful and unspoiled coastal areas in Spain with secluded coves and exceptional hiking trails.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 4,
+      "website": "",
+      "tags": [
+        "Natural Park",
+        "Beach",
+        "Volcanic",
+        "Hiking",
+        "Coastal"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "TripAdvisor"
+    },
+    {
+      "name": "Parque Natural de Cabo de Gata-Níjar",
+      "city": "Almería",
+      "category": "Nature",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 36.7833,
+        "lon": -2.1167
+      },
+      "rating": 8.8,
+      "reviews_count": null,
+      "description": "Coastal natural park with wild beaches, coves and desert-like volcanic landscapes.",
+      "address": "",
+      "entrance_fee": "Free (some paid activities)",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 6,
+      "website": null,
+      "tags": [
+        "beach",
+        "natural park"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1588295",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cabo_de_Gata-N%C3%ADjar_Natural_Park",
+      "osm_type": "nature_reserve"
+    },
+    {
+      "name": "Dolmens of Antequera",
+      "city": "Antequera",
+      "category": "Megalithic Site",
+      "subcategory": "Prehistoric",
+      "coordinates": {
+        "lat": 37.0194,
+        "lon": -4.5561
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "UNESCO World Heritage Site featuring ancient burial mounds from the Neolithic period. Includes three megalithic monuments: Menga, Viera, and El Romeral dolmens, showcasing prehistoric engineering and astronomical alignment.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "09:00-18:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Prehistoric",
+        "Megalithic",
+        "Historic",
+        "Archaeological"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "El Torcal de Antequera",
+      "city": "Antequera",
+      "category": "Natural Reserve",
+      "subcategory": "Karst Landscape",
+      "coordinates": {
+        "lat": 36.95,
+        "lon": -4.55
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Spectacular limestone rock formations shaped by millions of years of wind and rain, creating otherworldly landscape. Features winding paths between towering rock columns and hidden valleys with mountain goats and griffon vultures. Part of UNESCO World Heritage Site.",
+      "address": "",
+      "entrance_fee": "Free (parking €2)",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 2.5,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Nature",
+        "Hiking",
+        "Rock Formations",
+        "Karst"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Gruta de las Maravillas (Cave of Wonders)",
+      "city": "Aracena",
+      "category": "Natural Cave",
+      "subcategory": "Limestone Cave",
+      "coordinates": {
+        "lat": 37.891,
+        "lon": -6.555
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "More than a kilometer tour of enormous limestone caves located under the hill topped by a castle ruin and church. The biggest tourist attraction in Aracena featuring spectacular stalactites and stalagmites formations.",
+      "address": "",
+      "entrance_fee": "€8.50",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Cave",
+        "Nature",
+        "Limestone",
+        "Stalactites",
+        "Underground"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "España Guide"
+    },
+    {
+      "name": "Arcos de la Frontera",
+      "city": "Arcos de la Frontera",
+      "category": "White Village",
+      "subcategory": "Historic Village",
+      "coordinates": {
+        "lat": 36.75,
+        "lon": -5.8083
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Dramatic white village perched on limestone ridge with sheer cliff drops. Gateway to pueblos blancos route with spectacular views. Features historic castle, Santa María church, and maze of narrow streets with traditional whitewashed houses.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2.5,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Pueblo Blanco",
+        "Historic",
+        "Cliff-top",
+        "Scenic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Caminito del Rey",
+      "city": "Ardales",
+      "category": "Nature",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 36.9167,
+        "lon": -4.7667
+      },
+      "rating": 9.5,
+      "reviews_count": null,
+      "description": "Spectacular cliffside walkway through Desfiladero de los Gaitanes gorge.",
+      "address": "",
+      "entrance_fee": "€10.00",
+      "opening_hours": null,
+      "visit_duration_hours": 3,
+      "website": "https://www.caminitodelrey.info",
+      "tags": [
+        "hike",
+        "gorge",
+        "adventure"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1019247",
+      "wikipedia": "https://en.wikipedia.org/wiki/Caminito_del_Rey",
+      "osm_type": "attraction"
+    },
+    {
+      "name": "Baeza Historic Center",
+      "city": "Baeza",
+      "category": "UNESCO World Heritage",
+      "subcategory": "Historic Center",
+      "coordinates": {
+        "lat": 37.9928,
+        "lon": -3.4681
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "UNESCO World Heritage Site with compact almost-medieval center. Features beautiful Renaissance architecture including cathedral, university, Plaza del Pópulo, Moorish city gate, and Plaza de España. Can be explored in half day.",
+      "address": "",
+      "entrance_fee": "Free (individual sites vary)",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2.5,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Renaissance",
+        "Historic Center",
+        "Medieval",
+        "Architecture"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "España Guide"
+    },
+    {
+      "name": "Bolonia Dunes",
+      "city": "Bolonia",
+      "category": "Natural Wonder",
+      "subcategory": "Sand Dunes",
+      "coordinates": {
+        "lat": 36.0856,
+        "lon": -5.7708
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Spectacular 30m-high sand dune overlooking pristine beach and Roman ruins. One of largest moving dunes in Europe with stunning Atlantic Ocean views. Adjacent Baelo Claudia Roman archaeological site adds historical dimension.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "Sand Dunes",
+        "Beach",
+        "Nature",
+        "Roman Ruins",
+        "Coastal"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Alcázar de los Reyes Cristianos",
+      "city": "Córdoba",
+      "category": "Architecture",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.8772,
+        "lon": -4.7822
+      },
+      "rating": 8.7,
+      "reviews_count": null,
+      "description": "Fortress-palace of the Christian Monarchs with towers, mosaics and formal gardens.",
+      "address": "",
+      "entrance_fee": "Paid",
+      "opening_hours": null,
+      "visit_duration_hours": 1.5,
+      "website": null,
+      "tags": [
+        "palace",
+        "gardens"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": null,
+      "wikipedia": null,
+      "osm_type": "castle"
+    },
+    {
+      "name": "Medina Azahara",
+      "city": "Córdoba",
+      "category": "Archaeological Site",
+      "subcategory": "Moorish Palace City",
+      "coordinates": {
+        "lat": 37.8908,
+        "lon": -4.865
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "UNESCO World Heritage Site featuring ruins of vast 10th-century Moorish palace city built by Abd-ar-Rahman III. Once one of greatest cities in Islamic world with elaborate architecture, gardens, and administrative buildings. Recently excavated and restored.",
+      "address": "",
+      "entrance_fee": "Free (EU citizens)",
+      "opening_hours": "09:00-18:00",
+      "visit_duration_hours": 2.5,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Moorish",
+        "Archaeological",
+        "Palace",
+        "Islamic"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Mosque–Cathedral of Córdoba",
+      "city": "Córdoba",
+      "category": "Religious",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.8792,
+        "lon": -4.7794
+      },
+      "rating": 9.6,
+      "reviews_count": null,
+      "description": "Unique mosque-cathedral with forest of arches and richly decorated Christian choir, UNESCO site.",
+      "address": "",
+      "entrance_fee": "Paid",
+      "opening_hours": "Mo-Sa 10:00-19:00; Su 08:30-11:30 & 15:00-19:00",
+      "visit_duration_hours": 2,
+      "website": "https://www.mezquitadecordoba.org",
+      "tags": [
+        "UNESCO",
+        "mosque",
+        "cathedral"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1101505",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+      "osm_type": "church"
+    },
+    {
+      "name": "Puente Romano",
+      "city": "Córdoba",
+      "category": "Bridge",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.8769,
+        "lon": -4.7781
+      },
+      "rating": 8.9,
+      "reviews_count": null,
+      "description": "Pedestrian Roman bridge over the Guadalquivir with views towards the Mosque–Cathedral.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 1,
+      "website": null,
+      "tags": [
+        "bridge",
+        "river"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1130018",
+      "wikipedia": "https://en.wikipedia.org/wiki/Roman_bridge_of_C%C3%B3rdoba",
+      "osm_type": "bridge"
+    },
+    {
+      "name": "Caminito del Rey",
+      "city": "El Chorro",
+      "category": "Outdoor Activity",
+      "subcategory": "Hiking Trail",
+      "coordinates": {
+        "lat": 36.9108,
+        "lon": -4.7733
+      },
+      "rating": 4.9,
+      "reviews_count": null,
+      "description": "Spectacular 7.7km walkway pinned 100m above the Gaitanes Gorge, once known as the world's most dangerous hike. Completely renovated in 2015 with new safe boardwalks. Offers breathtaking views and thrilling experience. Originally built in 1905 for hydroelectric plant workers and inaugurated by King Alfonso XIII in 1921.",
+      "address": "",
+      "entrance_fee": "€10",
+      "opening_hours": "09:00-17:00",
+      "visit_duration_hours": 3.5,
+      "website": "",
+      "tags": [
+        "Hiking",
+        "Adventure",
+        "Gorge",
+        "Nature",
+        "Scenic Views"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Frigiliana",
+      "city": "Frigiliana",
+      "category": "White Village",
+      "subcategory": "Historic Village",
+      "coordinates": {
+        "lat": 36.7933,
+        "lon": -3.895
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Voted 'Prettiest Village in Andalusia' by Spanish Tourism Authority. Features white-washed houses with colorful blue accents, winding cobblestone streets, and sweeping Mediterranean views. Charming pedestrian streets with shops, restaurants, and scenic overlooks.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Pueblo Blanco",
+        "Historic",
+        "Coastal",
+        "Photogenic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Albayzín",
+      "city": "Granada",
+      "category": "Neighborhoods",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.18,
+        "lon": -3.59
+      },
+      "rating": 9.2,
+      "reviews_count": null,
+      "description": "Historic Moorish quarter with narrow lanes, whitewashed houses, and viewpoints of the Alhambra.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": null,
+      "visit_duration_hours": 2,
+      "website": null,
+      "tags": [
+        "UNESCO",
+        "neighborhood",
+        "moorish"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1007472",
+      "wikipedia": "https://en.wikipedia.org/wiki/Albaic%C3%ADn",
+      "osm_type": "neighbourhood"
+    },
+    {
+      "name": "Alhambra",
+      "city": "Granada",
+      "category": "Architecture",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.1761,
+        "lon": -3.5881
+      },
+      "rating": 9.7,
+      "reviews_count": null,
+      "description": "Iconic Nasrid palace and fortress complex, masterpiece of Islamic art. UNESCO site.",
+      "address": "",
+      "entrance_fee": "€14.85",
+      "opening_hours": "Mo-Su 08:30-20:00",
+      "visit_duration_hours": 3.5,
+      "website": "https://www.alhambra-patronato.es",
+      "tags": [
+        "UNESCO",
+        "gardens",
+        "islamic",
+        "palace"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q47476",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alhambra",
+      "osm_type": "attraction"
+    },
+    {
+      "name": "Generalife",
+      "city": "Granada",
+      "category": "Gardens",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.1764,
+        "lon": -3.5853
+      },
+      "rating": 9.3,
+      "reviews_count": null,
+      "description": "Summer palace and terraced gardens of the Nasrid rulers above the Alhambra.",
+      "address": "",
+      "entrance_fee": "Included or separate ticket",
+      "opening_hours": "Mo-Su 08:30-20:00",
+      "visit_duration_hours": 1.5,
+      "website": "https://www.alhambra-patronato.es",
+      "tags": [
+        "gardens",
+        "palace"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q249127",
+      "wikipedia": "https://en.wikipedia.org/wiki/Generalife",
+      "osm_type": "attraction"
+    },
+    {
+      "name": "Mirador de San Nicolás",
+      "city": "Granada",
+      "category": "Viewpoint",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.1811,
+        "lon": -3.5925
+      },
+      "rating": 9.4,
+      "reviews_count": null,
+      "description": "Famous viewpoint with postcard views of the Alhambra and Sierra Nevada, especially at sunset.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 1,
+      "website": null,
+      "tags": [
+        "viewpoint",
+        "sunset",
+        "alhambra"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q15827159",
+      "wikipedia": "https://en.wikipedia.org/wiki/Mirador_de_San_Nicol%C3%A1s",
+      "osm_type": "viewpoint"
+    },
+    {
+      "name": "Museo de la Capilla Real",
+      "city": "Granada",
+      "category": "Museum",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.1760421,
+        "lon": -3.5986977
+      },
+      "rating": 8.5,
+      "reviews_count": null,
+      "description": "Museum and Royal Chapel with tombs of the Catholic Monarchs and religious art.",
+      "address": "",
+      "entrance_fee": "Paid",
+      "opening_hours": null,
+      "visit_duration_hours": 1.5,
+      "website": null,
+      "tags": [
+        "museum",
+        "history",
+        "royal"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": null,
+      "wikipedia": null,
+      "osm_type": "museum"
+    },
+    {
+      "name": "Las Alpujarras Villages",
+      "city": "Granada Province",
+      "category": "Mountain Villages",
+      "subcategory": "White Villages",
+      "coordinates": {
+        "lat": 36.95,
+        "lon": -3.35
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Cluster of picturesque whitewashed villages nestled in Sierra Nevada foothills including Pampaneira, Bubión, and Capileira. Features unique flat-roofed architecture, narrow streets, and stunning mountain views. Traditional Berber-influenced culture remains.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 4,
+      "website": "",
+      "tags": [
+        "White Villages",
+        "Mountain",
+        "Traditional",
+        "Hiking",
+        "Cultural"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Grazalema Natural Park",
+      "city": "Grazalema",
+      "category": "Natural Park",
+      "subcategory": "Mountain Reserve",
+      "coordinates": {
+        "lat": 36.76,
+        "lon": -5.37
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Spectacular mountain nature reserve with dramatic limestone peaks, deep gorges, and ancient pinsapo (Spanish fir) forests. One of Spain's wettest places creating lush vegetation. Excellent hiking with routes for all levels. Includes charming white village of Grazalema.",
+      "address": "",
+      "entrance_fee": "Free (some trails require permit)",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 4,
+      "website": "",
+      "tags": [
+        "Natural Park",
+        "Hiking",
+        "Mountains",
+        "Nature",
+        "White Villages"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Guadix Cave District",
+      "city": "Guadix",
+      "category": "Cultural Site",
+      "subcategory": "Troglodyte Houses",
+      "coordinates": {
+        "lat": 37.305,
+        "lon": -3.137
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Famous town with unique troglodyte cave houses where locals still live. Features traditional rock-cut dwellings demonstrating centuries-old way of life. Also includes the Alcazaba Moorish fortress with panoramic views offering glimpse into medieval history.",
+      "address": "",
+      "entrance_fee": "€5 (cave museum)",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "Cave Houses",
+        "Cultural",
+        "Historic",
+        "Unique Architecture",
+        "Troglodyte"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Doñana National Park",
+      "city": "Huelva",
+      "category": "National Park",
+      "subcategory": "Wetlands",
+      "coordinates": {
+        "lat": 37.0089,
+        "lon": -6.4342
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "UNESCO World Heritage Site and Biosphere Reserve featuring vast wetlands, marshes, dunes, and forests. One of Europe's most important nature reserves with diverse wildlife including Iberian lynx, flamingos, and imperial eagles. Guided tours required.",
+      "address": "",
+      "entrance_fee": "€30 (guided tour)",
+      "opening_hours": "08:30-19:00",
+      "visit_duration_hours": 4,
+      "website": "",
+      "tags": [
+        "National Park",
+        "UNESCO",
+        "Wetlands",
+        "Wildlife",
+        "Nature"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "España Guide"
+    },
+    {
+      "name": "Jaén Cathedral",
+      "city": "Jaén",
+      "category": "Religious Site",
+      "subcategory": "Cathedral",
+      "coordinates": {
+        "lat": 37.7653,
+        "lon": -3.7894
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "UNESCO-listed Santa Iglesia Catedral de la Asunción de la Virgen, remarkable Renaissance cathedral that dominates the city skyline. Features intricately sculpted frontal façade and impressive interior. Best viewed from Castillo de Santa Catalina hilltop for commanding perspective.",
+      "address": "",
+      "entrance_fee": "€5",
+      "opening_hours": "10:00-14:00, 16:00-19:00",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Cathedral",
+        "Renaissance",
+        "UNESCO",
+        "Religious",
+        "Architecture"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Parque Natural Sierras de Cazorla, Segura y Las Villas",
+      "city": "Jaén",
+      "category": "Nature",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.9167,
+        "lon": -2.9167
+      },
+      "rating": 8.7,
+      "reviews_count": null,
+      "description": "Large protected natural area with mountains, forests, reservoirs and wildlife.",
+      "address": "",
+      "entrance_fee": "Free (some facilities paid)",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 6,
+      "website": null,
+      "tags": [
+        "natural park",
+        "hiking",
+        "wildlife"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1054763",
+      "wikipedia": "https://en.wikipedia.org/wiki/Sierras_of_Cazorla,_Segura_and_Las_Villas_Natural_Park",
+      "osm_type": "nature_reserve"
+    },
+    {
+      "name": "Jerez Horse Shows",
+      "city": "Jerez de la Frontera",
+      "category": "Cultural Experience",
+      "subcategory": "Equestrian Show",
+      "coordinates": {
+        "lat": 36.6844,
+        "lon": -6.1361
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "World-famous Andalusian horse shows at Real Escuela Andaluza del Arte Ecuestre. Features spectacular displays of Carthusian horses performing classical dressage and traditional equestrian ballet. Between Bulls and Horses tours available.",
+      "address": "",
+      "entrance_fee": "€25",
+      "opening_hours": "Shows at 12:00 (Tue, Thu)",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Horses",
+        "Cultural",
+        "Show",
+        "Andalusian",
+        "Traditional"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "TripAdvisor"
+    },
+    {
+      "name": "Sherry Bodegas - Jerez",
+      "city": "Jerez de la Frontera",
+      "category": "Winery",
+      "subcategory": "Sherry Cellars",
+      "coordinates": {
+        "lat": 36.686,
+        "lon": -6.136
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "World's sherry capital offering tours and tastings at historic bodegas including Tío Pepe (González Byass), Sandeman, and Bodegas Tradición. Learn about traditional sherry production methods and sample various styles.",
+      "address": "",
+      "entrance_fee": "€15-25",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Winery",
+        "Sherry",
+        "Tasting",
+        "Cultural",
+        "Traditional"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Atarazanas Market",
+      "city": "Málaga",
+      "category": "Market",
+      "subcategory": "Food Market",
+      "coordinates": {
+        "lat": 36.7186,
+        "lon": -4.4231
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Andalusia's first food court occupying 19th-century forged iron building. Features 20 stalls selling delicacies from around the world and local goodies with exceptional seafood. Tables in gardens for tasting in-situ.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "09:00-15:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Market",
+        "Food",
+        "Seafood",
+        "Local Cuisine",
+        "Cultural"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Castillo de Gibralfaro",
+      "city": "Málaga",
+      "category": "Historic Site",
+      "subcategory": "Fortress",
+      "coordinates": {
+        "lat": 36.725,
+        "lon": -4.4053
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Ancient fortress perched on hilltop overlooking Málaga with panoramic city views. Dates back to Phoenician times and was expanded by Moors. Connected to Alcazaba fortress below via historic path with stunning vistas.",
+      "address": "",
+      "entrance_fee": "€3.50",
+      "opening_hours": "09:00-20:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Fortress",
+        "Historic",
+        "Moorish",
+        "Viewpoint",
+        "Castle"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Catedral de Málaga",
+      "city": "Málaga",
+      "category": "Religious Site",
+      "subcategory": "Cathedral",
+      "coordinates": {
+        "lat": 36.7203,
+        "lon": -4.4197
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Elaborate cathedral started in 16th century on site of former mosque, known as 'La Manquita' (the one-armed lady) because second tower was never completed. Features Renaissance and Baroque architecture with stunning interior and beautiful Patio de los Naranjos.",
+      "address": "",
+      "entrance_fee": "€8",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Cathedral",
+        "Renaissance",
+        "Baroque",
+        "Religious",
+        "Architecture"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Mercado Central de Atarazanas",
+      "city": "Málaga",
+      "category": "Market",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 36.7189,
+        "lon": -4.4237
+      },
+      "rating": 8.5,
+      "reviews_count": null,
+      "description": "Lively covered market in a restored shipyard building, great for tapas and produce.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Mo-Sa 08:00-15:00",
+      "visit_duration_hours": 1.5,
+      "website": null,
+      "tags": [
+        "market",
+        "food"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q60732518",
+      "wikipedia": "https://en.wikipedia.org/wiki/Atarazanas_Market",
+      "osm_type": "marketplace"
+    },
+    {
+      "name": "Museo Picasso Málaga",
+      "city": "Málaga",
+      "category": "Museum",
+      "subcategory": "Art Museum",
+      "coordinates": {
+        "lat": 36.7214,
+        "lon": -4.4186
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Unmissable museum in Picasso's birthplace providing solid overview of the master and his work. Located in renovated 16th-century palace with excellent collection spanning Picasso's career from early works to later periods.",
+      "address": "",
+      "entrance_fee": "€9",
+      "opening_hours": "10:00-19:00",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "Museum",
+        "Art",
+        "Picasso",
+        "Cultural",
+        "Historic Building"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Cahorros de Monachil",
+      "city": "Monachil",
+      "category": "Outdoor Activity",
+      "subcategory": "Hiking Trail",
+      "coordinates": {
+        "lat": 37.1347,
+        "lon": -3.5178
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Popular hiking trail through dramatic gorge with hanging bridges and river crossings. Easily accessible from Granada by public transportation. Features stunning canyon views, cave passages, and refreshing river walks.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 3,
+      "website": "",
+      "tags": [
+        "Hiking",
+        "Gorge",
+        "Adventure",
+        "Nature",
+        "Hanging Bridges"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Balcón de Europa",
+      "city": "Nerja",
+      "category": "Viewpoint",
+      "subcategory": "Coastal Promenade",
+      "coordinates": {
+        "lat": 36.7475,
+        "lon": -3.8742
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Large balcony viewpoint on cliff offering magnificent panoramic views of the Mediterranean Sea and beaches. One of the most popular spots in Nerja surrounded by beautiful cliffs, unlike the rest of Costa del Sol.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 0.5,
+      "website": "",
+      "tags": [
+        "Viewpoint",
+        "Beach",
+        "Mediterranean",
+        "Coastal",
+        "Scenic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "TripAdvisor"
+    },
+    {
+      "name": "Nerja Caves",
+      "city": "Nerja",
+      "category": "Natural Cave",
+      "subcategory": "Prehistoric Cave",
+      "coordinates": {
+        "lat": 36.7597,
+        "lon": -3.8425
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Vast caverns containing 25,000-year-old cave paintings and prehistoric artifacts. Home of cavemen thousands of years ago with beautiful stalactites. One of Spain's most impressive cave systems with enormous chambers.",
+      "address": "",
+      "entrance_fee": "€12",
+      "opening_hours": "09:00-17:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Cave",
+        "Prehistoric",
+        "Archaeological",
+        "Stalactites",
+        "Historic"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "TripAdvisor"
+    },
+    {
+      "name": "La Geoda de Pulpí",
+      "city": "Pulpí",
+      "category": "Natural Cave",
+      "subcategory": "Geode",
+      "coordinates": {
+        "lat": 37.39,
+        "lon": -1.73
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "World's second-largest geode, measuring 8m long and 2m tall, discovered in 2019 in an abandoned silver mine in the Sierra de Aguilón. Features glistening mineral deposits and a cathedral-like cavern with a massive spiral staircase. Requires advance booking for 90-minute Spanish-language guided tours (English guide available upon request).",
+      "address": "",
+      "entrance_fee": "€15",
+      "opening_hours": "By appointment only",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Cave",
+        "Geode",
+        "Natural Wonder",
+        "Geology"
+      ],
+      "is_must_see": true,
+      "advance_booking": true,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Plaza de Toros de Ronda",
+      "city": "Ronda",
+      "category": "Cultural Site",
+      "subcategory": "Bullring",
+      "coordinates": {
+        "lat": 36.7394,
+        "lon": -5.1633
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "One of oldest and most beautiful bullrings in Spain, birthplace of modern bullfighting. Built in 1785 with stunning neoclassical architecture. Museum showcases bullfighting history and Ronda's role in developing the sport.",
+      "address": "",
+      "entrance_fee": "€8",
+      "opening_hours": "10:00-19:00",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Bullring",
+        "Cultural",
+        "Historic",
+        "Architecture",
+        "Museum"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Puente Nuevo",
+      "city": "Ronda",
+      "category": "Bridge",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 36.7407189,
+        "lon": -5.1658807
+      },
+      "rating": 8.9,
+      "reviews_count": null,
+      "description": "18th-century stone bridge spanning the El Tajo gorge, symbol of Ronda.",
+      "address": "",
+      "entrance_fee": "Free (small fee for inside exhibition)",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 1,
+      "website": null,
+      "tags": [
+        "bridge",
+        "gorge",
+        "viewpoint"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q574869",
+      "wikipedia": "https://en.wikipedia.org/wiki/Puente_Nuevo",
+      "osm_type": "bridge"
+    },
+    {
+      "name": "Ronda Puente Nuevo",
+      "city": "Ronda",
+      "category": "Historic Site",
+      "subcategory": "Bridge",
+      "coordinates": {
+        "lat": 36.7406,
+        "lon": -5.1631
+      },
+      "rating": 4.9,
+      "reviews_count": null,
+      "description": "Ronda's iconic 18th-century bridge spanning the dramatic 100-meter-deep El Tajo gorge. One of the most photographed landmarks in Andalusia. The town sits on rock plateau carved by the gorge, offering spectacular views. Best viewpoint is from Arabic Arch at Mirador la Hoya del Tajo.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Bridge",
+        "Historic",
+        "Gorge",
+        "Viewpoint",
+        "Iconic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Multiple Sources"
+    },
+    {
+      "name": "Conjunto Arqueológico de Itálica",
+      "city": "Santiponce",
+      "category": "Archaeological Site",
+      "subcategory": "Roman Ruins",
+      "coordinates": {
+        "lat": 37.4406,
+        "lon": -6.0456
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Extensive Roman archaeological site 10km from Seville featuring well-preserved amphitheater, mosaics, and city ruins. Birthplace of Roman emperors Trajan and Hadrian. One of best-preserved Roman cities in Spain.",
+      "address": "",
+      "entrance_fee": "Free (EU citizens)",
+      "opening_hours": "09:00-18:00",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "Roman",
+        "Archaeological",
+        "Historic",
+        "Ruins",
+        "Amphitheater"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "España Guide"
+    },
+    {
+      "name": "Setenil de las Bodegas",
+      "city": "Setenil de las Bodegas",
+      "category": "White Village",
+      "subcategory": "Cave Village",
+      "coordinates": {
+        "lat": 36.8633,
+        "lon": -5.1797
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "Unique white village with houses built into and under massive rock overhangs. Streets like Calle Cuevas del Sol and Calle Cuevas de la Sombra run beneath huge rock formations. One of most unusual and photogenic pueblos blancos.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Pueblo Blanco",
+        "Cave Houses",
+        "Unique Architecture",
+        "Photogenic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "La Giralda",
+      "city": "Seville",
+      "category": "Viewpoint",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3862,
+        "lon": -5.9925
+      },
+      "rating": 8.9,
+      "reviews_count": null,
+      "description": "Iconic bell tower and former minaret of Seville Cathedral, with a ramped climb and excellent views.",
+      "address": "",
+      "entrance_fee": "Included with cathedral ticket",
+      "opening_hours": "Mo-Sa 10:45-17:00; Su 14:30-18:00",
+      "visit_duration_hours": 1.5,
+      "website": null,
+      "tags": [
+        "tower",
+        "viewpoint"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q41183",
+      "wikipedia": "https://en.wikipedia.org/wiki/Giralda",
+      "osm_type": "tower"
+    },
+    {
+      "name": "Las Dueñas Palace",
+      "city": "Seville",
+      "category": "Historic Site",
+      "subcategory": "Palace",
+      "coordinates": {
+        "lat": 37.3944,
+        "lon": -5.9908
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "House of Alba's current residence in Seville, built between the 15th and 16th centuries. One of the greatest historical attractions of the city featuring stunning architecture and beautiful courtyards with lush gardens.",
+      "address": "",
+      "entrance_fee": "€10",
+      "opening_hours": "10:00-19:00",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Palace",
+        "Renaissance",
+        "Historic",
+        "Architecture",
+        "Gardens"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "TripAdvisor"
+    },
+    {
+      "name": "Metropol Parasol",
+      "city": "Seville",
+      "category": "Architecture",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3932,
+        "lon": -5.9922
+      },
+      "rating": 8.8,
+      "reviews_count": null,
+      "description": "Huge modern wooden structure with elevated walkways and sunset views over Seville's old town.",
+      "address": "",
+      "entrance_fee": "Viewpoint ticket required, plaza free",
+      "opening_hours": "Mo-Su 09:30-00:00",
+      "visit_duration_hours": 1.5,
+      "website": "https://setasdesevilla.com",
+      "tags": [
+        "modern",
+        "viewpoint",
+        "wood"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q17100374",
+      "wikipedia": "https://en.wikipedia.org/wiki/Metropol_Parasol",
+      "osm_type": "attraction"
+    },
+    {
+      "name": "Parque de María Luisa",
+      "city": "Seville",
+      "category": "Park",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3779,
+        "lon": -5.9901
+      },
+      "rating": 8.6,
+      "reviews_count": null,
+      "description": "Large historic park surrounding Plaza de España with shaded paths and fountains.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 1.5,
+      "website": null,
+      "tags": [
+        "park",
+        "gardens"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1148577",
+      "wikipedia": "https://en.wikipedia.org/wiki/Parque_de_Mar%C3%ADa_Luisa",
+      "osm_type": "park"
+    },
+    {
+      "name": "Plaza de España",
+      "city": "Seville",
+      "category": "Architecture",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3772,
+        "lon": -5.9867
+      },
+      "rating": 9.4,
+      "reviews_count": null,
+      "description": "Iconic semicircular plaza with tiled alcoves representing Spanish provinces and a central canal.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24/7",
+      "visit_duration_hours": 1,
+      "website": null,
+      "tags": [
+        "plaza",
+        "renaissance",
+        "canal"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1391025",
+      "wikipedia": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a,_Seville",
+      "osm_type": null
+    },
+    {
+      "name": "Real Alcázar de Sevilla",
+      "city": "Seville",
+      "category": "Architecture",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3839,
+        "lon": -5.9911
+      },
+      "rating": 9.6,
+      "reviews_count": null,
+      "description": "Stunning royal palace with Mudéjar architecture, lush gardens, and Game of Thrones filming location.",
+      "address": "",
+      "entrance_fee": "€14.50",
+      "opening_hours": "Mo-Su 09:30-19:00",
+      "visit_duration_hours": 3,
+      "website": "https://www.alcazarsevilla.org",
+      "tags": [
+        "UNESCO",
+        "gardens",
+        "mudéjar",
+        "palace"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q491596",
+      "wikipedia": "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Seville",
+      "osm_type": ""
+    },
+    {
+      "name": "Seville Cathedral",
+      "city": "Seville",
+      "category": "Religious",
+      "subcategory": "",
+      "coordinates": {
+        "lat": 37.3859,
+        "lon": -5.993
+      },
+      "rating": 9.5,
+      "reviews_count": null,
+      "description": "Gothic cathedral and UNESCO site, resting place of Christopher Columbus with the Giralda bell tower.",
+      "address": "",
+      "entrance_fee": "€12.00",
+      "opening_hours": "Mo-Sa 10:45-17:00; Su 14:30-18:00",
+      "visit_duration_hours": 2,
+      "website": "https://www.catedraldesevilla.es",
+      "tags": [
+        "UNESCO",
+        "cathedral",
+        "gothic"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Curated",
+      "wikidata": "Q1456",
+      "wikipedia": "https://en.wikipedia.org/wiki/Seville_Cathedral",
+      "osm_type": "church"
+    },
+    {
+      "name": "Mulhacén Peak",
+      "city": "Sierra Nevada",
+      "category": "Mountain",
+      "subcategory": "Highest Peak",
+      "coordinates": {
+        "lat": 37.0537,
+        "lon": -3.3117
+      },
+      "rating": 4.8,
+      "reviews_count": null,
+      "description": "At 3,479m, Mulhacén is the highest peak in mainland Spain and Western Europe outside the Alps. Part of Sierra Nevada National Park and UNESCO Biosphere Reserve. Offers day hikes with spectacular views extending to Africa on clear days.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 8,
+      "website": "",
+      "tags": [
+        "Mountain",
+        "Hiking",
+        "UNESCO",
+        "Nature",
+        "Peak"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Tabernas Desert",
+      "city": "Tabernas",
+      "category": "Natural Wonder",
+      "subcategory": "Desert",
+      "coordinates": {
+        "lat": 37.05,
+        "lon": -2.43
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Europe's only true desert covering 280km2 with spectacular badlands topography, ravines, and striking rock formations. Known as 'Andalusian Hollywood' for being the backdrop of many Western films. Features old film sets including Mini Hollywood theme park.",
+      "address": "",
+      "entrance_fee": "€21 (Mini Hollywood)",
+      "opening_hours": "10:00-19:00",
+      "visit_duration_hours": 3,
+      "website": "",
+      "tags": [
+        "Desert",
+        "Film Location",
+        "Nature",
+        "Western",
+        "Unique Landscape"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Tarifa Beaches & Kite Surfing",
+      "city": "Tarifa",
+      "category": "Beach & Sports",
+      "subcategory": "Water Sports",
+      "coordinates": {
+        "lat": 36.0133,
+        "lon": -5.6067
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Southernmost point of Continental Europe offering views of Africa across strait. World-renowned kite surfing and windsurfing destination with consistent winds. Beautiful beaches where Atlantic meets Mediterranean. Historic old town with 13th-century walls.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 4,
+      "website": "",
+      "tags": [
+        "Beach",
+        "Kite Surfing",
+        "Water Sports",
+        "Coastal",
+        "Wind Sports"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Úbeda Renaissance Quarter",
+      "city": "Úbeda",
+      "category": "UNESCO World Heritage",
+      "subcategory": "Historic Center",
+      "coordinates": {
+        "lat": 38.0083,
+        "lon": -3.3694
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "UNESCO World Heritage Site featuring stunning Renaissance buildings designed by architect Andrés de Vandelvira. Highlights include Capilla del Salvador, Palacio del Deán Ortega, and Church of Santa María de los Reales Alcázares. Flourished in 16th century after Catholic reconquest.",
+      "address": "",
+      "entrance_fee": "Free (individual sites vary)",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 3,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Renaissance",
+        "Historic Center",
+        "Architecture",
+        "Cultural"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "España Guide"
+    },
+    {
+      "name": "Vejer de la Frontera",
+      "city": "Vejer de la Frontera",
+      "category": "White Village",
+      "subcategory": "Historic Village",
+      "coordinates": {
+        "lat": 36.2517,
+        "lon": -5.965
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Stunning hilltop white village with maze of narrow streets, whitewashed houses, and Moorish architecture. Offers panoramic views over countryside and coast. One of most beautiful pueblos blancos with rich history and vibrant artistic community.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Pueblo Blanco",
+        "Historic",
+        "Moorish",
+        "Viewpoint"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Zahara de la Sierra",
+      "city": "Zahara de la Sierra",
+      "category": "White Village",
+      "subcategory": "Historic Village",
+      "coordinates": {
+        "lat": 36.84,
+        "lon": -5.3897
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Picture-perfect white village crowned by Moorish castle ruins overlooking turquoise reservoir. One of most photographed pueblos blancos with stunning mountain backdrop. Features steep cobbled streets and magnificent panoramic views from castle.",
+      "address": "",
+      "entrance_fee": "Free (castle €2)",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Pueblo Blanco",
+        "Castle",
+        "Reservoir",
+        "Moorish"
+      ],
+      "is_must_see": true,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Almonaster la Real",
+      "city": "Almonaster la Real",
+      "category": "Historic Village",
+      "subcategory": "Moorish Village",
+      "coordinates": {
+        "lat": 37.8717,
+        "lon": -6.7847
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Picturesque white village in Sierra de Aracena featuring one of best-preserved rural mosques in Spain (10th century). Hilltop location offers beautiful views. One of most beautiful villages in Andalusia with authentic atmosphere.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "White Village",
+        "Moorish",
+        "Mosque",
+        "Historic",
+        "Sierra de Aracena"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "España Guide"
+    },
+    {
+      "name": "La Peña de los Enamorados",
+      "city": "Antequera",
+      "category": "Natural Monument",
+      "subcategory": "Limestone Rock",
+      "coordinates": {
+        "lat": 37.03,
+        "lon": -4.52
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Dramatic 800-meter-high limestone rock formation resembling a sleeping face. Part of UNESCO World Heritage Site with Antequera Dolmens. Known locally as 'Lovers' Rock' with romantic legend attached.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "UNESCO",
+        "Rock Formation",
+        "Nature",
+        "Viewpoint",
+        "Legend"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Museo del Jamón - Aracena",
+      "city": "Aracena",
+      "category": "Museum",
+      "subcategory": "Food Museum",
+      "coordinates": {
+        "lat": 37.89,
+        "lon": -6.555
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Museum dedicated to Sierra de Aracena's landscape and traditional pig-rearing methods producing Spain's most revered jamón ibérico. Audio guides available in five languages. Nearby Jabugo produces world's best jamón with farm tours available.",
+      "address": "",
+      "entrance_fee": "€5",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Museum",
+        "Food",
+        "Jamón",
+        "Cultural",
+        "Traditional"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Lonely Planet"
+    },
+    {
+      "name": "Lake Negratin",
+      "city": "Freila",
+      "category": "Natural Wonder",
+      "subcategory": "Lake",
+      "coordinates": {
+        "lat": 37.58,
+        "lon": -2.77
+      },
+      "rating": 4.7,
+      "reviews_count": null,
+      "description": "Massive freshwater lake created by Negratin Dam on Guadiana Menor River with ever-changing colors from turquoise to cobalt blue. Features swimming spots like Playa de Freila and nearby thermal hot springs at Baños de Zujar.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 3,
+      "website": "",
+      "tags": [
+        "Lake",
+        "Swimming",
+        "Nature",
+        "Thermal Springs",
+        "Hidden Gem"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Castillo de Santa Catalina",
+      "city": "Jaén",
+      "category": "Historic Site",
+      "subcategory": "Castle",
+      "coordinates": {
+        "lat": 37.7786,
+        "lon": -3.7869
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Picturesque castle ruin atop hill with panoramic views over entire city and olive groves. Now houses a parador hotel. Offers spectacular perspective of Jaén Cathedral's dominance over the cityscape.",
+      "address": "",
+      "entrance_fee": "€3.50",
+      "opening_hours": "10:00-14:00, 15:30-19:30",
+      "visit_duration_hours": 1.5,
+      "website": "",
+      "tags": [
+        "Castle",
+        "Historic",
+        "Viewpoint",
+        "Moorish",
+        "Parador"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "La Concha Mountain",
+      "city": "Marbella",
+      "category": "Mountain",
+      "subcategory": "Peak Hike",
+      "coordinates": {
+        "lat": 36.5914,
+        "lon": -4.9647
+      },
+      "rating": 4.6,
+      "reviews_count": null,
+      "description": "Glorious mountain peak visible from Golden Mile beaches around Marbella. Strenuous 13.5km hike with 680m ascent taking about 5 hours. Views extend along coastline to Gibraltar and across to North African coast. Best route starts from Refugio el Juanar.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 5,
+      "website": "",
+      "tags": [
+        "Mountain",
+        "Hiking",
+        "Scenic Views",
+        "Adventure",
+        "Coastal"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Arab Baths of Ronda",
+      "city": "Ronda",
+      "category": "Historic Site",
+      "subcategory": "Baths",
+      "coordinates": {
+        "lat": 36.7414,
+        "lon": -5.1672
+      },
+      "rating": 4.4,
+      "reviews_count": null,
+      "description": "Fascinating 13th-century Arab baths at base of gorge, among best-preserved in Spain. Features horseshoe arches and star-shaped skylights. Provides insight into Islamic bathing culture and daily life during Moorish period.",
+      "address": "",
+      "entrance_fee": "€3.50",
+      "opening_hours": "10:00-18:00",
+      "visit_duration_hours": 0.5,
+      "website": "",
+      "tags": [
+        "Historic",
+        "Moorish",
+        "Baths",
+        "Archaeological",
+        "Islamic"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Casa del Rey Moro",
+      "city": "Ronda",
+      "category": "Historic Site",
+      "subcategory": "Palace & Gardens",
+      "coordinates": {
+        "lat": 36.7428,
+        "lon": -5.1658
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Beautiful tiered gardens cascading down to the gorge with stunning views. Features the Water Mine - a secret staircase of 300+ steps carved into rock descending to river below, used to fetch water during sieges.",
+      "address": "",
+      "entrance_fee": "€5",
+      "opening_hours": "10:00-19:00",
+      "visit_duration_hours": 1,
+      "website": "",
+      "tags": [
+        "Gardens",
+        "Historic",
+        "Palace",
+        "Gorge Views",
+        "Architecture"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    },
+    {
+      "name": "Trevélez",
+      "city": "Trevélez",
+      "category": "Mountain Village",
+      "subcategory": "Jamón Village",
+      "coordinates": {
+        "lat": 36.9833,
+        "lon": -3.2667
+      },
+      "rating": 4.5,
+      "reviews_count": null,
+      "description": "Highest village in mainland Spain at 1,476m in Las Alpujarras. Famous for producing exceptional jamón serrano cured in mountain air. Base for hiking Mulhacén peak with stunning Sierra Nevada views.",
+      "address": "",
+      "entrance_fee": "Free",
+      "opening_hours": "Open 24 hours",
+      "visit_duration_hours": 2,
+      "website": "",
+      "tags": [
+        "Mountain Village",
+        "Jamón",
+        "Hiking",
+        "Las Alpujarras",
+        "Traditional"
+      ],
+      "is_must_see": false,
+      "advance_booking": false,
+      "source": "Regional Travel Blog"
+    }
+  ],
+  "metadata": {
+    "total_pois": 64,
+    "sources": [
+      "TripAdvisor",
+      "Lonely Planet",
+      "España Guide",
+      "Regional Travel Blogs",
+      "Curated GPT"
+    ],
+    "date_compiled": "2025-11-06",
+    "notes": "Merged collection of must-see Andalusia POIs from multiple authoritative sources. Duplicates removed based on name, city, and coordinates."
+  }
+}

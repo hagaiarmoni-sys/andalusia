@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Seville",
+    "original": {
+      "name": "Parroquia de Omnium Sanctorum",
+      "city": "Seville",
+      "category": "Religious",
+      "coordinates": {
+        "lat": 37.39920693893226,
+        "lon": -5.9912921067278
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": null,
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": null
+    },
+    "duplicate": {
+      "name": "Real Parroquia de Omnium Sanctorum",
+      "city": "Seville",
+      "category": "Religious",
+      "coordinates": {
+        "lat": 37.39920972812171,
+        "lon": -5.9912621059750215
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": null,
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": null
+    },
+    "reason": "Exact match after normalization + within 3m",
+    "distance_m": 2.668226967704991
+  },
+  {
+    "city": "Almería",
+    "original": {
+      "name": "Monumento a los almerienses caídos durante el exterminio Nazi",
+      "city": "Almería",
+      "category": "Historical",
+      "coordinates": {
+        "lat": 36.8322895,
+        "lon": -2.4628485
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": null,
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": null
+    },
+    "duplicate": {
+      "name": "Monumento a los almerineses caídos durante el exterminio Nazi",
+      "city": "Almería",
+      "category": "Historical",
+      "coordinates": {
+        "lat": 36.832328945586916,
+        "lon": -2.462799231407732
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": "Q30176006",
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": null
+    },
+    "reason": "Very similar names (98.4%) + within 6m",
+    "distance_m": 6.2020609678335195
+  },
+  {
+    "city": "Écija",
+    "original": {
+      "name": "Palacio de Almenrara Alta",
+      "city": "Écija",
+      "category": "Attraction",
+      "coordinates": {
+        "lat": 37.53978925453051,
+        "lon": -5.077420134951725
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": null,
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": "attraction"
+    },
+    "duplicate": {
+      "name": "Palacio de Almenara Alta",
+      "city": "Écija",
+      "category": "Attraction",
+      "coordinates": {
+        "lat": 37.53983479908599,
+        "lon": -5.077588163624536
+      },
+      "rating": null,
+      "visit_duration_hours": null,
+      "entrance_fee": null,
+      "description": "",
+      "opening_hours": null,
+      "website": null,
+      "wikidata": null,
+      "wikipedia": null,
+      "tags": [],
+      "source": "OpenStreetMap",
+      "osm_type": "attraction"
+    },
+    "reason": "Very similar names (98.0%) + within 16m",
+    "distance_m": 15.656732129980202
+  }
+]

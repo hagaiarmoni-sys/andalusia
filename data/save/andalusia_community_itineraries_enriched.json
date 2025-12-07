@@ -1,0 +1,983 @@
+{
+  "version": "3.0",
+  "last_updated": "2025-11-20",
+  "total_itineraries": 27,
+  "sources": [
+    "Reddit r/travel",
+    "Lonely Planet",
+    "Rick Steves",
+    "Lametayel (Israeli travel forum)",
+    "TripAdvisor forums",
+    "Travel blogs"
+  ],
+  "changelog": "v3.0 - Added profile_fit, pace_profile, metrics, poi_ids mappings, route_ids_between_cities, interest_tag_primary, required_transport_type, cultural_events_covered",
+  "itineraries": [
+    {
+      "id": "classic_golden_triangle_7d",
+      "name": "Classic Golden Triangle - 7 Days",
+      "duration_days": 7,
+      "type": "Cultural Heritage",
+      "difficulty": "Easy",
+      "transport": "Train + Car",
+      "source": "Multiple travel guides",
+      "best_season": ["Spring", "Autumn"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Málaga", "Granada", "Córdoba", "Seville"],
+      "route_type": "circular",
+      "tags": ["culture", "history", "architecture", "unesco", "first-time"],
+      "interest_tag_primary": "History",
+      "social_proof": {
+        "upvotes": 1247,
+        "reviews": 89,
+        "rating": 4.8
+      },
+      "profile_fit": {
+        "first_time": true,
+        "slow_travel": false,
+        "family_with_kids": true,
+        "seniors": true,
+        "budget_backpacker": false,
+        "luxury": false,
+        "active_adventure": false,
+        "culture_focused": true
+      },
+      "pace_profile": {
+        "walking_intensity": "medium",
+        "driving_intensity": "low",
+        "free_time_ratio": 0.25,
+        "daily_activities_count": 3.5,
+        "description": "Balanced cultural pace with train connections"
+      },
+      "required_transport_type": {
+        "car_required": false,
+        "train_used": true,
+        "inter_city_bus_used": false,
+        "mix_recommended": true,
+        "notes": "Can use trains for all major connections, optional car for day trips"
+      },
+      "cultural_events_covered": [],
+      "metrics": {
+        "total_km": 650,
+        "avg_km_per_day": 93,
+        "max_km_single_day": 210,
+        "total_driving_days": 4,
+        "city_night_distribution": {
+          "Málaga": 1,
+          "Granada": 2,
+          "Córdoba": 1,
+          "Seville": 2
+        },
+        "total_unesco_sites": 3,
+        "estimated_walking_km_per_day": 8
+      },
+      "estimated_total_cost_per_person": {
+        "currency": "EUR",
+        "breakdown": {
+          "accommodation": "420-560",
+          "food": "210-280",
+          "activities": "120-200",
+          "transport": "50-160"
+        },
+        "total_min": 800,
+        "total_max": 1200
+      },
+      "highlights": [
+        "Alhambra",
+        "Mezquita-Cathedral",
+        "Real Alcázar",
+        "Flamenco show"
+      ],
+      "user_tips": [
+        "Book Alhambra tickets 2-3 months in advance",
+        "Stay in historic centers for authentic experience",
+        "Use AVE high-speed train between major cities"
+      ],
+      "route_ids_between_cities": [
+        {
+          "from": "Málaga",
+          "to": "Granada",
+          "possible_detours": ["caminito_del_rey", "el_torcal_de_antequera", "antequera_dolmens"]
+        },
+        {
+          "from": "Granada",
+          "to": "Córdoba",
+          "possible_detours": ["bodegas_alvear", "priego_de_c_rdoba", "zuheros_village_castle"]
+        },
+        {
+          "from": "Córdoba",
+          "to": "Seville",
+          "possible_detours": ["medina_azahara", "carmona_historic_town", "_cija_city_of_towers"]
+        },
+        {
+          "from": "Seville",
+          "to": "Málaga",
+          "possible_detours": ["osuna_historic_town"]
+        }
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "city_or_region": "Málaga",
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "picasso_museum_malaga",
+            "malaga_cathedral"
+          ],
+          "activities": [
+            {
+              "label": "Airport arrival",
+              "poi_ids": [],
+              "categories": ["logistics"]
+            },
+            {
+              "label": "Alcazaba fortress",
+              "poi_ids": ["alcazaba_malaga"],
+              "categories": ["history", "architecture", "views"]
+            },
+            {
+              "label": "Picasso Museum",
+              "poi_ids": ["picasso_museum_malaga"],
+              "categories": ["art", "culture", "museum"]
+            },
+            {
+              "label": "Historic center walk",
+              "poi_ids": ["malaga_cathedral", "calle_larios_malaga"],
+              "categories": ["walking", "architecture", "shopping"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 90,
+            "max": 140
+          }
+        },
+        {
+          "day_number": 2,
+          "city_or_region": "Granada",
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada"
+          ],
+          "activities": [
+            {
+              "label": "Travel to Granada",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Albaicín quarter",
+              "poi_ids": ["albaicin_granada"],
+              "categories": ["walking", "historic_quarter", "unesco", "photography"]
+            },
+            {
+              "label": "Mirador San Nicolás sunset",
+              "poi_ids": ["mirador_san_nicolas_granada"],
+              "categories": ["views", "photography", "sunset"]
+            },
+            {
+              "label": "Tapas tour",
+              "poi_ids": [],
+              "categories": ["food", "culture", "nightlife"]
+            }
+          ],
+          "driving_km": 130,
+          "driving_minutes": 90,
+          "estimated_daily_cost_eur": {
+            "min": 100,
+            "max": 160
+          }
+        },
+        {
+          "day_number": 3,
+          "city_or_region": "Granada",
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "royal_chapel_granada"
+          ],
+          "activities": [
+            {
+              "label": "Full day Alhambra & Generalife",
+              "poi_ids": ["alhambra_granada", "generalife_gardens_granada"],
+              "categories": ["history", "architecture", "gardens", "unesco", "must_see"]
+            },
+            {
+              "label": "Royal Chapel visit",
+              "poi_ids": ["royal_chapel_granada"],
+              "categories": ["history", "architecture", "catholic_monarchs"]
+            },
+            {
+              "label": "Free afternoon in Realejo",
+              "poi_ids": ["realejo_granada"],
+              "categories": ["walking", "shopping", "leisure"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 110,
+            "max": 170
+          }
+        },
+        {
+          "day_number": 4,
+          "city_or_region": "Córdoba",
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba",
+            "roman_bridge_cordoba"
+          ],
+          "activities": [
+            {
+              "label": "Travel to Córdoba",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Mezquita-Cathedral",
+              "poi_ids": ["mezquita_cathedral_cordoba"],
+              "categories": ["history", "architecture", "unesco", "islamic", "must_see"]
+            },
+            {
+              "label": "Jewish Quarter walk",
+              "poi_ids": ["jewish_quarter_cordoba"],
+              "categories": ["walking", "historic_quarter", "culture"]
+            },
+            {
+              "label": "Roman Bridge",
+              "poi_ids": ["roman_bridge_cordoba"],
+              "categories": ["history", "views", "photography"]
+            }
+          ],
+          "driving_km": 170,
+          "driving_minutes": 120,
+          "estimated_daily_cost_eur": {
+            "min": 100,
+            "max": 150
+          }
+        },
+        {
+          "day_number": 5,
+          "city_or_region": "Seville",
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville",
+            "santa_cruz_seville"
+          ],
+          "activities": [
+            {
+              "label": "AVE train to Seville",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Cathedral & Giralda",
+              "poi_ids": ["seville_cathedral", "giralda_seville"],
+              "categories": ["history", "architecture", "unesco", "must_see"]
+            },
+            {
+              "label": "Real Alcázar",
+              "poi_ids": ["real_alcazar_seville"],
+              "categories": ["history", "architecture", "gardens", "unesco", "game_of_thrones"]
+            },
+            {
+              "label": "Santa Cruz neighborhood",
+              "poi_ids": ["santa_cruz_seville"],
+              "categories": ["walking", "historic_quarter", "photography"]
+            }
+          ],
+          "driving_km": 140,
+          "driving_minutes": 45,
+          "estimated_daily_cost_eur": {
+            "min": 120,
+            "max": 180
+          }
+        },
+        {
+          "day_number": 6,
+          "city_or_region": "Seville",
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "maria_luisa_park_seville",
+            "metropol_parasol_seville"
+          ],
+          "activities": [
+            {
+              "label": "Plaza de España",
+              "poi_ids": ["plaza_de_espana_seville"],
+              "categories": ["architecture", "photography", "iconic", "views"]
+            },
+            {
+              "label": "Flamenco show in Triana",
+              "poi_ids": [],
+              "categories": ["culture", "nightlife", "music", "dance", "must_do"]
+            },
+            {
+              "label": "María Luisa Park",
+              "poi_ids": ["maria_luisa_park_seville"],
+              "categories": ["gardens", "walking", "leisure"]
+            },
+            {
+              "label": "Metropol Parasol",
+              "poi_ids": ["metropol_parasol_seville"],
+              "categories": ["modern_architecture", "views", "photography"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 110,
+            "max": 170
+          }
+        },
+        {
+          "day_number": 7,
+          "city_or_region": "Málaga",
+          "overnight": "Departure",
+          "poi_ids_for_day": [],
+          "activities": [
+            {
+              "label": "Return to Málaga",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Beach time",
+              "poi_ids": ["malagueta_beach_malaga"],
+              "categories": ["beach", "leisure", "relaxation"]
+            },
+            {
+              "label": "Departure",
+              "poi_ids": [],
+              "categories": ["logistics"]
+            }
+          ],
+          "driving_km": 210,
+          "driving_minutes": 180,
+          "estimated_daily_cost_eur": {
+            "min": 70,
+            "max": 130
+          }
+        }
+      ]
+    },
+    {
+      "id": "complete_andalusia_10d",
+      "name": "Complete Andalusia Experience - 10 Days",
+      "duration_days": 10,
+      "type": "Comprehensive Cultural & Nature",
+      "difficulty": "Moderate",
+      "transport": "Rental Car",
+      "source": "Lonely Planet/Rick Steves",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Seville",
+        "Córdoba",
+        "Granada",
+        "Ronda",
+        "White Villages",
+        "Cádiz",
+        "Málaga"
+      ],
+      "route_type": "circular",
+      "tags": [
+        "comprehensive",
+        "culture",
+        "nature",
+        "white-villages",
+        "beaches"
+      ],
+      "interest_tag_primary": "Culture",
+      "social_proof": {
+        "upvotes": 2103,
+        "reviews": 156,
+        "rating": 4.9
+      },
+      "profile_fit": {
+        "first_time": true,
+        "slow_travel": false,
+        "family_with_kids": true,
+        "seniors": false,
+        "budget_backpacker": false,
+        "luxury": false,
+        "active_adventure": true,
+        "culture_focused": true
+      },
+      "pace_profile": {
+        "walking_intensity": "medium-high",
+        "driving_intensity": "medium",
+        "free_time_ratio": 0.20,
+        "daily_activities_count": 4,
+        "description": "Active comprehensive tour with car flexibility"
+      },
+      "required_transport_type": {
+        "car_required": true,
+        "train_used": false,
+        "inter_city_bus_used": false,
+        "mix_recommended": false,
+        "notes": "Rental car essential for white villages and flexibility"
+      },
+      "cultural_events_covered": [],
+      "metrics": {
+        "total_km": 1030,
+        "avg_km_per_day": 103,
+        "max_km_single_day": 250,
+        "total_driving_days": 7,
+        "city_night_distribution": {
+          "Seville": 2,
+          "Córdoba": 1,
+          "Granada": 2,
+          "Ronda": 1,
+          "Arcos de la Frontera": 1,
+          "Cádiz": 1,
+          "Málaga": 1
+        },
+        "total_unesco_sites": 3,
+        "estimated_walking_km_per_day": 9
+      },
+      "estimated_total_cost_per_person": {
+        "currency": "EUR",
+        "breakdown": {
+          "accommodation": "600-800",
+          "food": "300-400",
+          "activities": "150-250",
+          "transport": "150-350"
+        },
+        "total_min": 1200,
+        "total_max": 1800
+      },
+      "highlights": [
+        "Complete cultural triangle",
+        "White villages",
+        "Sherry experience",
+        "Natural parks",
+        "Ronda gorge"
+      ],
+      "user_tips": [
+        "Rent car after visiting major cities",
+        "White villages best in spring for wildflowers",
+        "Book paradores early for unique stays"
+      ],
+      "route_ids_between_cities": [
+        {
+          "from": "Córdoba",
+          "to": "Seville",
+          "possible_detours": ["medina_azahara", "carmona_historic_town", "castillo_de_almod_var_del_r_o"]
+        },
+        {
+          "from": "Granada",
+          "to": "Córdoba",
+          "possible_detours": ["priego_de_c_rdoba", "zuheros_village_castle", "bodegas_alvear"]
+        },
+        {
+          "from": "Granada",
+          "to": "Ronda",
+          "possible_detours": ["el_torcal_de_antequera", "caminito_del_rey"]
+        },
+        {
+          "from": "Ronda",
+          "to": "White Villages",
+          "possible_detours": ["zahara_de_la_sierra", "grazalema_village", "setenil_de_las_bodegas"]
+        },
+        {
+          "from": "Arcos",
+          "to": "Cádiz",
+          "possible_detours": ["vejer_de_la_frontera"]
+        },
+        {
+          "from": "Cádiz",
+          "to": "Málaga",
+          "possible_detours": []
+        }
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "city_or_region": "Seville",
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville",
+            "santa_cruz_seville"
+          ],
+          "activities": [
+            {
+              "label": "Arrival",
+              "poi_ids": [],
+              "categories": ["logistics"]
+            },
+            {
+              "label": "Cathedral & Giralda Tower",
+              "poi_ids": ["seville_cathedral", "giralda_seville"],
+              "categories": ["history", "architecture", "unesco", "must_see"]
+            },
+            {
+              "label": "Real Alcázar visit",
+              "poi_ids": ["real_alcazar_seville"],
+              "categories": ["history", "architecture", "gardens", "unesco"]
+            },
+            {
+              "label": "Santa Cruz quarter",
+              "poi_ids": ["santa_cruz_seville"],
+              "categories": ["walking", "historic_quarter", "photography"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 100,
+            "max": 160
+          }
+        },
+        {
+          "day_number": 2,
+          "city_or_region": "Seville",
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "casa_de_pilatos_seville"
+          ],
+          "activities": [
+            {
+              "label": "Plaza de España",
+              "poi_ids": ["plaza_de_espana_seville"],
+              "categories": ["architecture", "photography", "iconic"]
+            },
+            {
+              "label": "Casa de Pilatos",
+              "poi_ids": ["casa_de_pilatos_seville"],
+              "categories": ["architecture", "palace", "gardens"]
+            },
+            {
+              "label": "Flamenco show",
+              "poi_ids": [],
+              "categories": ["culture", "nightlife", "music", "dance"]
+            },
+            {
+              "label": "Triana district",
+              "poi_ids": ["triana_seville"],
+              "categories": ["walking", "neighborhood", "pottery", "culture"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 110,
+            "max": 170
+          }
+        },
+        {
+          "day_number": 3,
+          "city_or_region": "Córdoba",
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba",
+            "roman_bridge_cordoba"
+          ],
+          "activities": [
+            {
+              "label": "Drive to Córdoba",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Mezquita tour",
+              "poi_ids": ["mezquita_cathedral_cordoba"],
+              "categories": ["history", "architecture", "unesco", "islamic", "must_see"]
+            },
+            {
+              "label": "Jewish Quarter",
+              "poi_ids": ["jewish_quarter_cordoba"],
+              "categories": ["walking", "historic_quarter", "culture"]
+            },
+            {
+              "label": "Roman Bridge",
+              "poi_ids": ["roman_bridge_cordoba"],
+              "categories": ["history", "views", "photography"]
+            }
+          ],
+          "driving_km": 140,
+          "driving_minutes": 120,
+          "estimated_daily_cost_eur": {
+            "min": 110,
+            "max": 160
+          }
+        },
+        {
+          "day_number": 4,
+          "city_or_region": "Granada",
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada"
+          ],
+          "activities": [
+            {
+              "label": "Travel to Granada",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Albaicín exploration",
+              "poi_ids": ["albaicin_granada"],
+              "categories": ["walking", "historic_quarter", "unesco", "photography"]
+            },
+            {
+              "label": "Arab baths experience",
+              "poi_ids": ["hammam_al_andalus_granada"],
+              "categories": ["wellness", "culture", "relaxation"]
+            },
+            {
+              "label": "Sunset viewing",
+              "poi_ids": ["mirador_san_nicolas_granada"],
+              "categories": ["views", "photography", "sunset"]
+            }
+          ],
+          "driving_km": 200,
+          "driving_minutes": 150,
+          "estimated_daily_cost_eur": {
+            "min": 130,
+            "max": 190
+          }
+        },
+        {
+          "day_number": 5,
+          "city_or_region": "Granada",
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "sacromonte_granada"
+          ],
+          "activities": [
+            {
+              "label": "Full day Alhambra complex",
+              "poi_ids": ["alhambra_granada", "generalife_gardens_granada"],
+              "categories": ["history", "architecture", "gardens", "unesco", "must_see"]
+            },
+            {
+              "label": "Generalife gardens",
+              "poi_ids": ["generalife_gardens_granada"],
+              "categories": ["gardens", "history", "architecture"]
+            },
+            {
+              "label": "Sacromonte caves",
+              "poi_ids": ["sacromonte_granada"],
+              "categories": ["culture", "caves", "gypsy_culture", "flamenco"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 120,
+            "max": 180
+          }
+        },
+        {
+          "day_number": 6,
+          "city_or_region": "Ronda",
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda",
+            "ronda_bullring"
+          ],
+          "activities": [
+            {
+              "label": "Scenic drive to Ronda",
+              "poi_ids": [],
+              "categories": ["logistics", "transport", "scenic"]
+            },
+            {
+              "label": "Puente Nuevo",
+              "poi_ids": ["puente_nuevo_ronda"],
+              "categories": ["architecture", "views", "photography", "iconic", "must_see"]
+            },
+            {
+              "label": "Bullring visit",
+              "poi_ids": ["ronda_bullring"],
+              "categories": ["history", "culture", "architecture"]
+            },
+            {
+              "label": "Old town exploration",
+              "poi_ids": ["old_town_ronda"],
+              "categories": ["walking", "historic_quarter", "views"]
+            }
+          ],
+          "driving_km": 180,
+          "driving_minutes": 150,
+          "estimated_daily_cost_eur": {
+            "min": 110,
+            "max": 170
+          }
+        },
+        {
+          "day_number": 7,
+          "city_or_region": "White Villages",
+          "overnight": "Arcos de la Frontera",
+          "poi_ids_for_day": [
+            "grazalema_village",
+            "zahara_de_la_sierra",
+            "arcos_de_la_frontera"
+          ],
+          "activities": [
+            {
+              "label": "Grazalema Natural Park",
+              "poi_ids": ["grazalema_village", "sierra_de_grazalema_natural_park"],
+              "categories": ["nature", "hiking", "village", "natural_park"]
+            },
+            {
+              "label": "Zahara de la Sierra",
+              "poi_ids": ["zahara_de_la_sierra"],
+              "categories": ["white_village", "photography", "views", "castle"]
+            },
+            {
+              "label": "Arcos de la Frontera",
+              "poi_ids": ["arcos_de_la_frontera"],
+              "categories": ["white_village", "photography", "clifftop", "historic"]
+            }
+          ],
+          "driving_km": 100,
+          "driving_minutes": 100,
+          "estimated_daily_cost_eur": {
+            "min": 100,
+            "max": 150
+          }
+        },
+        {
+          "day_number": 8,
+          "city_or_region": "Cádiz",
+          "overnight": "Cádiz",
+          "poi_ids_for_day": [
+            "cadiz_cathedral",
+            "la_caleta_beach_cadiz"
+          ],
+          "activities": [
+            {
+              "label": "Drive to Cádiz",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            },
+            {
+              "label": "Cathedral visit",
+              "poi_ids": ["cadiz_cathedral"],
+              "categories": ["history", "architecture", "views"]
+            },
+            {
+              "label": "La Caleta beach",
+              "poi_ids": ["la_caleta_beach_cadiz"],
+              "categories": ["beach", "photography", "iconic"]
+            },
+            {
+              "label": "Historic center",
+              "poi_ids": ["old_town_cadiz"],
+              "categories": ["walking", "historic_quarter", "coastal"]
+            }
+          ],
+          "driving_km": 90,
+          "driving_minutes": 80,
+          "estimated_daily_cost_eur": {
+            "min": 100,
+            "max": 150
+          }
+        },
+        {
+          "day_number": 9,
+          "city_or_region": "Málaga",
+          "overnight": "Málaga",
+          "poi_ids_for_day": [],
+          "activities": [
+            {
+              "label": "Jerez sherry tasting",
+              "poi_ids": [],
+              "categories": ["wine", "gastronomy", "culture"]
+            },
+            {
+              "label": "Equestrian show (optional)",
+              "poi_ids": [],
+              "categories": ["culture", "horses", "entertainment"]
+            },
+            {
+              "label": "Drive to Málaga",
+              "poi_ids": [],
+              "categories": ["logistics", "transport"]
+            }
+          ],
+          "driving_km": 250,
+          "driving_minutes": 200,
+          "estimated_daily_cost_eur": {
+            "min": 120,
+            "max": 180
+          }
+        },
+        {
+          "day_number": 10,
+          "city_or_region": "Málaga",
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "picasso_museum_malaga"
+          ],
+          "activities": [
+            {
+              "label": "Málaga sightseeing",
+              "poi_ids": ["alcazaba_malaga", "picasso_museum_malaga"],
+              "categories": ["history", "art", "culture"]
+            },
+            {
+              "label": "Beach relaxation",
+              "poi_ids": ["malagueta_beach_malaga"],
+              "categories": ["beach", "leisure", "relaxation"]
+            },
+            {
+              "label": "Departure",
+              "poi_ids": [],
+              "categories": ["logistics"]
+            }
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0,
+          "estimated_daily_cost_eur": {
+            "min": 80,
+            "max": 140
+          }
+        }
+      ]
+    }
+  ],
+  "planning_metadata": {
+    "booking_priorities": [
+      "Alhambra tickets (2-3 months advance)",
+      "AVE train tickets (peak season)",
+      "Flamenco shows in Seville",
+      "Hotel accommodations during festivals",
+      "Caminito del Rey permits",
+      "Semana Santa accommodations (6 months ahead)",
+      "Sherry bodega tours",
+      "Private Alhambra evening access"
+    ],
+    "seasonal_tips": {
+      "Spring": {
+        "pros": ["Perfect weather", "Wildflowers", "Festivals"],
+        "cons": ["Easter crowds", "Higher prices"],
+        "events": ["Semana Santa", "Feria de Abril", "Patios Festival"],
+        "temperature": "15-25°C"
+      },
+      "Summer": {
+        "pros": ["Beach weather", "Long days"],
+        "cons": ["Extreme heat (40°C+)", "Crowds", "Siesta closures"],
+        "tips": ["Visit monuments early", "Plan siesta time", "Stay hydrated"],
+        "temperature": "25-40°C"
+      },
+      "Autumn": {
+        "pros": ["Great weather", "Fewer crowds", "Harvest season"],
+        "cons": ["November rain"],
+        "events": ["Flamenco Bienal", "Sherry harvest", "Olive harvest"],
+        "temperature": "15-28°C"
+      },
+      "Winter": {
+        "pros": ["Mild climate", "Low prices", "Authentic"],
+        "cons": ["Shorter days", "Mountain areas cold"],
+        "events": ["Carnival Cádiz", "Christmas markets"],
+        "temperature": "8-18°C"
+      }
+    },
+    "transport_tips": {
+      "rental_car": {
+        "best_for": ["White villages", "Natural parks", "Flexibility"],
+        "considerations": ["Parking in city centers difficult", "One-way fees", "Mountain driving"],
+        "cost_per_day": "30-60 EUR"
+      },
+      "train_travel": {
+        "best_for": ["Major cities", "Comfort", "City center connections"],
+        "limitations": ["Limited routes", "Advance booking needed"],
+        "ave_routes": ["Seville-Córdoba", "Córdoba-Madrid", "Málaga-Madrid"],
+        "cost_example": "Seville-Córdoba 25-40 EUR"
+      },
+      "mixed_transport": {
+        "recommended": "Train for cities, car for villages and nature",
+        "strategy": "Rent car only for specific legs (e.g., Ronda-White Villages-Seville)"
+      },
+      "buses": {
+        "best_for": ["Budget travel", "Regional connections"],
+        "companies": ["ALSA", "Comes", "Damas"],
+        "cost": "Generally 50% cheaper than trains"
+      }
+    },
+    "accommodation_strategies": {
+      "location_priority": "Historic centers for cultural immersion",
+      "booking_timing": "3-6 months for peak season, 1 month for off-season",
+      "special_options": [
+        "Paradores (historic buildings, premium)",
+        "Cortijos (rural estates, authentic)",
+        "Cave houses Granada (unique experience)",
+        "Hostels (budget, social)"
+      ],
+      "family_considerations": ["Pool essential in summer", "Connecting rooms", "Kitchen facilities"],
+      "price_ranges": {
+        "budget": "15-40 EUR per night (hostels)",
+        "mid-range": "60-120 EUR per night (3-star hotels)",
+        "premium": "150-300 EUR per night (4-5 star)",
+        "luxury": "300+ EUR per night (paradores, boutique)"
+      }
+    },
+    "money_saving_tips": [
+      "Visit monuments during free hours (early morning)",
+      "Eat menu del día for lunch (12-15 EUR)",
+      "Stay in hostels or Airbnb",
+      "Use public transport",
+      "Visit in shoulder season (April-May, Sept-Oct)",
+      "Book trains early for discounts",
+      "Free walking tours in major cities",
+      "Tapas bars cheaper than restaurants"
+    ],
+    "packing_essentials": {
+      "spring_autumn": ["Layers", "Light jacket", "Comfortable shoes", "Sunscreen", "Hat"],
+      "summer": ["Light clothing", "Sunscreen SPF50+", "Hat", "Sunglasses", "Reusable water bottle"],
+      "winter": ["Warm layers", "Jacket", "Scarf", "Comfortable shoes"],
+      "always": ["Power adapter (Type C/F)", "Portable charger", "Camera", "Daypack"]
+    },
+    "cultural_etiquette": {
+      "dining": [
+        "Lunch 14:00-16:00, Dinner 21:00-23:00",
+        "Tipping 5-10% appreciated but not mandatory",
+        "Share tapas in groups",
+        "Bar bill paid at end, not per round"
+      ],
+      "general": [
+        "Siesta time 14:00-17:00 (many shops close)",
+        "Dress modestly in churches",
+        "Greet with dos besos (two kisses) among friends",
+        "Spanish people friendly and helpful"
+      ],
+      "photography": [
+        "Ask permission for portraits",
+        "Some churches prohibit photos",
+        "Alhambra has strict photography rules"
+      ],
+      "language": [
+        "English spoken in tourist areas",
+        "Basic Spanish phrases appreciated",
+        "Older generation speaks less English"
+      ]
+    },
+    "must_try_foods": {
+      "Seville": ["Jamón ibérico", "Salmorejo", "Espinacas con garbanzos", "Torrijas"],
+      "Granada": ["Free tapas with drinks", "Remojón", "Pionono", "Tortilla del Sacromonte"],
+      "Córdoba": ["Salmorejo", "Rabo de toro", "Flamenquín", "Pastel cordobés"],
+      "Málaga": ["Pescaíto frito", "Ajoblanco", "Espetos", "Boquerones en vinagre"],
+      "Cádiz": ["Pescado frito", "Tortillitas de camarones", "Atún de almadraba"],
+      "Jerez": ["Sherry wine", "Riñones al jerez"],
+      "Regional": ["Gazpacho", "Paella", "Churros con chocolate", "Olive oil"]
+    }
+  }
+}

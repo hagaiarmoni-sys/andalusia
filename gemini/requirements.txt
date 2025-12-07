@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-docx
+folium
+streamlit-folium
+google-genai
+python-dotenv
+xlsxwriter

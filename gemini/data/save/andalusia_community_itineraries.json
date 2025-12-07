@@ -1,0 +1,1904 @@
+{
+  "version": "2.0",
+  "last_updated": "2025-01-15",
+  "total_itineraries": 27,
+  "sources": [
+    "Reddit r/travel",
+    "Lonely Planet",
+    "Rick Steves",
+    "Lametayel (Israeli travel forum)",
+    "TripAdvisor forums",
+    "Travel blogs"
+  ],
+  "itineraries": [
+    {
+      "id": "classic_golden_triangle_7d",
+      "name": "Classic Golden Triangle - 7 Days",
+      "duration_days": 7,
+      "type": "Cultural Heritage",
+      "difficulty": "Easy",
+      "transport": "Train + Car",
+      "source": "Multiple travel guides",
+      "best_season": ["Spring", "Autumn"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Málaga", "Granada", "Córdoba", "Seville"],
+      "route_type": "circular",
+      "tags": ["culture", "history", "architecture", "unesco", "first-time"],
+      "social_proof": {
+        "upvotes": 1247,
+        "reviews": 89,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Alhambra",
+        "Mezquita-Cathedral",
+        "Real Alcázar",
+        "Flamenco show"
+      ],
+      "user_tips": [
+        "Book Alhambra tickets 2-3 months in advance",
+        "Stay in historic centers for authentic experience",
+        "Use AVE high-speed train between major cities"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 800,
+        "max": 1200
+      },
+      "daily_itinerary": {
+        "Day 1": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Airport arrival",
+            "Alcazaba fortress",
+            "Picasso Museum",
+            "Historic center walk"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 2": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Travel to Granada",
+            "Albaicín quarter",
+            "Mirador San Nicolás sunset",
+            "Tapas tour"
+          ],
+          "driving_km": 130,
+          "driving_minutes": 90
+        },
+        "Day 3": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Full day Alhambra & Generalife",
+            "Royal Chapel visit",
+            "Free afternoon in Realejo"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 4": {
+          "location": "Córdoba",
+          "overnight": "Córdoba",
+          "activities": [
+            "Travel to Córdoba",
+            "Mezquita-Cathedral",
+            "Jewish Quarter walk",
+            "Roman Bridge"
+          ],
+          "driving_km": 170,
+          "driving_minutes": 120
+        },
+        "Day 5": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "AVE train to Seville",
+            "Cathedral & Giralda",
+            "Real Alcázar",
+            "Santa Cruz neighborhood"
+          ],
+          "driving_km": 140,
+          "driving_minutes": 45
+        },
+        "Day 6": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Plaza de España",
+            "Flamenco show in Triana",
+            "María Luisa Park",
+            "Metropol Parasol"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 7": {
+          "location": "Málaga",
+          "overnight": "Departure",
+          "activities": [
+            "Return to Málaga",
+            "Beach time",
+            "Departure"
+          ],
+          "driving_km": 210,
+          "driving_minutes": 180
+        }
+      }
+    },
+    {
+      "id": "complete_andalusia_10d",
+      "name": "Complete Andalusia Experience - 10 Days",
+      "duration_days": 10,
+      "type": "Comprehensive Cultural & Nature",
+      "difficulty": "Moderate",
+      "transport": "Rental Car",
+      "source": "Lonely Planet/Rick Steves",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Seville",
+        "Córdoba",
+        "Granada",
+        "Ronda",
+        "White Villages",
+        "Cádiz",
+        "Málaga"
+      ],
+      "route_type": "circular",
+      "tags": [
+        "comprehensive",
+        "culture",
+        "nature",
+        "white-villages",
+        "beaches"
+      ],
+      "social_proof": {
+        "upvotes": 2103,
+        "reviews": 156,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Complete cultural triangle",
+        "White villages",
+        "Sherry experience",
+        "Natural parks",
+        "Ronda gorge"
+      ],
+      "user_tips": [
+        "Rent car after visiting major cities",
+        "White villages best in spring for wildflowers",
+        "Book paradores early for unique stays"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1200,
+        "max": 1800
+      },
+      "daily_itinerary": {
+        "Day 1": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Arrival",
+            "Cathedral & Giralda Tower",
+            "Real Alcázar visit",
+            "Santa Cruz quarter"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 2": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Plaza de España",
+            "Casa de Pilatos",
+            "Flamenco show",
+            "Triana district"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 3": {
+          "location": "Córdoba",
+          "overnight": "Córdoba",
+          "activities": [
+            "Drive to Córdoba",
+            "Mezquita tour",
+            "Jewish Quarter",
+            "Roman Bridge"
+          ],
+          "driving_km": 140,
+          "driving_minutes": 120
+        },
+        "Day 4": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Travel to Granada",
+            "Albaicín exploration",
+            "Arab baths experience",
+            "Sunset viewing"
+          ],
+          "driving_km": 200,
+          "driving_minutes": 150
+        },
+        "Day 5": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Full day Alhambra complex",
+            "Generalife gardens",
+            "Sacromonte caves"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 6": {
+          "location": "Ronda",
+          "overnight": "Ronda",
+          "activities": [
+            "Scenic drive to Ronda",
+            "Puente Nuevo",
+            "Bullring visit",
+            "Old town exploration"
+          ],
+          "driving_km": 180,
+          "driving_minutes": 150
+        },
+        "Day 7": {
+          "location": "White Villages",
+          "overnight": "Arcos de la Frontera",
+          "activities": [
+            "Grazalema Natural Park",
+            "Zahara de la Sierra",
+            "Arcos de la Frontera"
+          ],
+          "driving_km": 100,
+          "driving_minutes": 100
+        },
+        "Day 8": {
+          "location": "Cádiz",
+          "overnight": "Cádiz",
+          "activities": [
+            "Drive to Cádiz",
+            "Cathedral visit",
+            "La Caleta beach",
+            "Historic center"
+          ],
+          "driving_km": 90,
+          "driving_minutes": 80
+        },
+        "Day 9": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Jerez sherry tasting",
+            "Equestrian show (optional)",
+            "Drive to Málaga"
+          ],
+          "driving_km": 250,
+          "driving_minutes": 200
+        },
+        "Day 10": {
+          "location": "Málaga",
+          "overnight": "Departure",
+          "activities": [
+            "Málaga sightseeing",
+            "Beach relaxation",
+            "Departure"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        }
+      }
+    },
+    {
+      "id": "backpacker_budget_10d",
+      "name": "Backpacker's Andalusia - 10 Days Budget",
+      "duration_days": 10,
+      "type": "Budget Cultural",
+      "difficulty": "Easy",
+      "transport": "Public Transport",
+      "source": "Reddit r/solotravel",
+      "best_season": ["April", "May", "October"],
+      "budget_level": "budget",
+      "cities_visited": ["Málaga", "Granada", "Córdoba", "Seville", "Cádiz"],
+      "route_type": "circular",
+      "tags": ["budget", "backpacking", "public-transport", "hostels", "solo"],
+      "social_proof": {
+        "upvotes": 3847,
+        "reviews": 312,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Free entry times",
+        "Budget accommodations",
+        "Public transport mastery",
+        "Local experiences"
+      ],
+      "user_tips": [
+        "Book hostels with free breakfast",
+        "Use BlaBlaCar for cheap rides",
+        "Visit monuments during free hours",
+        "Tapas bars are cheapest dinner option"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 400,
+        "max": 650
+      },
+      "daily_itinerary": {
+        "Day 1": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Budget flight arrival",
+            "Hostel check-in",
+            "Free city walking tour",
+            "Beach sunset"
+          ],
+          "transport_cost": 0,
+          "driving_minutes": 0
+        },
+        "Day 2": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "ALSA bus to Granada",
+            "Free Albaicín walk",
+            "Mirador San Nicolás",
+            "Cheap tapas bars"
+          ],
+          "transport_cost": 12,
+          "driving_minutes": 120
+        },
+        "Day 3": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Alhambra visit (book advance)",
+            "Free time in Realejo",
+            "Sacromonte sunset"
+          ],
+          "transport_cost": 0,
+          "driving_minutes": 0
+        },
+        "Day 4": {
+          "location": "Córdoba",
+          "overnight": "Córdoba",
+          "activities": [
+            "RENFE train to Córdoba",
+            "Free Mezquita entry (8:30-9:30am)",
+            "Jewish Quarter walk"
+          ],
+          "transport_cost": 25,
+          "driving_minutes": 180
+        },
+        "Day 5": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Bus to Seville",
+            "Free cathedral entry times",
+            "Plaza de España",
+            "Free flamenco at bars"
+          ],
+          "transport_cost": 15,
+          "driving_minutes": 90
+        },
+        "Day 6": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Real Alcázar",
+            "Free Metropol Parasol views",
+            "Triana market",
+            "River walk"
+          ],
+          "transport_cost": 0,
+          "driving_minutes": 0
+        },
+        "Day 7": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Day trip to Cádiz by train",
+            "Free beach time",
+            "Old town walk",
+            "Return evening"
+          ],
+          "transport_cost": 20,
+          "driving_minutes": 120
+        },
+        "Day 8": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Free museum day (Monday)",
+            "Parks and plazas",
+            "Hostel social evening"
+          ],
+          "transport_cost": 0,
+          "driving_minutes": 0
+        },
+        "Day 9": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Return to Málaga by train",
+            "Free Alcazaba entry afternoon",
+            "Beach relaxation",
+            "Pack for departure"
+          ],
+          "transport_cost": 30,
+          "driving_minutes": 180
+        },
+        "Day 10": {
+          "location": "Departure",
+          "overnight": "Departure",
+          "activities": ["Budget flight home"],
+          "transport_cost": 0,
+          "driving_minutes": 0
+        }
+      }
+    },
+    {
+      "id": "family_adventure_8d",
+      "name": "Family Andalusia Adventure - 8 Days",
+      "duration_days": 8,
+      "type": "Family Friendly",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Family travel blogs",
+      "best_season": ["Easter", "Summer", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Málaga", "Ronda", "Seville", "Córdoba", "Granada"],
+      "route_type": "circular",
+      "tags": [
+        "family",
+        "kids-friendly",
+        "interactive",
+        "pools",
+        "easy-pace"
+      ],
+      "social_proof": {
+        "upvotes": 1523,
+        "reviews": 98,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Kid-friendly activities",
+        "Interactive experiences",
+        "Pool hotels",
+        "Flexible schedule"
+      ],
+      "user_tips": [
+        "Book hotels with pools for afternoon breaks",
+        "Audio guides for kids at Alhambra are excellent",
+        "Plaza de España boat rides are a hit with children",
+        "Pack snacks - Spanish meal times are late"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 800,
+        "max": 1200
+      }
+    },
+    {
+      "id": "jewish_heritage_7d",
+      "name": "Jewish Heritage Trail - 7 Days",
+      "duration_days": 7,
+      "type": "Heritage Cultural",
+      "difficulty": "Easy",
+      "transport": "Private Transport",
+      "source": "Jewish heritage organizations",
+      "best_season": ["March", "April", "May", "September", "October"],
+      "budget_level": "premium",
+      "cities_visited": ["Madrid", "Toledo", "Córdoba", "Seville", "Granada"],
+      "route_type": "linear",
+      "tags": [
+        "jewish-heritage",
+        "sephard",
+        "history",
+        "synagogues",
+        "cultural"
+      ],
+      "social_proof": {
+        "upvotes": 892,
+        "reviews": 67,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Synagogue visits",
+        "Maimonides sites",
+        "Sephardic history",
+        "Expert Jewish guides"
+      ],
+      "user_tips": [
+        "Hire specialized Sephardic history guide",
+        "Visit Casa de Sefarad in Córdoba",
+        "Kosher meal options limited - plan ahead",
+        "Combine with Portugal for extended Sephardic journey"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1300,
+        "max": 1800
+      }
+    },
+    {
+      "id": "western_sherry_7d",
+      "name": "Western Andalusia - Sherry, Nature & Flamenco",
+      "duration_days": 7,
+      "type": "Culinary & Cultural",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Travel blogs",
+      "best_season": ["Spring", "Autumn"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Seville",
+        "Jerez de la Frontera",
+        "Cádiz",
+        "Ronda",
+        "White Villages"
+      ],
+      "route_type": "circular",
+      "tags": ["sherry", "wine", "flamenco", "beaches", "nature", "white-villages"],
+      "social_proof": {
+        "upvotes": 1673,
+        "reviews": 124,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Sherry bodega tours",
+        "Authentic flamenco birthplace",
+        "Atlantic beaches",
+        "White villages"
+      ],
+      "user_tips": [
+        "Book bodega tours in advance",
+        "Stay overnight in Jerez for evening flamenco",
+        "Cádiz has better beaches than Costa del Sol",
+        "Drive white villages route in good weather"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 900,
+        "max": 1400
+      }
+    },
+    {
+      "id": "adventure_nature_12d",
+      "name": "Adventure Andalusia - Nature & Hiking",
+      "duration_days": 12,
+      "type": "Active Adventure",
+      "difficulty": "Challenging",
+      "transport": "4WD Vehicle",
+      "source": "Adventure travel specialists",
+      "best_season": ["March", "April", "May", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Málaga",
+        "El Chorro",
+        "Sierra Nevada",
+        "Cabo de Gata",
+        "Grazalema",
+        "Ronda"
+      ],
+      "route_type": "circular",
+      "tags": [
+        "hiking",
+        "adventure",
+        "nature",
+        "mountains",
+        "active",
+        "caminito-del-rey"
+      ],
+      "social_proof": {
+        "upvotes": 2104,
+        "reviews": 189,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Caminito del Rey",
+        "Sierra Nevada hiking",
+        "Volcanic Cabo de Gata",
+        "Adventure sports"
+      ],
+      "user_tips": [
+        "Book Caminito del Rey permits 3 months ahead",
+        "Bring proper hiking boots",
+        "Spring best for wildflowers and water flow",
+        "Consider mountain guide for Mulhacén"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1400,
+        "max": 2000
+      }
+    },
+    {
+      "id": "culinary_discovery_9d",
+      "name": "Culinary Andalusia Discovery",
+      "duration_days": 9,
+      "type": "Culinary Cultural",
+      "difficulty": "Easy",
+      "transport": "Private Driver",
+      "source": "Food & Wine Travel",
+      "best_season": ["April", "May", "June", "September", "October"],
+      "budget_level": "premium",
+      "cities_visited": ["Seville", "Jerez", "Cádiz", "Córdoba", "Jaén", "Granada"],
+      "route_type": "circular",
+      "tags": [
+        "culinary",
+        "food-wine",
+        "cooking-classes",
+        "sherry",
+        "olive-oil"
+      ],
+      "social_proof": {
+        "upvotes": 1284,
+        "reviews": 93,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Professional cooking classes",
+        "Sherry & olive oil tastings",
+        "Market tours",
+        "Local chef experiences"
+      ],
+      "user_tips": [
+        "Arrive hungry - portions are generous",
+        "Learn about olive oil varieties in Jaén",
+        "Book González Byass bodega tour",
+        "Try salmorejo in Córdoba where it originated"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 2000,
+        "max": 2800
+      }
+    },
+    {
+      "id": "luxury_experience_8d",
+      "name": "Luxury Andalusia Experience",
+      "duration_days": 8,
+      "type": "Luxury Cultural",
+      "difficulty": "Easy",
+      "transport": "Private Driver + Helicopter",
+      "source": "Luxury travel agencies",
+      "best_season": ["April", "May", "June", "September", "October"],
+      "budget_level": "luxury",
+      "cities_visited": ["Seville", "Córdoba", "Granada", "Ronda", "Marbella"],
+      "route_type": "linear",
+      "tags": [
+        "luxury",
+        "5-star",
+        "helicopter",
+        "exclusive",
+        "michelin",
+        "private-access"
+      ],
+      "social_proof": {
+        "upvotes": 567,
+        "reviews": 34,
+        "rating": 5.0
+      },
+      "highlights": [
+        "Helicopter transfers",
+        "5-star accommodations",
+        "Private monument access",
+        "Michelin dining"
+      ],
+      "user_tips": [
+        "Book 6+ months for peak season",
+        "Private Alhambra sunrise access worth the premium",
+        "Stay at Hotel Alfonso XIII in Seville",
+        "Helicopter scenic flight over Ronda unforgettable"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 8000,
+        "max": 12000
+      }
+    },
+    {
+      "id": "reddit_perfect_week",
+      "name": "Reddit's Perfect Week in Andalusia",
+      "duration_days": 7,
+      "type": "Community Favorite",
+      "difficulty": "Easy",
+      "transport": "Train + Bus",
+      "source": "Reddit r/travel compilation",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Seville", "Córdoba", "Granada", "Málaga"],
+      "route_type": "linear",
+      "tags": ["reddit-favorite", "public-transport", "balanced", "culture"],
+      "social_proof": {
+        "upvotes": 4521,
+        "reviews": 387,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Most upvoted route on Reddit",
+        "Perfect city combination",
+        "Balanced pace",
+        "Public transport friendly"
+      ],
+      "user_tips": [
+        "2 nights each major city is perfect",
+        "Skip Madrid - fly directly to Seville",
+        "Book AVE trains early for discounts",
+        "Stay near Santa Justa station in Seville"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 850,
+        "max": 1300
+      }
+    },
+    {
+      "id": "lametayel_classic_8d",
+      "name": "למטייל Classic Andalusia - 8 Days",
+      "duration_days": 8,
+      "type": "Cultural Heritage",
+      "difficulty": "Easy",
+      "transport": "Train/Bus",
+      "source": "Lametayel Israeli Travel Site",
+      "best_season": ["Year-round"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Madrid", "Seville", "Córdoba", "Granada", "Málaga"],
+      "route_type": "linear",
+      "tags": ["israeli-travelers", "public-transport", "hebrew-guides", "kosher-options"],
+      "social_proof": {
+        "upvotes": 892,
+        "reviews": 67,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Hebrew-speaking guides available",
+        "Kosher meal arrangements possible",
+        "Israeli travel community tested",
+        "Public transport focused"
+      ],
+      "user_tips": [
+        "Many Israeli tour companies offer this route",
+        "Book through Israeli agencies for Hebrew guides",
+        "Kosher options in major cities only",
+        "Great for non-drivers"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 900,
+        "max": 1300
+      },
+      "daily_itinerary": {
+        "Day 1": {
+          "location": "Madrid to Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Flight to Madrid",
+            "AVE train to Seville",
+            "First evening in Seville"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 150
+        },
+        "Day 2": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Cathedral & Giralda",
+            "Real Alcázar",
+            "Santa Cruz quarter",
+            "Flamenco show"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 3": {
+          "location": "Seville",
+          "overnight": "Seville",
+          "activities": [
+            "Plaza de España",
+            "María Luisa Park",
+            "Triana neighborhood",
+            "Shopping"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 4": {
+          "location": "Córdoba",
+          "overnight": "Córdoba",
+          "activities": [
+            "Train to Córdoba",
+            "Mezquita visit",
+            "Jewish Quarter",
+            "Patios tour"
+          ],
+          "driving_km": 140,
+          "driving_minutes": 45
+        },
+        "Day 5": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Bus to Granada",
+            "Albaicín quarter",
+            "Sunset at Mirador San Nicolás"
+          ],
+          "driving_km": 200,
+          "driving_minutes": 180
+        },
+        "Day 6": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Full day Alhambra",
+            "Generalife gardens",
+            "Royal Chapel"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 7": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Bus to Málaga",
+            "Picasso Museum",
+            "Alcazaba",
+            "Beach time"
+          ],
+          "driving_km": 130,
+          "driving_minutes": 120
+        },
+        "Day 8": {
+          "location": "Departure",
+          "overnight": "Departure",
+          "activities": [
+            "Final shopping",
+            "Airport departure"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        }
+      }
+    },
+    {
+      "id": "costa_del_sol_beach_7d",
+      "name": "Costa del Sol Beach & Culture - 7 Days",
+      "duration_days": 7,
+      "type": "Beach & Culture Mix",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Coastal travel specialists",
+      "best_season": ["May", "June", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Málaga", "Marbella", "Nerja", "Granada", "Ronda"],
+      "route_type": "circular",
+      "tags": ["beaches", "coastal", "relaxed", "culture-mix", "mediterranean"],
+      "social_proof": {
+        "upvotes": 1876,
+        "reviews": 143,
+        "rating": 4.6
+      },
+      "highlights": [
+        "Best Mediterranean beaches",
+        "Balcón de Europa Nerja",
+        "Alhambra visit",
+        "Beach town lifestyle"
+      ],
+      "user_tips": [
+        "Avoid July-August crowds",
+        "Nerja caves worth visiting",
+        "Marbella old town surprisingly charming",
+        "Combine beach mornings with cultural afternoons"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 900,
+        "max": 1400
+      },
+      "daily_itinerary": {
+        "Day 1": {
+          "location": "Málaga",
+          "overnight": "Málaga",
+          "activities": [
+            "Arrival",
+            "Beach afternoon",
+            "Port area walk",
+            "Tapas dinner"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 2": {
+          "location": "Nerja",
+          "overnight": "Nerja",
+          "activities": [
+            "Drive coastal road",
+            "Balcón de Europa",
+            "Beach time",
+            "Nerja caves"
+          ],
+          "driving_km": 60,
+          "driving_minutes": 50
+        },
+        "Day 3": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Drive to Granada",
+            "Albaicín exploration",
+            "Sunset viewing",
+            "Tapas tour"
+          ],
+          "driving_km": 100,
+          "driving_minutes": 90
+        },
+        "Day 4": {
+          "location": "Granada",
+          "overnight": "Granada",
+          "activities": [
+            "Full day Alhambra",
+            "Generalife gardens",
+            "Evening in Realejo"
+          ],
+          "driving_km": 0,
+          "driving_minutes": 0
+        },
+        "Day 5": {
+          "location": "Ronda",
+          "overnight": "Ronda",
+          "activities": [
+            "Scenic drive to Ronda",
+            "Puente Nuevo",
+            "Old town walk",
+            "Mountain views"
+          ],
+          "driving_km": 180,
+          "driving_minutes": 150
+        },
+        "Day 6": {
+          "location": "Marbella",
+          "overnight": "Marbella",
+          "activities": [
+            "Drive to coast",
+            "Old town Marbella",
+            "Beach club lunch",
+            "Puerto Banús evening"
+          ],
+          "driving_km": 60,
+          "driving_minutes": 60
+        },
+        "Day 7": {
+          "location": "Málaga",
+          "overnight": "Departure",
+          "activities": [
+            "Return to Málaga",
+            "Final beach morning",
+            "Departure"
+          ],
+          "driving_km": 60,
+          "driving_minutes": 60
+        }
+      }
+    },
+    {
+      "id": "photography_tour_10d",
+      "name": "Photographer's Andalusia - 10 Days",
+      "duration_days": 10,
+      "type": "Photography Focused",
+      "difficulty": "Moderate",
+      "transport": "Rental Car",
+      "source": "Photography travel blogs",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Málaga",
+        "Ronda",
+        "White Villages",
+        "Seville",
+        "Córdoba",
+        "Granada"
+      ],
+      "route_type": "circular",
+      "tags": ["photography", "golden-hour", "landscapes", "architecture", "instagram"],
+      "social_proof": {
+        "upvotes": 2341,
+        "reviews": 178,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Golden hour at Alhambra",
+        "White villages perfect light",
+        "Ronda bridge sunrise",
+        "Mezquita architecture"
+      ],
+      "user_tips": [
+        "Wake up early for best light",
+        "Alhambra sunrise ticket essential",
+        "Tripod recommended",
+        "Blue hour at Plaza de España magical"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1100,
+        "max": 1600
+      }
+    },
+    {
+      "id": "romantic_couples_6d",
+      "name": "Romantic Andalusia for Couples - 6 Days",
+      "duration_days": 6,
+      "type": "Romantic Getaway",
+      "difficulty": "Easy",
+      "transport": "Private Driver",
+      "source": "Honeymoon specialists",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "premium",
+      "cities_visited": ["Seville", "Ronda", "Granada"],
+      "route_type": "linear",
+      "tags": ["romantic", "couples", "honeymoon", "luxury", "intimate"],
+      "social_proof": {
+        "upvotes": 1456,
+        "reviews": 112,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Sunset at Ronda bridge",
+        "Private Alhambra evening",
+        "Flamenco intimate venue",
+        "Rooftop dinners"
+      ],
+      "user_tips": [
+        "Book boutique hotels with views",
+        "Sunset at Mirador San Nicolás unforgettable",
+        "Ronda parador perfect for anniversary",
+        "Private flamenco worth the splurge"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1500,
+        "max": 2500
+      }
+    },
+    {
+      "id": "digital_nomad_30d",
+      "name": "Digital Nomad Andalusia - 30 Days",
+      "duration_days": 30,
+      "type": "Work & Travel",
+      "difficulty": "Easy",
+      "transport": "Local Transport + Short-term rentals",
+      "source": "Digital nomad community",
+      "best_season": ["March", "April", "May", "September", "October", "November"],
+      "budget_level": "budget",
+      "cities_visited": ["Málaga", "Seville", "Granada"],
+      "route_type": "slow-travel",
+      "tags": ["digital-nomad", "coworking", "slow-travel", "wifi", "monthly-rentals"],
+      "social_proof": {
+        "upvotes": 3214,
+        "reviews": 267,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Coworking spaces",
+        "Monthly apartment rentals",
+        "Reliable wifi",
+        "Nomad community"
+      ],
+      "user_tips": [
+        "Málaga best nomad infrastructure",
+        "Book monthly Airbnb for discounts",
+        "Coworking passes available",
+        "Málaga has large nomad community"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1200,
+        "max": 2000
+      },
+      "daily_itinerary": {
+        "Days 1-10": {
+          "location": "Málaga",
+          "activities": [
+            "Settle into apartment",
+            "Join coworking space",
+            "Explore city on weekends",
+            "Beach after work"
+          ]
+        },
+        "Days 11-20": {
+          "location": "Seville",
+          "activities": [
+            "Monthly apartment",
+            "Coworking hub",
+            "Cultural exploration",
+            "Nomad meetups"
+          ]
+        },
+        "Days 21-30": {
+          "location": "Granada",
+          "activities": [
+            "Mountain town vibes",
+            "Quieter coworking",
+            "Alhambra visits",
+            "Tapas lifestyle"
+          ]
+        }
+      }
+    },
+    {
+      "id": "senior_relaxed_9d",
+      "name": "Senior Travelers Andalusia - 9 Days",
+      "duration_days": 9,
+      "type": "Relaxed Cultural",
+      "difficulty": "Very Easy",
+      "transport": "Private Driver + Trains",
+      "source": "Senior travel specialists",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "premium",
+      "cities_visited": ["Málaga", "Granada", "Córdoba", "Seville"],
+      "route_type": "linear",
+      "tags": ["senior", "relaxed-pace", "comfortable", "accessible", "easy"],
+      "social_proof": {
+        "upvotes": 876,
+        "reviews": 94,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Comfortable pace",
+        "Quality accommodations",
+        "Shorter walking distances",
+        "Rest time built in"
+      ],
+      "user_tips": [
+        "Book hotels near attractions",
+        "Use wheelchairs at Alhambra if needed",
+        "Afternoon siestas essential",
+        "Private guides reduce walking"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1600,
+        "max": 2400
+      }
+    },
+    {
+      "id": "wine_olive_oil_8d",
+      "name": "Wine & Olive Oil Trail - 8 Days",
+      "duration_days": 8,
+      "type": "Culinary Adventure",
+      "difficulty": "Easy",
+      "transport": "Private Driver",
+      "source": "Wine tourism specialists",
+      "best_season": ["September", "October", "November"],
+      "budget_level": "premium",
+      "cities_visited": ["Jerez", "Montilla", "Jaén", "Granada", "Málaga"],
+      "route_type": "circular",
+      "tags": ["wine", "olive-oil", "tastings", "gastronomy", "harvest"],
+      "social_proof": {
+        "upvotes": 1123,
+        "reviews": 87,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Sherry bodegas",
+        "Olive oil mills",
+        "Harvest experiences",
+        "Wine pairing dinners"
+      ],
+      "user_tips": [
+        "Harvest season Sept-Nov best",
+        "Book González Byass bodega",
+        "Jaén has world's best olive oil",
+        "Designate driver or use private transport"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1800,
+        "max": 2600
+      }
+    },
+    {
+      "id": "eastern_andalusia_7d",
+      "name": "Eastern Andalusia Explorer - 7 Days",
+      "duration_days": 7,
+      "type": "Off-beaten Path",
+      "difficulty": "Moderate",
+      "transport": "Rental Car",
+      "source": "Adventure blogs",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "budget",
+      "cities_visited": ["Almería", "Cabo de Gata", "Granada", "Úbeda", "Baeza"],
+      "route_type": "circular",
+      "tags": ["off-beaten", "eastern", "desert", "unesco", "hidden-gems"],
+      "social_proof": {
+        "upvotes": 1687,
+        "reviews": 134,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Desert landscapes",
+        "Volcanic beaches",
+        "Renaissance towns",
+        "Fewer tourists"
+      ],
+      "user_tips": [
+        "Cabo de Gata best kept secret",
+        "Almería has western film sets",
+        "Úbeda/Baeza UNESCO towns underrated",
+        "Much cheaper than western Andalusia"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 700,
+        "max": 1100
+      }
+    },
+    {
+      "id": "architecture_moorish_8d",
+      "name": "Moorish Architecture Deep Dive - 8 Days",
+      "duration_days": 8,
+      "type": "Architecture & History",
+      "difficulty": "Easy",
+      "transport": "Private Driver",
+      "source": "Architecture tours",
+      "best_season": ["March", "April", "May", "October", "November"],
+      "budget_level": "premium",
+      "cities_visited": ["Granada", "Córdoba", "Seville", "Málaga", "Ronda"],
+      "route_type": "circular",
+      "tags": ["architecture", "moorish", "islamic", "history", "educational"],
+      "social_proof": {
+        "upvotes": 892,
+        "reviews": 76,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Alhambra detailed study",
+        "Mezquita architecture",
+        "Alcázar patterns",
+        "Expert architecture guides"
+      ],
+      "user_tips": [
+        "Hire specialized architecture guide",
+        "Morning light best for photography",
+        "Bring binoculars for ceiling details",
+        "Allow extra time at each monument"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1700,
+        "max": 2400
+      }
+    },
+    {
+      "id": "spring_wildflowers_10d",
+      "name": "Spring Wildflower Trails - 10 Days",
+      "duration_days": 10,
+      "type": "Nature & Hiking",
+      "difficulty": "Moderate",
+      "transport": "Rental Car",
+      "source": "Nature tourism",
+      "best_season": ["March", "April", "May"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Málaga",
+        "Grazalema",
+        "Sierra Nevada",
+        "Cabo de Gata",
+        "White Villages"
+      ],
+      "route_type": "circular",
+      "tags": ["wildflowers", "spring", "hiking", "nature", "photography"],
+      "social_proof": {
+        "upvotes": 1534,
+        "reviews": 118,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Spring wildflower blooms",
+        "Green landscapes",
+        "Waterfalls flowing",
+        "Perfect hiking weather"
+      ],
+      "user_tips": [
+        "Late March to April peak bloom",
+        "Grazalema rainiest spot in Spain",
+        "Sierra Nevada snow-capped backdrop",
+        "Book rural accommodations early"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1000,
+        "max": 1500
+      }
+    },
+    {
+      "id": "christmas_markets_6d",
+      "name": "Andalusia Christmas Markets - 6 Days",
+      "duration_days": 6,
+      "type": "Seasonal Cultural",
+      "difficulty": "Easy",
+      "transport": "Train",
+      "source": "Seasonal travel guides",
+      "best_season": ["December"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Seville", "Málaga", "Granada"],
+      "route_type": "linear",
+      "tags": ["christmas", "winter", "markets", "festive", "seasonal"],
+      "social_proof": {
+        "upvotes": 734,
+        "reviews": 62,
+        "rating": 4.6
+      },
+      "highlights": [
+        "Christmas markets",
+        "Festive decorations",
+        "Nativity scenes",
+        "Mild winter weather"
+      ],
+      "user_tips": [
+        "Seville has best Christmas lights",
+        "Try traditional Christmas sweets",
+        "Málaga Christmas light display famous",
+        "Book early for New Year's Eve"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 800,
+        "max": 1300
+      }
+    },
+    {
+      "id": "lgbtq_friendly_7d",
+      "name": "LGBTQ+ Friendly Andalusia - 7 Days",
+      "duration_days": 7,
+      "type": "Inclusive Travel",
+      "difficulty": "Easy",
+      "transport": "Train + Bus",
+      "source": "LGBTQ+ travel community",
+      "best_season": ["Year-round, especially June Pride"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Madrid", "Seville", "Granada", "Málaga"],
+      "route_type": "linear",
+      "tags": ["lgbtq", "inclusive", "pride", "gay-friendly", "community"],
+      "social_proof": {
+        "upvotes": 1876,
+        "reviews": 143,
+        "rating": 4.8
+      },
+      "highlights": [
+        "LGBTQ+ friendly cities",
+        "Gay bars and clubs",
+        "Pride celebrations",
+        "Inclusive accommodations"
+      ],
+      "user_tips": [
+        "Chueca in Madrid is gay district",
+        "Málaga has active LGBTQ+ scene",
+        "Spain very LGBTQ+ friendly overall",
+        "Pride events in June"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 900,
+        "max": 1400
+      }
+    },
+    {
+      "id": "river_valleys_8d",
+      "name": "River Valleys & Villages - 8 Days",
+      "duration_days": 8,
+      "type": "Rural & Nature",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Rural tourism specialists",
+      "best_season": ["April", "May", "September", "October"],
+      "budget_level": "budget",
+      "cities_visited": [
+        "Guadalquivir Valley",
+        "Alpujarras",
+        "White Villages",
+        "Cazorla"
+      ],
+      "route_type": "circular",
+      "tags": ["rural", "villages", "nature", "authentic", "valleys"],
+      "social_proof": {
+        "upvotes": 1243,
+        "reviews": 98,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Authentic village life",
+        "River landscapes",
+        "Local cuisine",
+        "Peaceful countryside"
+      ],
+      "user_tips": [
+        "Alpujarras perfect for hiking",
+        "Stay in casas rurales",
+        "Try local jamon and cheese",
+        "Mountain roads require careful driving"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 700,
+        "max": 1100
+      }
+    },
+    {
+      "id": "summer_beach_hopping_14d",
+      "name": "Summer Beach Hopping - 14 Days",
+      "duration_days": 14,
+      "type": "Beach Focused",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Beach travel blogs",
+      "best_season": ["June", "July", "August"],
+      "budget_level": "mid-range",
+      "cities_visited": [
+        "Málaga",
+        "Costa del Sol",
+        "Costa de la Luz",
+        "Cabo de Gata",
+        "Nerja"
+      ],
+      "route_type": "coastal-loop",
+      "tags": ["beaches", "summer", "coastal", "swimming", "relaxation"],
+      "social_proof": {
+        "upvotes": 2134,
+        "reviews": 187,
+        "rating": 4.6
+      },
+      "highlights": [
+        "Mediterranean beaches",
+        "Atlantic surf spots",
+        "Beach towns",
+        "Coastal paths"
+      ],
+      "user_tips": [
+        "Atlantic side cooler water",
+        "Cabo de Gata least crowded",
+        "Book coastal hotels early",
+        "Avoid midday sun"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1300,
+        "max": 2000
+      }
+    },
+    {
+      "id": "semana_santa_special_6d",
+      "name": "Semana Santa (Easter Week) Special - 6 Days",
+      "duration_days": 6,
+      "type": "Religious Cultural",
+      "difficulty": "Easy",
+      "transport": "Walking + Trains",
+      "source": "Religious tourism",
+      "best_season": ["Easter Week only"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Seville", "Málaga", "Córdoba"],
+      "route_type": "linear",
+      "tags": ["semana-santa", "easter", "processions", "religious", "cultural"],
+      "social_proof": {
+        "upvotes": 1567,
+        "reviews": 134,
+        "rating": 4.9
+      },
+      "highlights": [
+        "Authentic processions",
+        "Religious art",
+        "Brotherhood traditions",
+        "Saeta singing"
+      ],
+      "user_tips": [
+        "Book 6+ months ahead",
+        "Processions go very late",
+        "Wear comfortable shoes",
+        "Best viewing spots fill early"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 900,
+        "max": 1400
+      }
+    },
+    {
+      "id": "mountain_villages_circuit_9d",
+      "name": "Mountain Villages Circuit - 9 Days",
+      "duration_days": 9,
+      "type": "Mountain & Village",
+      "difficulty": "Moderate",
+      "transport": "4WD Rental",
+      "source": "Mountain tourism",
+      "best_season": ["May", "June", "September", "October"],
+      "budget_level": "budget",
+      "cities_visited": [
+        "Alpujarras",
+        "Sierra Nevada villages",
+        "Grazalema",
+        "Cazorla",
+        "Trevélez"
+      ],
+      "route_type": "mountain-loop",
+      "tags": ["mountains", "villages", "hiking", "authentic", "remote"],
+      "social_proof": {
+        "upvotes": 1421,
+        "reviews": 109,
+        "rating": 4.8
+      },
+      "highlights": [
+        "Mountain scenery",
+        "Traditional villages",
+        "Local cuisine",
+        "Hiking trails"
+      ],
+      "user_tips": [
+        "4WD recommended for mountain roads",
+        "Trevélez famous for jamón",
+        "Villages quiet in winter",
+        "Book rural hotels ahead"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 750,
+        "max": 1200
+      }
+    },
+    {
+      "id": "autumn_harvest_10d",
+      "name": "Autumn Harvest Experience - 10 Days",
+      "duration_days": 10,
+      "type": "Seasonal Culinary",
+      "difficulty": "Easy",
+      "transport": "Rental Car",
+      "source": "Agritourism specialists",
+      "best_season": ["September", "October", "November"],
+      "budget_level": "mid-range",
+      "cities_visited": ["Jerez", "Montilla", "Jaén", "Córdoba", "Seville"],
+      "route_type": "circular",
+      "tags": ["harvest", "autumn", "wine", "olives", "agritourism"],
+      "social_proof": {
+        "upvotes": 1089,
+        "reviews": 87,
+        "rating": 4.7
+      },
+      "highlights": [
+        "Grape harvest",
+        "Olive picking",
+        "Wine making",
+        "Farm experiences"
+      ],
+      "user_tips": [
+        "Participate in olive harvest",
+        "Sherry vendimia in September",
+        "Stay at cortijos (farm estates)",
+        "Try new season olive oil"
+      ],
+      "estimated_cost_per_person": {
+        "currency": "EUR",
+        "min": 1100,
+        "max": 1700
+      }
+    }
+  ],
+  "planning_metadata": {
+    "booking_priorities": [
+      "Alhambra tickets (2-3 months advance)",
+      "AVE train tickets (peak season)",
+      "Flamenco shows in Seville",
+      "Hotel accommodations during festivals",
+      "Caminito del Rey permits",
+      "Semana Santa accommodations (6 months ahead)",
+      "Sherry bodega tours",
+      "Private Alhambra evening access"
+    ],
+    "seasonal_tips": {
+      "Spring": {
+        "pros": ["Perfect weather", "Wildflowers", "Festivals"],
+        "cons": ["Easter crowds", "Higher prices"],
+        "events": ["Semana Santa", "Feria de Abril", "Patios Festival"],
+        "temperature": "15-25°C"
+      },
+      "Summer": {
+        "pros": ["Beach weather", "Long days"],
+        "cons": ["Extreme heat (40°C+)", "Crowds", "Siesta closures"],
+        "tips": ["Visit monuments early", "Plan siesta time", "Stay hydrated"],
+        "temperature": "25-40°C"
+      },
+      "Autumn": {
+        "pros": ["Great weather", "Fewer crowds", "Harvest season"],
+        "cons": ["November rain"],
+        "events": ["Flamenco Bienal", "Sherry harvest", "Olive harvest"],
+        "temperature": "15-28°C"
+      },
+      "Winter": {
+        "pros": ["Mild climate", "Low prices", "Authentic"],
+        "cons": ["Shorter days", "Mountain areas cold"],
+        "events": ["Carnival Cádiz", "Christmas markets"],
+        "temperature": "8-18°C"
+      }
+    },
+    "transport_tips": {
+      "rental_car": {
+        "best_for": ["White villages", "Natural parks", "Flexibility"],
+        "considerations": ["Parking in city centers difficult", "One-way fees", "Mountain driving"],
+        "cost_per_day": "30-60 EUR"
+      },
+      "train_travel": {
+        "best_for": ["Major cities", "Comfort", "City center connections"],
+        "limitations": ["Limited routes", "Advance booking needed"],
+        "ave_routes": ["Seville-Córdoba", "Córdoba-Madrid", "Málaga-Madrid"],
+        "cost_example": "Seville-Córdoba 25-40 EUR"
+      },
+      "mixed_transport": {
+        "recommended": "Train for cities, car for villages and nature",
+        "strategy": "Rent car only for specific legs (e.g., Ronda-White Villages-Seville)"
+      },
+      "buses": {
+        "best_for": ["Budget travel", "Regional connections"],
+        "companies": ["ALSA", "Comes", "Damas"],
+        "cost": "Generally 50% cheaper than trains"
+      }
+    },
+    "accommodation_strategies": {
+      "location_priority": "Historic centers for cultural immersion",
+      "booking_timing": "3-6 months for peak season, 1 month for off-season",
+      "special_options": [
+        "Paradores (historic buildings, premium)",
+        "Cortijos (rural estates, authentic)",
+        "Cave houses Granada (unique experience)",
+        "Hostels (budget, social)"
+      ],
+      "family_considerations": ["Pool essential in summer", "Connecting rooms", "Kitchen facilities"],
+      "price_ranges": {
+        "budget": "15-40 EUR per night (hostels)",
+        "mid-range": "60-120 EUR per night (3-star hotels)",
+        "premium": "150-300 EUR per night (4-5 star)",
+        "luxury": "300+ EUR per night (paradores, boutique)"
+      }
+    },
+    "money_saving_tips": [
+      "Visit monuments during free hours (early morning)",
+      "Eat menu del día for lunch (12-15 EUR)",
+      "Stay in hostels or Airbnb",
+      "Use public transport",
+      "Visit in shoulder season (April-May, Sept-Oct)",
+      "Book trains early for discounts",
+      "Free walking tours in major cities",
+      "Tapas bars cheaper than restaurants"
+    ],
+    "packing_essentials": {
+      "spring_autumn": ["Layers", "Light jacket", "Comfortable shoes", "Sunscreen", "Hat"],
+      "summer": ["Light clothing", "Sunscreen SPF50+", "Hat", "Sunglasses", "Reusable water bottle"],
+      "winter": ["Warm layers", "Jacket", "Scarf", "Comfortable shoes"],
+      "always": ["Power adapter (Type C/F)", "Portable charger", "Camera", "Daypack"]
+    },
+    "cultural_etiquette": {
+      "dining": [
+        "Lunch 14:00-16:00, Dinner 21:00-23:00",
+        "Tipping 5-10% appreciated but not mandatory",
+        "Share tapas in groups",
+        "Bar bill paid at end, not per round"
+      ],
+      "general": [
+        "Siesta time 14:00-17:00 (many shops close)",
+        "Dress modestly in churches",
+        "Greet with dos besos (two kisses) among friends",
+        "Spanish people friendly and helpful"
+      ],
+      "language": [
+        "Learn basic Spanish phrases",
+        "English spoken in tourist areas",
+        "Older generation speaks less English",
+        "Portuguese somewhat understood"
+      ]
+    },
+    "health_safety": {
+      "medical": [
+        "EHIC card for EU citizens",
+        "Travel insurance recommended",
+        "Pharmacies (farmacias) everywhere",
+        "112 emergency number"
+      ],
+      "safety": [
+        "Very safe region overall",
+        "Watch for pickpockets in tourist areas",
+        "Keep copies of documents",
+        "Tap water safe to drink"
+      ],
+      "heat_safety": [
+        "Stay hydrated in summer",
+        "Avoid midday sun",
+        "Seek shade during peak hours",
+        "Know signs of heat exhaustion"
+      ]
+    },
+    "must_try_foods": {
+      "dishes": [
+        "Gazpacho (cold tomato soup)",
+        "Salmorejo (thicker gazpacho, Córdoba)",
+        "Pescaíto frito (fried fish)",
+        "Rabo de toro (oxtail stew)",
+        "Jamón ibérico (Iberian ham)",
+        "Tortilla española (potato omelet)",
+        "Pringá (meat sandwich)",
+        "Churros con chocolate"
+      ],
+      "drinks": [
+        "Fino sherry (Jerez)",
+        "Tinto de verano (red wine spritzer)",
+        "Rebujito (sherry + lemon soda)",
+        "Cerveza (beer - Cruzcampo local)",
+        "Agua de Valencia (cocktail)"
+      ],
+      "sweets": [
+        "Tocino de cielo (heaven's bacon dessert)",
+        "Polvorones (Christmas cookies)",
+        "Pestiños (honey fritters)",
+        "Tortas de aceite (olive oil wafers)"
+      ]
+    },
+    "photography_tips": {
+      "best_times": [
+        "Golden hour: 1 hour after sunrise, 1 hour before sunset",
+        "Blue hour: 30 mins before sunrise, 30 mins after sunset",
+        "Avoid harsh midday light"
+      ],
+      "iconic_shots": [
+        "Alhambra at sunrise",
+        "Ronda bridge from below",
+        "Plaza de España at blue hour",
+        "Mezquita arches pattern",
+        "White villages from viewpoints",
+        "Flamenco dancers (ask permission)"
+      ],
+      "equipment": [
+        "Wide angle lens for architecture",
+        "Portrait lens for street scenes",
+        "Tripod for night shots",
+        "Polarizing filter for skies"
+      ]
+    },
+    "common_mistakes": [
+      "Not booking Alhambra tickets in advance",
+      "Visiting in July-August heat",
+      "Eating dinner at 19:00 (too early)",
+      "Staying only in one city",
+      "Not renting car for white villages",
+      "Overpacking the itinerary",
+      "Ignoring siesta time",
+      "Not learning basic Spanish",
+      "Wearing flip-flops for sightseeing",
+      "Expecting everything to be open Sunday"
+    ],
+    "hidden_gems": [
+      "Carmona (Roman necropolis)",
+      "Baelo Claudia (Roman ruins by beach)",
+      "Zahara de la Sierra (mountain lake)",
+      "Setenil de las Bodegas (cave houses)",
+      "Frigiliana (whitest white village)",
+      "Alpujarra villages (authentic mountain life)",
+      "Cabo de Gata volcanic beaches",
+      "Úbeda & Baeza Renaissance towns"
+    ],
+    "day_trip_options": {
+      "from_seville": [
+        "Córdoba (1h train)",
+        "Cádiz (1.5h train)",
+        "Jerez (1h train)",
+        "Ronda (2.5h bus)",
+        "Carmona (30min bus)"
+      ],
+      "from_granada": [
+        "Sierra Nevada (1h drive)",
+        "Alpujarras villages (1.5h drive)",
+        "Nerja (1.5h bus)",
+        "Guadix caves (1h drive)"
+      ],
+      "from_malaga": [
+        "Nerja (1h bus)",
+        "Ronda (2h bus)",
+        "Marbella (45min bus)",
+        "Caminito del Rey (1h drive)",
+        "Gibraltar (2h drive)"
+      ]
+    },
+    "festivals_calendar": {
+      "january": ["Three Kings Parade (Jan 5)"],
+      "february": ["Carnival Cádiz (Feb/Mar)"],
+      "march": ["Semana Santa (Easter week, varies)"],
+      "april": ["Feria de Abril Seville (2 weeks after Easter)"],
+      "may": ["Patios Festival Córdoba (early May)", "Cruces de Mayo"],
+      "june": ["Pride celebrations various cities", "Corpus Christi Granada"],
+      "july": ["International Music & Dance Festival Granada"],
+      "august": ["Summer festivals various cities"],
+      "september": ["Sherry harvest Jerez", "Feria de Pedro Romero Ronda"],
+      "october": ["Flamenco Bienal Seville (even years)"],
+      "november": ["Film Festival Seville"],
+      "december": ["Christmas markets all cities"]
+    },
+    "wifi_connectivity": {
+      "availability": "Excellent in cities, good in towns, limited in rural areas",
+      "cafes_restaurants": "Free WiFi almost everywhere",
+      "hotels": "Free WiFi standard",
+      "sim_cards": "Vodafone, Orange, Movistar available at airports",
+      "esim_options": "Available for most modern phones",
+      "data_cost": "Approx 20 EUR for 10GB tourist SIM"
+    },
+    "accessibility": {
+      "wheelchair_friendly": [
+        "Major monuments mostly accessible",
+        "Alhambra has wheelchairs available",
+        "Historic centers challenging (cobblestones)",
+        "Modern transport accessible"
+      ],
+      "challenges": [
+        "Steep hills in Granada, Ronda",
+        "Narrow streets in old quarters",
+        "Limited elevators in historic buildings"
+      ],
+      "resources": [
+        "ONCE foundation (Spanish disability org)",
+        "Accessible Tourism Spain website",
+        "Hotel accessibility varies - confirm ahead"
+      ]
+    }
+  },
+  "matching_algorithm_hints": {
+    "duration_matching": {
+      "exact_match": "Priority 1: Same duration ±0 days",
+      "close_match": "Priority 2: ±1-2 days",
+      "flexible_match": "Priority 3: ±3+ days with route modifications"
+    },
+    "budget_matching": {
+      "budget": "0-1000 EUR",
+      "mid-range": "1000-2000 EUR",
+      "premium": "2000-3500 EUR",
+      "luxury": "3500+ EUR"
+    },
+    "interest_tags_weight": {
+      "culture": 10,
+      "history": 10,
+      "architecture": 8,
+      "nature": 8,
+      "beaches": 7,
+      "hiking": 7,
+      "food-wine": 9,
+      "photography": 6,
+      "family": 9,
+      "adventure": 7,
+      "luxury": 8,
+      "budget": 9
+    },
+    "transport_preference": {
+      "car_required": ["white-villages", "nature", "rural", "mountain"],
+      "public_transport_ok": ["major-cities", "budget", "easy"],
+      "driver_recommended": ["comprehensive", "luxury", "culinary"]
+    },
+    "difficulty_levels": {
+      "very_easy": "Minimal walking, comfortable pace, accessible",
+      "easy": "Moderate walking, relaxed schedule",
+      "moderate": "Active days, some hiking, full schedule",
+      "challenging": "Extensive hiking, physical activities, demanding pace"
+    },
+    "social_proof_scoring": {
+      "formula": "(upvotes * 0.4) + (reviews * 0.3) + (rating * 20 * 0.3)",
+      "threshold_good": 1000,
+      "threshold_excellent": 2000,
+      "threshold_outstanding": 3000
+    }
+  }
+}

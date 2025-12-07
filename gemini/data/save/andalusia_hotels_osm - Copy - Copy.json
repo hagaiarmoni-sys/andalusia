@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "OSM_node_303618665",
+    "name": "Hotel Ayre Sevilla",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3891832,
+      "lon": -5.9746824
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 303618665,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_366549833",
+    "name": "Hotel Baco",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3930076,
+      "lon": -5.9874042
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 366549833,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_366550740",
+    "name": "Hotel Don Paco",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3927272,
+      "lon": -5.9868804
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "Wheelchair accessible"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 366550740,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_366633327",
+    "name": "Hotel Catalonia Giralda",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3901535,
+      "lon": -5.9848282
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.cataloniahotels.com/es/hotel/catalonia-giralda",
+    "phone": "+34 954 41 66 61",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 366633327,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_366839953",
+    "name": "Hostal Alcobia",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3886756,
+      "lon": -5.9856098
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 366839953,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_367156845",
+    "name": "Taberna del Alabardero",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3886071,
+      "lon": -5.9981695
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 367156845,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_491223626",
+    "name": "Hotel Cervantes",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3953853,
+      "lon": -5.9933811
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 491223626,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_504314079",
+    "name": "Hotel Casa Carmona",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.4747164,
+      "lon": -5.6384635
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 504314079,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_504314080",
+    "name": "Hotel Alcázar de la Reina",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.4745597,
+      "lon": -5.637794
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 504314080,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_538093872",
+    "name": "Gran Hotel Lar",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.390558,
+      "lon": -5.9834847
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.larhotel.com/",
+    "phone": "+34 954 41 0361",
+    "email": "info@larhotel.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 538093872,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_631339527",
+    "name": "Hotel Catalonia Santa Justa",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3935863,
+      "lon": -5.982692
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 631339527,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_643085776",
+    "name": "Hotel Londrès",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3912955,
+      "lon": -5.9995814
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 643085776,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_683117982",
+    "name": "Hotel Monte Olivete",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3916098,
+      "lon": -5.97047
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 683117982,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_747133139",
+    "name": "Hotel Abril",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3944452,
+      "lon": -5.99105
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 747133139,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_747195745",
+    "name": "Hotel Don Pedro",
+    "city": "Sevilla",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.3938507,
+      "lon": -5.9888876
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 747195745,
+    "osm_type": "node",
+    "city_original": "Sevilla"
+  },
+  {
+    "id": "OSM_node_33515433",
+    "name": "Finca los Llanos",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.9621414,
+      "lon": -3.3574495
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelfincalosllanos.com/",
+    "phone": "+34 958 763071",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 33515433,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_314442493",
+    "name": "Suites Albayzin del Mar",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7373258,
+      "lon": -3.6952186
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 314442493,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_401436962",
+    "name": "Hotel Impressive Playa Granada Golf",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7208572,
+      "lon": -3.5638548
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.impressiveresortsplayagranada.com",
+    "phone": "+34 958 60 62 82",
+    "email": "reservas.pg@impressiveresorts.com",
+    "opening_hours": null,
+    "amenities": [
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 401436962,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_430878979",
+    "name": "Almuñécar Playa",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7312469,
+      "lon": -3.6972829
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "Wheelchair accessible"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 430878979,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_524072424",
+    "name": "El Nogal",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2275725,
+      "lon": -3.6291836
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 524072424,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_538064607",
+    "name": "Eurostars Puerta Real",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.1722273,
+      "lon": -3.5994778
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/eurostars-puerta-real.html",
+    "phone": "(+34) 958 52 11 11",
+    "email": "reservas@eurostarspuertareal.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 538064607,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_558841749",
+    "name": "Los Macabes",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.9803643,
+      "lon": -3.1548196
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://alojamientoslosmacabes.com/",
+    "phone": "+34 696472678",
+    "email": "losmacabes@hotmail.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 558841749,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_559918865",
+    "name": "Rodri",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.1766615,
+      "lon": -3.6023336
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hostalrodri.com/",
+    "phone": "+34 958 288 043",
+    "email": "info@hostalrodri.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 559918865,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_559944408",
+    "name": "Hostal Rural Atalaya",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.960443,
+      "lon": -3.3583399
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://hostalatalaya.com",
+    "phone": "+34 958 76 30 25",
+    "email": "hostalatalaya@gmail.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 559944408,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_559944409",
+    "name": "Mesón Poqueira II",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.9612851,
+      "lon": -3.3588041
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 559944409,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_750469251",
+    "name": "La Islita Boutique Hotel",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 11.927828,
+      "lon": -85.9515204
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 750469251,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_775733527",
+    "name": "Castillo Lanjarón",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.9175913,
+      "lon": -3.4880321
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://hcastillolanjaron.com/",
+    "phone": "+34 958 77 07 12",
+    "email": "reservas@hcastillolanjaron.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 775733527,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_929544118",
+    "name": "Hotel Las Yucas",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2159467,
+      "lon": -3.6905195
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.lasyucas.com",
+    "phone": "+34 958 43 88 78",
+    "email": "lasyucas@lasyucas.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 929544118,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_937036809",
+    "name": "Futurotel Granada Dreams",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.1773695,
+      "lon": -3.6048436
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 937036809,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_976880658",
+    "name": "Hostal Puerta de Andalucía",
+    "city": "Granada",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.9589469,
+      "lon": -2.4335646
+    },
+    "star_rating": 1,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://puertadeandalucia.com/",
+    "phone": "+34 958 72 13 40",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "Wheelchair accessible"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 976880658,
+    "osm_type": "node",
+    "city_original": "Granada"
+  },
+  {
+    "id": "OSM_node_634360681",
+    "name": "Palacio del Bailío",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.8875476,
+      "lon": -4.7775399
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 634360681,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_791743837",
+    "name": "Aruba",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.423605,
+      "lon": -64.189386
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 791743837,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_791743851",
+    "name": "Ardent",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.42195,
+      "lon": -64.180299
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 791743851,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_791746730",
+    "name": "Del boulevard",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.421919,
+      "lon": -64.183903
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 791746730,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_791746737",
+    "name": "Viena",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.423692,
+      "lon": -64.191107
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 791746737,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_791746739",
+    "name": "Munich",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.423201,
+      "lon": -64.189596
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 791746739,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_907414568",
+    "name": "Carpe Diem",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.882153,
+      "lon": -4.7802628
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 907414568,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_993723466",
+    "name": "La Boutique Puerta Osari",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.8884661,
+      "lon": -4.7794425
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 993723466,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1115512841",
+    "name": "NH Califa",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.8828422,
+      "lon": -4.7841108
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1115512841,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1115551657",
+    "name": "NH Amistad",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.8791968,
+      "lon": -4.782806
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1115551657,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1161266150",
+    "name": "Crisol Jardines de Córdoba",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.9151416,
+      "lon": -4.8033466
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/crisol-jardines-de-cordoba.html",
+    "phone": "+34 957 76 74 76",
+    "email": "reservas@crisoljardinesdecordoba.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1161266150,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1259977201",
+    "name": "Zuhayra",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.544283,
+      "lon": -4.3153128
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.zercahoteles.com",
+    "phone": "+34 957 694 693",
+    "email": "hotelzuhayra@zercahoteles.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 1259977201,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1262261344",
+    "name": "Windsor",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.4188376,
+      "lon": -64.1838499
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1262261344,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1262261346",
+    "name": "Sussex",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.4174564,
+      "lon": -64.1828903
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1262261346,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_1262261348",
+    "name": "King David",
+    "city": "Córdoba",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": -31.4108202,
+      "lon": -64.1847796
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1262261348,
+    "osm_type": "node",
+    "city_original": "Córdoba"
+  },
+  {
+    "id": "OSM_node_280764174",
+    "name": "Hotel Reina Victoria",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7467797,
+      "lon": -5.1697488
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.cataloniahotels.com/es/hotel/catalonia-reina-victoria",
+    "phone": "+34 952 871 240",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 280764174,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_304571688",
+    "name": "MB boutique",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7441474,
+      "lon": -3.8834063
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 304571688,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_304572089",
+    "name": "Casa Maro",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7570603,
+      "lon": -3.8434898
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://hotelcasamaro.com",
+    "phone": "+34 627 95 84 56",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 304572089,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_304572186",
+    "name": "Playamaro",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7592686,
+      "lon": -3.8421732
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelplayamaro.com",
+    "phone": "+34 952 529 582",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 304572186,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_304572485",
+    "name": "Bajamar",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7473771,
+      "lon": -3.8794934
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelbajamar.com/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 304572485,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_307844997",
+    "name": "Puerta del Mar",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7453275,
+      "lon": -3.8770038
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 307844997,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_307951292",
+    "name": "Villa Frigiliana",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7903726,
+      "lon": -3.8952003
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://hotelvillafrigiliana.com/",
+    "phone": "+34 952 534 008",
+    "email": "info@villafrigilianahotel.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 307951292,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_319499150",
+    "name": "Doña Luisa",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.3660021,
+      "lon": -5.2258742
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hoteldluisa.com/",
+    "phone": "+34 952892250",
+    "email": "reservas@hoteldluisa.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 319499150,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_319499170",
+    "name": "Don Agustín",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.3656571,
+      "lon": -5.2260344
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hoteldonagustin.com/",
+    "phone": "+34 952893139",
+    "email": "reservas@hoteldonagustin.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 319499170,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_319539157",
+    "name": "Exe Estepona Thalasso & Spa - Adults only",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4628448,
+      "lon": -5.0467629
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/exe-estepona-thalasso-&-spa---adults-only.html",
+    "phone": "(+34) 952 89 94 99",
+    "email": "reservas@exeesteponathalassospa.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 319539157,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_319774060",
+    "name": "Altos de Istán",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5773007,
+      "lon": -4.9437773
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 319774060,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_320431293",
+    "name": "Dona Matilde",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4594103,
+      "lon": -5.0516941
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 320431293,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_320834739",
+    "name": "Ona Diana Park",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4687095,
+      "lon": -5.0195918
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.onahotels.com/hotel-diana-park-estepona.html",
+    "phone": "+34932 02 96 11",
+    "email": "info@onahotels.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 320834739,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_321265706",
+    "name": "Marbella Club Hotel",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5065204,
+      "lon": -4.9192157
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 321265706,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_322819020",
+    "name": "Hotel Plaza Cavana",
+    "city": "Málaga",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7452832,
+      "lon": -3.8776017
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 322819020,
+    "osm_type": "node",
+    "city_original": "Málaga"
+  },
+  {
+    "id": "OSM_node_1405106345",
+    "name": "Hotel Senator Marbella Spa",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5099929,
+      "lon": -4.9039312
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1405106345,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_1408962102",
+    "name": "Hotel PYR",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4891735,
+      "lon": -4.9553652
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "Wheelchair accessible"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 1408962102,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_1815904433",
+    "name": "Hotel Guadalmina",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4628626,
+      "lon": -5.003182
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.barcelo.com/es-es/hotel-guadalmina/",
+    "phone": "+34 952 882 211",
+    "email": "jreservas@guadalminahotel.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1815904433,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_2233920585",
+    "name": "Hotel Thailandia",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5048335,
+      "lon": -4.9248685
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2233920585,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_2233920613",
+    "name": "NH Hoteles",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5049816,
+      "lon": -4.9245293
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2233920613,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_2233920616",
+    "name": "Puente Romano",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.504509,
+      "lon": -4.9241547
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2233920616,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_2554068756",
+    "name": "Benabola Hotel & Apartments",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4854082,
+      "lon": -4.9545396
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://benabola.com/",
+    "phone": "+34 952815000",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2554068756,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_4141458522",
+    "name": "Hotel Marbella Banus",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4950584,
+      "lon": -4.9470732
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.melia.com/es/hoteles/espana/marbella/melia-marbella-banus/index.htm",
+    "phone": "+34 952810500",
+    "email": "melia.marbella.banus@melia.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 4141458522,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_4681097358",
+    "name": "Puente Romano Marbella",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5036637,
+      "lon": -4.9255823
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 4681097358,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_5303138385",
+    "name": "H10 Andalucia Plaza",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4895039,
+      "lon": -4.961485
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 5303138385,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_5603806036",
+    "name": "Ona Princesa Playa",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.507355,
+      "lon": -4.8830057
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.onahotels.com/apart-hotel-princesa-playa-marbella.html",
+    "phone": "+34 951127529",
+    "email": "info@onahotels.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 5603806036,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_6343539294",
+    "name": "El Nácar - B&B Adults Only",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4968572,
+      "lon": -4.7574621
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.elnacar.com",
+    "phone": "+34 675 658535",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 6343539294,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_6578420186",
+    "name": "Globales Pueblo Andaluz",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4852136,
+      "lon": -4.976604
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.globales.com/en/hotels/spain/malaga/marbella/globales-pueblo-andaluz/",
+    "phone": "+34 952 78 05 97",
+    "email": "res.puebloandaluz@hotelesglobales.com",
+    "opening_hours": null,
+    "amenities": [
+      "Wheelchair accessible",
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 6578420186,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_8425488758",
+    "name": "Hotel Río Real Golf",
+    "city": "Marbella",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5127622,
+      "lon": -4.8445705
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 8425488758,
+    "osm_type": "node",
+    "city_original": "Marbella"
+  },
+  {
+    "id": "OSM_node_767144182",
+    "name": "Hotel Ibis",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6720971,
+      "lon": -6.1523994
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 767144182,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_940892961",
+    "name": "Hotel La Cueva",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7140959,
+      "lon": -6.0267678
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 940892961,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_940893063",
+    "name": "Hotel Barceló Montecastillio Golf",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7024834,
+      "lon": -6.0381192
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 940893063,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_6700611017",
+    "name": "Hotel Palacio Garvey",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6857012,
+      "lon": -6.1374479
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelpalaciogarvey.com/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 6700611017,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_6700611019",
+    "name": "Casa Palacio María Luisa",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6855412,
+      "lon": -6.1375221
+    },
+    "star_rating": 5,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 6700611019,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_6709586697",
+    "name": "La Gitanilla",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6837614,
+      "lon": -6.1416711
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.lagitanilla.com/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 6709586697,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_12119768171",
+    "name": "Palacio Corredera",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6809936,
+      "lon": -6.1345386
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 12119768171,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_12207678580",
+    "name": "Sidonia",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6823584,
+      "lon": -6.141927
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 12207678580,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_12564999201",
+    "name": "Nuevo Hotel",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.680458,
+      "lon": -6.1364282
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 12564999201,
+    "osm_type": "node",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_256086496",
+    "name": "Soho Boutique Hotels & Spa",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6891521,
+      "lon": -6.1335754
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://en.sohohoteles.com/hotel-boutique-jerez-spa-in-jerez/",
+    "phone": "+34 956 32 72 30",
+    "email": "sohojerez@sohohoteles.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 256086496,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_319635677",
+    "name": "Exe Guadalete",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6973143,
+      "lon": -6.1319797
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/exe-guadalete.html",
+    "phone": "(+34) 956182288",
+    "email": "bookings@exehotelguadalete.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 319635677,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_320786549",
+    "name": "Hotel in Jerez de la Frontera",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6896652,
+      "lon": -6.1335041
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 320786549,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_324588055",
+    "name": "Hotel Villa Jerez",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6946699,
+      "lon": -6.1325408
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hace.es/hotel-villa-jerez/",
+    "phone": "+34 956 153 100",
+    "email": "reservas@villajerez.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 324588055,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_393378576",
+    "name": "Hotel Quitagolpe",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6808964,
+      "lon": -6.1512747
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 393378576,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_way_397812068",
+    "name": "Hotel Jerez & Spa",
+    "city": "Jerez de la Frontera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6990128,
+      "lon": -6.1259191
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 397812068,
+    "osm_type": "way",
+    "city_original": "Jerez de la Frontera"
+  },
+  {
+    "id": "OSM_node_430878863",
+    "name": "Los Arcos",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7582185,
+      "lon": -3.8672182
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 430878863,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_430878873",
+    "name": "Club Nerja",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7579593,
+      "lon": -3.8698829
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 430878873,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_430878885",
+    "name": "Alegre",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7546488,
+      "lon": -3.8737182
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 430878885,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_431250024",
+    "name": "Alhambra",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7449925,
+      "lon": -3.8821137
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hostalalhambra.es/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 431250024,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_579747709",
+    "name": "Hotel Avalon",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7442706,
+      "lon": -3.9045467
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 579747709,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_774084939",
+    "name": "Apartamentos El Capistrano",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7598113,
+      "lon": -3.8674761
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 774084939,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_1002348458",
+    "name": "Apartamentos Río Marinas",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7445744,
+      "lon": -3.9003067
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "http://www.riomarinasnerja.com/",
+    "phone": "+34 952 524 386",
+    "email": "pepimartin@live.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1002348458,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_1094609164",
+    "name": "Mena Plaza",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7457763,
+      "lon": -3.8775028
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelmenaplaza.es/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1094609164,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_1110313614",
+    "name": "Playamaro",
+    "city": "Nerja",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7592068,
+      "lon": -3.8426768
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1110313614,
+    "osm_type": "node",
+    "city_original": "Nerja"
+  },
+  {
+    "id": "OSM_node_941309932",
+    "name": "Banti",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0332605,
+      "lon": -5.6155733
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 941309932,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_1232961898",
+    "name": "Apolo XI",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.1856072,
+      "lon": -5.7560411
+    },
+    "star_rating": 1,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": "+34 956 68 70 53",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1232961898,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_2401947251",
+    "name": "Hotel El Varadero",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.108359,
+      "lon": -5.8254581
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.el-varadero.com/",
+    "phone": "+34 956 439 038",
+    "email": "reservas@el-varadero.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2401947251,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3157938110",
+    "name": "Room Tarifa",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0145627,
+      "lon": -5.602888
+    },
+    "star_rating": 1,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.roomtarifa.com",
+    "phone": "+34 956 682 229",
+    "email": "reservas@roomtarifa.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 3157938110,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3517545826",
+    "name": "Hotel 100% Fun Tarifa",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0650823,
+      "lon": -5.6750072
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": "+34 956 680 330",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3517545826,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3517545827",
+    "name": "Hotel Dulce Nombre",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0653619,
+      "lon": -5.6730572
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hoteldulcenombre.com/",
+    "phone": "+34 956 685 344",
+    "email": "info@hoteldulcenombre.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3517545827,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3610267366",
+    "name": "Alameda",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0119108,
+      "lon": -5.6040965
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 3610267366,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3645880496",
+    "name": "Apartamentos Mateo",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0860218,
+      "lon": -5.7670164
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3645880496,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3645880497",
+    "name": "Apartamentos Miramar",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0857194,
+      "lon": -5.7670375
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3645880497,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3645972900",
+    "name": "Apartamentos Ana",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0846073,
+      "lon": -5.7628657
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3645972900,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3645977264",
+    "name": "Hostal Ríos",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0835813,
+      "lon": -5.7643415
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://hostalriosbolonia.com/",
+    "phone": "+34 956 688 586",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3645977264,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3646018637",
+    "name": "Apartamentos Isabel",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.083046,
+      "lon": -5.7629071
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://apartamentosisabelbolonia.com/",
+    "phone": "+34 956 68 85 69;+34 636 811 369",
+    "email": "apartamentos-isabel@hotmail.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3646018637,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3646018638",
+    "name": "Hostal Los Jerezanos",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0827707,
+      "lon": -5.7626724
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "http://www.hostallosjerezanos.es/",
+    "phone": "+34 956 688 592",
+    "email": "contacto@hostallosjerezanos.es",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3646018638,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3646115611",
+    "name": "La Posada de Lola",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.085776,
+      "lon": -5.7642082
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3646115611,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_3804129787",
+    "name": "Silos 19 Suites",
+    "city": "Tarifa",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.0147,
+      "lon": -5.6031077
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": "+34 956 68 46 85",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 3804129787,
+    "osm_type": "node",
+    "city_original": "Tarifa"
+  },
+  {
+    "id": "OSM_node_2623133111",
+    "name": "Hotel Las Casas del Duque",
+    "city": "Osuna",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2402771,
+      "lon": -5.1032573
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.lacasadelduque.com/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2623133111,
+    "osm_type": "node",
+    "city_original": "Osuna"
+  },
+  {
+    "id": "OSM_node_2623141490",
+    "name": "Hospedería del Monasterio",
+    "city": "Osuna",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2380126,
+      "lon": -5.1004706
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2623141490,
+    "osm_type": "node",
+    "city_original": "Osuna"
+  },
+  {
+    "id": "OSM_way_256677189",
+    "name": "Hotel Palacio Marques de La Gomera",
+    "city": "Osuna",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2392926,
+      "lon": -5.1066195
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelpalaciodelmarques.es/",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 256677189,
+    "osm_type": "way",
+    "city_original": "Osuna"
+  },
+  {
+    "id": "OSM_way_402098145",
+    "name": "Hotel Esmeralda",
+    "city": "Osuna",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2352709,
+      "lon": -5.1022717
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 402098145,
+    "osm_type": "way",
+    "city_original": "Osuna"
+  },
+  {
+    "id": "OSM_node_909557052",
+    "name": "Hotel Maciá Doñana",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7871104,
+      "lon": -6.3529572
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.maciadonana.com/",
+    "phone": "+34 956365000",
+    "email": "donana@maciahoteles.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 909557052,
+    "osm_type": "node",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_node_3166903637",
+    "name": "Hotel Guadalquivir",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7811296,
+      "lon": -6.3550011
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelguadalquivir.com/",
+    "phone": "+34 956 360 742",
+    "email": "info@hotelguadalquivir.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 3166903637,
+    "osm_type": "node",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_node_3543848858",
+    "name": "Tartaneros",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7798563,
+      "lon": -6.3548566
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3543848858,
+    "osm_type": "node",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_node_3915128850",
+    "name": "Barrameda",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7786206,
+      "lon": -6.3537203
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3915128850,
+    "osm_type": "node",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_node_6179192730",
+    "name": "Hostal La Casa Sanlúcar",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.779548,
+      "lon": -6.3518589
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": "+34 617 57 59 13",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 6179192730,
+    "osm_type": "node",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_way_199834150",
+    "name": "Hotel Palacio Marqués de Arizón",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7765781,
+      "lon": -6.3591207
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/hotel-palacio-marques-de-arizon.html",
+    "phone": "(+34) 856 63 29 03",
+    "email": "reservas@hotelpalaciomarquesdearizon.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 199834150,
+    "osm_type": "way",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_relation_13565812",
+    "name": "Los Helechos",
+    "city": "Sanlúcar de Barrameda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7772837,
+      "lon": -6.3557266
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelloshelechos.com/",
+    "phone": "+34 956 361 349",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 13565812,
+    "osm_type": "relation",
+    "city_original": "Sanlúcar de Barrameda"
+  },
+  {
+    "id": "OSM_node_324582577",
+    "name": "Los Jándalos Vistahermosa",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.600448,
+      "lon": -6.2537691
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "http://vistahermosa.jandalos.com",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 324582577,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_324582632",
+    "name": "Crisol Monasterio San Miguel",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6022466,
+      "lon": -6.2225623
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.eurostarshotels.com/crisol-monasterio-de-san-miguel.html",
+    "phone": "(+34) 956 54 04 40",
+    "email": "recepcion@monasteriosanmiguelhotel.com",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 324582632,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_324582658",
+    "name": "Los Cántaros",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5994179,
+      "lon": -6.2242028
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 324582658,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_324586148",
+    "name": "Puerto Sherry",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5821195,
+      "lon": -6.2552651
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hace.es/hotelpuertosherry",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 324586148,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_324676616",
+    "name": "Duques de Medinaceli",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6050442,
+      "lon": -6.2209165
+    },
+    "star_rating": 5,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://sites.google.com/view/hotel-duques-de-medinaceli/",
+    "phone": "+34 956 860 777",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 324676616,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_940890446",
+    "name": "Del Mar Hotel",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5983544,
+      "lon": -6.241592
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 940890446,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_2406732441",
+    "name": "Las Suites de Puerto Sherry",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5817053,
+      "lon": -6.2573613
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hace.es/lassuitesdepuertosherry",
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2406732441,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_2497945995",
+    "name": "Casa del Regidor",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5998287,
+      "lon": -6.2228574
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2497945995,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_3801375689",
+    "name": "Hostal Costa Luz",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5957146,
+      "lon": -6.2349322
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "http://www.hostalcostaluz.com/",
+    "phone": "+34956054701",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3801375689,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_11492720426",
+    "name": "Hotel in El Puerto de Santa María",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5894797,
+      "lon": -6.245572
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 11492720426,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_13094648284",
+    "name": "Hotel Dunas Puerto",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.58926,
+      "lon": -6.2445527
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "http://www.hoteldunas.es/es/",
+    "phone": "+34 956850311",
+    "email": "dunas@hoteldunas.es",
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 13094648284,
+    "osm_type": "node",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_way_257058132",
+    "name": "Monasterio San Miguel",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.6028606,
+      "lon": -6.2217809
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 257058132,
+    "osm_type": "way",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_way_949476046",
+    "name": "Hotel Puerto Bahía",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.578882,
+      "lon": -6.2257983
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelpuertobahia.com",
+    "phone": "+34 956 562 721",
+    "email": "reservas@hotelpuertobahia.com",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi",
+      "Wheelchair accessible"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 949476046,
+    "osm_type": "way",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_way_1063227344",
+    "name": "Hotel Playa Valdelagrana",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5838111,
+      "lon": -6.2190389
+    },
+    "star_rating": 2,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": "+34 956052030",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1063227344,
+    "osm_type": "way",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_way_1063402934",
+    "name": "Campomar",
+    "city": "El Puerto de Santa María",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.585837,
+      "lon": -6.2208486
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.hotelcampomar.net/",
+    "phone": "+34 956560143",
+    "email": "reservas@hotelcampomar.net",
+    "opening_hours": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "OpenStreetMap",
+    "osm_id": 1063402934,
+    "osm_type": "way",
+    "city_original": "El Puerto de Santa María"
+  },
+  {
+    "id": "OSM_node_539170128",
+    "name": "Altamarina",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4240732,
+      "lon": -5.1482377
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 539170128,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1030177104",
+    "name": "Hotel in Estepona",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.412179,
+      "lon": -5.1821473
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1030177104,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1030177530",
+    "name": "Hotel in Estepona",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4116277,
+      "lon": -5.1824118
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1030177530,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1030179206",
+    "name": "Hotel in Estepona",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4127034,
+      "lon": -5.181582
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1030179206,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1030203271",
+    "name": "Hotel in Estepona",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4110719,
+      "lon": -5.183044
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1030203271,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1709250402",
+    "name": "Kempinski",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4362916,
+      "lon": -5.1079365
+    },
+    "star_rating": 5,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://www.kempinski.com/es/hotel-bahia",
+    "phone": "+34 952 809 500",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1709250402,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_1712005498",
+    "name": "Hotel Ikos Andalusia",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4519517,
+      "lon": -5.0602557
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 1712005498,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_2354576128",
+    "name": "Autosole",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.459685,
+      "lon": -5.051325
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 2354576128,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_3473127904",
+    "name": "Hospedería V Centenario",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4608485,
+      "lon": -5.0538253
+    },
+    "star_rating": 1,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3473127904,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_3986988321",
+    "name": "Hotel Buenavista",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4232979,
+      "lon": -5.1470539
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": "https://buenavistaestepona.com/",
+    "phone": "+34 952 80 01 37",
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 3986988321,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_4223852333",
+    "name": "Hotel Las Dunas",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4529403,
+      "lon": -5.0685729
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 4223852333,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "OSM_node_4348450789",
+    "name": "Hotel H10 Estepona Palace",
+    "city": "Estepona",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.4171267,
+      "lon": -5.1731867
+    },
+    "star_rating": null,
+    "avg_price_per_night_couple": null,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "email": null,
+    "opening_hours": null,
+    "amenities": [],
+    "source": "OpenStreetMap",
+    "osm_id": 4348450789,
+    "osm_type": "node",
+    "city_original": "Estepona"
+  },
+  {
+    "id": "MANUAL_ALMERIA_001",
+    "name": "Hotel Catedral Almería",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.84,
+      "lon": -2.4681
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 100,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_002",
+    "name": "Hotel Nuevo Torreluz",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.8389,
+      "lon": -2.4631
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 90,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_003",
+    "name": "AC Hotel Almería",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.837,
+      "lon": -2.458
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 110,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_004",
+    "name": "Hotel Costasol",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.835,
+      "lon": -2.462
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": 75,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_005",
+    "name": "Hotel AM Torreluz",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.838,
+      "lon": -2.464
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": 80,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_CADIZ_001",
+    "name": "Hotel Parador de Cádiz",
+    "city": "Cádiz",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.5289,
+      "lon": -6.2931
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 120,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_CADIZ_002",
+    "name": "Hotel Monte Puertatierra",
+    "city": "Cádiz",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.525,
+      "lon": -6.29
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 95,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_CADIZ_003",
+    "name": "Hotel Spa Cádiz Plaza",
+    "city": "Cádiz",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.528,
+      "lon": -6.295
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 110,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Spa"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_001",
+    "name": "Hotel Catedral Almería",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.84,
+      "lon": -2.4681
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 100,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_002",
+    "name": "Hotel Nuevo Torreluz",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.8389,
+      "lon": -2.4631
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 90,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ALMERIA_003",
+    "name": "AC Hotel Almería",
+    "city": "Almería",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.837,
+      "lon": -2.458
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 110,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_RONDA_001",
+    "name": "Hotel Catalonia Ronda",
+    "city": "Ronda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7425,
+      "lon": -5.1642
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 100,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_RONDA_002",
+    "name": "Parador de Ronda",
+    "city": "Ronda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.7408,
+      "lon": -5.1653
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 130,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_RONDA_003",
+    "name": "Hotel Maestranza",
+    "city": "Ronda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 36.74,
+      "lon": -5.165
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": 85,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_HUELVA_001",
+    "name": "Hotel Exe Tartessos",
+    "city": "Huelva",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.2614,
+      "lon": -6.9447
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 90,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_HUELVA_002",
+    "name": "AC Hotel Huelva",
+    "city": "Huelva",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.26,
+      "lon": -6.95
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 95,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Air conditioning"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_JAEN_001",
+    "name": "Parador de Jaén",
+    "city": "Jaén",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.7647,
+      "lon": -3.7683
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 110,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_JAEN_002",
+    "name": "Hotel Infanta Cristina",
+    "city": "Jaén",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.765,
+      "lon": -3.77
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 85,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ANTEQUERA_001",
+    "name": "Parador de Antequera",
+    "city": "Antequera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.0236,
+      "lon": -4.5481
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 95,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Swimming pool"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_ANTEQUERA_002",
+    "name": "Hotel Convento La Magdalena",
+    "city": "Antequera",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.02,
+      "lon": -4.55
+    },
+    "star_rating": 3,
+    "avg_price_per_night_couple": 80,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_UBEDA_001",
+    "name": "Parador de Úbeda",
+    "city": "Úbeda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 38.0075,
+      "lon": -3.3708
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 105,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_UBEDA_002",
+    "name": "Hotel Palacio de Úbeda",
+    "city": "Úbeda",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 38.008,
+      "lon": -3.37
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 90,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Parking"
+    ],
+    "source": "Manual"
+  },
+  {
+    "id": "MANUAL_BAEZA_001",
+    "name": "Hotel Puerta de la Luna",
+    "city": "Baeza",
+    "category": "Hotel",
+    "coordinates": {
+      "lat": 37.9931,
+      "lon": -3.4697
+    },
+    "star_rating": 4,
+    "avg_price_per_night_couple": 95,
+    "guest_rating": null,
+    "website": null,
+    "phone": null,
+    "amenities": [
+      "WiFi",
+      "Restaurant"
+    ],
+    "source": "Manual"
+  }
+]

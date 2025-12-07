@@ -1,0 +1,242 @@
+{
+  "Granada": [
+    {
+      "tour_name": "Alhambra, Nasrid Palaces & Generalife Fast-Track Tour",
+      "poi_name": "Alhambra",
+      "provider_name": "GetYourGuide",
+      "description": "The essential, sell-out tour. Includes guaranteed skip-the-line access to the entire complex: Nasrid Palaces, Generalife Gardens, and Alcazaba, with an expert historian guide.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Sunset Walking Tour of Albaicín & Sacromonte",
+      "poi_name": "Albaicín & Sacromonte",
+      "provider_name": "Civitatis",
+      "description": "Explore the narrow, jasmine-scented streets of the Arab quarter and the gypsy caves of Sacromonte. Ends with the iconic sunset view of the Alhambra from Mirador de San Nicolás.",
+      "affiliate_link": ""
+    }
+  ],
+  "Seville": [
+    {
+      "tour_name": "Alcázar, Cathedral & Giralda Guided Tour",
+      "poi_name": "Royal Alcázar & Cathedral",
+      "provider_name": "GetYourGuide",
+      "description": "A comprehensive 3-hour tour covering Seville's UNESCO trio. Includes priority access to the Royal Palace (Game of Thrones filming location) and the world's largest Gothic cathedral.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Authentic Tapas Crawl in Triana Neighborhood",
+      "poi_name": "Triana Market",
+      "provider_name": "Viator",
+      "description": "Cross the river to the historic Triana district. Visit a local market and 3 traditional bars to taste Andalusia's best cured ham, fried fish, and local wines.",
+      "affiliate_link": ""
+    }
+  ],
+  "Córdoba": [
+    {
+      "tour_name": "Mosque-Cathedral of Córdoba Guided Tour",
+      "poi_name": "Mezquita",
+      "provider_name": "GetYourGuide",
+      "description": "Skip the line to explore one of the world's most unique monuments—a forest of 856 columns inside a former mosque converted into a cathedral.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Patios of Córdoba & Jewish Quarter Tour",
+      "poi_name": "Jewish Quarter (Judería)",
+      "provider_name": "Civitatis",
+      "description": "Discover the famous flower-filled patios of Córdoba (a UNESCO heritage tradition) and wander the winding streets of the medieval Jewish Quarter and Synagogue.",
+      "affiliate_link": ""
+    }
+  ],
+  "Málaga": [
+    {
+      "tour_name": "Caminito del Rey Guided Day Trip (with Bus)",
+      "poi_name": "Caminito del Rey",
+      "provider_name": "GetYourGuide",
+      "description": "The ultimate nature experience. Includes transport from Málaga city center and a guided safe walk along the famous 'King's Little Path' hanging 100m high in the gorge.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Complete Málaga: Alcazaba, Roman Theatre & Cathedral",
+      "poi_name": "Alcazaba & Roman Theatre",
+      "provider_name": "Civitatis",
+      "description": "A deep dive into Málaga's history, visiting the Roman ruins at the foot of the hill and the beautifully preserved Moorish fortress palace above.",
+      "affiliate_link": ""
+    }
+  ],
+  "Cádiz": [
+    {
+      "tour_name": "Cádiz Old Town & Tavira Tower Camera Obscura",
+      "poi_name": "Torre Tavira",
+      "provider_name": "Viator",
+      "description": "Climb the highest watchtower in the city for 360-degree views and a unique 'Camera Obscura' session, followed by a walk through the oldest city in Western Europe.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Market & Tapas Tour of Cádiz",
+      "poi_name": "Central Market",
+      "provider_name": "GetYourGuide",
+      "description": "Taste the famous 'pescaíto frito' (fried fish) and sherry wines at the bustling Central Market, guided by a local foodie expert.",
+      "affiliate_link": ""
+    }
+  ],
+  "Ronda": [
+    {
+      "tour_name": "Ronda Walking Tour: Puente Nuevo & Bullring",
+      "poi_name": "Puente Nuevo",
+      "provider_name": "Civitatis",
+      "description": "Stand on the iconic 'New Bridge' spanning the deep El Tajo gorge and visit the Plaza de Toros, one of the oldest and most historically significant bullrings in Spain.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Organic Olive Oil Tour & Tasting at Local Estate",
+      "poi_name": "Ronda Countryside",
+      "provider_name": "Viator",
+      "description": "Escape the town center to visit a nearby traditional 'finca'. Learn about olive oil production and enjoy a tasting session with views of the Sierra de Grazalema.",
+      "affiliate_link": ""
+    }
+  ],
+  "Jerez de la Frontera": [
+    {
+      "tour_name": "Sherry Winery Tour & Tasting (Tio Pepe or similar)",
+      "poi_name": "Bodegas Tio Pepe",
+      "provider_name": "GetYourGuide",
+      "description": "No visit to Jerez is complete without sherry. Tour a cathedral-like bodega, learn the solera aging system, and taste various styles from Fino to Pedro Ximénez.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Royal Andalusian School of Equestrian Art Show",
+      "poi_name": "Royal Andalusian School",
+      "provider_name": "Viator",
+      "description": "Watch the famous 'How the Andalusian Horses Dance' ballet. An equestrian spectacle showcasing classical dressage in a stunning 19th-century palace setting.",
+      "affiliate_link": ""
+    }
+  ],
+  "Marbella": [
+    {
+      "tour_name": "Marbella Old Town & Tapas Walking Tour",
+      "poi_name": "Plaza de los Naranjos",
+      "provider_name": "GetYourGuide",
+      "description": "Explore the charming historic center with its whitewashed walls and flower pots, stopping at hidden bodegas for tapas away from the tourist traps of Puerto Banús.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Luxury Catamaran Cruise from Puerto Banús",
+      "poi_name": "Puerto Banús",
+      "provider_name": "Viator",
+      "description": "Experience the glamour of Marbella from the sea. A relaxing sailing trip along the Golden Mile with drinks, snacks, and swimming stops.",
+      "affiliate_link": ""
+    }
+  ],
+  "Nerja": [
+    {
+      "tour_name": "Nerja Caves & Frigiliana Day Tour",
+      "poi_name": "Nerja Caves",
+      "provider_name": "Civitatis",
+      "description": "Visit the spectacular prehistoric Nerja Caves (home to the world's largest stalactite) and the nearby white village of Frigiliana, voted the prettiest in Andalusia.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Kayaking & Snorkeling in Maro-Cerro Gordo Cliffs",
+      "poi_name": "Maro Beach",
+      "provider_name": "GetYourGuide",
+      "description": "Paddle through crystal-clear waters along the wildly beautiful cliffs of Maro. Includes stops for snorkeling in hidden coves accessible only by sea.",
+      "affiliate_link": ""
+    }
+  ],
+  "Antequera": [
+    {
+      "tour_name": "Dolmens of Antequera & El Torcal Nature Reserve",
+      "poi_name": "El Torcal de Antequera",
+      "provider_name": "GetYourGuide",
+      "description": "A dual-site tour visiting the UNESCO World Heritage Dolmens (megalithic tombs) and a guided hike through the surreal limestone rock formations of El Torcal.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Antequera Monumental Walking Tour",
+      "poi_name": "Alcazaba of Antequera",
+      "provider_name": "Civitatis",
+      "description": "Climb up to the Moorish Alcazaba for panoramic views and explore the city's incredible density of Renaissance churches and convents.",
+      "affiliate_link": ""
+    }
+  ],
+  "Tarifa": [
+    {
+      "tour_name": "Whale & Dolphin Watching in the Strait",
+      "poi_name": "Strait of Gibraltar",
+      "provider_name": "GetYourGuide",
+      "description": "Navigate the waters between Europe and Africa. A high chance to see Pilot Whales, Bottlenose Dolphins, and even Orcas (in summer) in their natural habitat.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Tangier Day Trip by Ferry from Tarifa",
+      "poi_name": "Tangier (Morocco)",
+      "provider_name": "Viator",
+      "description": "Take the fast ferry across the strait for a full day in Morocco. Includes a guided walk of the Kasbah, Medina, and a traditional Moroccan lunch.",
+      "affiliate_link": ""
+    }
+  ],
+  "Gibraltar": [
+    {
+      "tour_name": "Rock of Gibraltar Tour: Monkeys & St. Michael's Cave",
+      "poi_name": "Rock of Gibraltar",
+      "provider_name": "Viator",
+      "description": "The classic tour of the Rock. Meet the famous Barbary Macaques (monkeys), visit the stunning St. Michael's Cave, and enjoy views of two continents.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Dolphin Watching Cruise in Gibraltar Bay",
+      "poi_name": "Gibraltar Marina",
+      "provider_name": "GetYourGuide",
+      "description": "A specialized boat tour to see the wild dolphins that live in the bay. Offers unique views of the Rock and the Spanish coastline from the water.",
+      "affiliate_link": ""
+    }
+  ],
+  "Úbeda": [
+    {
+      "tour_name": "Úbeda Renaissance Monumental Tour",
+      "poi_name": "Vázquez de Molina Square",
+      "provider_name": "Civitatis",
+      "description": "A guided walk through the 'Queen of the Olive Groves.' Focuses on the pristine Renaissance architecture of Vázquez de Molina Square and the Sacra Capilla del Salvador.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Olive Oil Tasting & Mill Visit",
+      "poi_name": "Olive Oil Centre",
+      "provider_name": "GetYourGuide",
+      "description": "Úbeda is the capital of olive oil. Visit an 'Almazara' (mill) to learn the production process and taste some of the world's best Extra Virgin Olive Oils.",
+      "affiliate_link": ""
+    }
+  ],
+  "Baeza": [
+    {
+      "tour_name": "Baeza UNESCO World Heritage Walking Tour",
+      "poi_name": "Baeza Cathedral",
+      "provider_name": "Civitatis",
+      "description": "Stroll through the poetic streets where Antonio Machado lived. Visit the Cathedral, the Jabalquinto Palace, and the Old University in this quiet Renaissance gem.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Combined Úbeda & Baeza Day Tour",
+      "poi_name": "Historic Centre",
+      "provider_name": "Viator",
+      "description": "A comprehensive tour covering both UNESCO sister cities in one day. Perfect for travelers who want to see the highlights of the Spanish Renaissance efficiently.",
+      "affiliate_link": ""
+    }
+  ],
+  "Almería": [
+    {
+      "tour_name": "Cabo de Gata 4x4 & Beach Tour",
+      "poi_name": "Cabo de Gata-Níjar Natural Park",
+      "provider_name": "GetYourGuide",
+      "description": "Explore the volcanic cliffs and hidden beaches of Cabo de Gata Natural Park. Visit the salt flats (often with flamingos) and the iconic Mermaid's Reef.",
+      "affiliate_link": ""
+    },
+    {
+      "tour_name": "Oasys MiniHollywood Western Theme Park Ticket",
+      "poi_name": "Tabernas Desert",
+      "provider_name": "Civitatis",
+      "description": "Visit the actual sets of famous Spaghetti Western movies in the Tabernas Desert. Includes cowboy stunt shows, a zoo, and access to the pool areas.",
+      "affiliate_link": ""
+    }
+  ]
+}

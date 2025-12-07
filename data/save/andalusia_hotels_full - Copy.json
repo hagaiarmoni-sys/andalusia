@@ -1,0 +1,3321 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2025-10-05",
+    "total_hotels": 145,
+    "cities_covered": [
+      "Seville",
+      "Granada",
+      "Córdoba",
+      "Málaga",
+      "Ronda",
+      "Cádiz",
+      "Marbella",
+      "Nerja",
+      "Tarifa",
+      "Estepona",
+      "Casares",
+      "Almuñécar",
+      "Jerez",
+      "Aracena",
+      "Cazorla",
+      "Antequera",
+      "Mojácar",
+      "Ayamonte",
+      "San Pedro"
+    ],
+    "price_currency": "EUR",
+    "price_basis": "per_night_couple"
+  },
+  "hotels": [
+    {
+      "id": "SEV001",
+      "name": "Hotel Alfonso XIII",
+      "city": "Seville",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 420,
+      "coordinates": {
+        "lat": 37.3839,
+        "lng": -5.9925
+      },
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 9.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/starwoodalfonso.html"
+      },
+      "best_for": [
+        "Luxury travelers"
+      ],
+      "neighborhood": "Historic Center"
+    },
+    {
+      "id": "SEV002",
+      "name": "Hotel Tayko Sevilla",
+      "city": "Seville",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "amenities": [
+        "Rooftop",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.3,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/tayko-sevilla.html"
+      },
+      "best_for": [
+        "Modern travelers"
+      ],
+      "neighborhood": "Santa Cruz"
+    },
+    {
+      "id": "SEV003",
+      "name": "Corral del Rey",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 180,
+      "coordinates": {
+        "lat": 37.3889,
+        "lng": -5.9889
+      },
+      "amenities": [
+        "Courtyards",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 9.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/corral-del-rey.html"
+      },
+      "best_for": [
+        "Romantic stays"
+      ],
+      "neighborhood": "Alfalfa"
+    },
+    {
+      "id": "SEV004",
+      "name": "Hotel Amadeus",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 37.3875,
+        "lng": -5.9905
+      },
+      "amenities": [
+        "Rooftop",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/amadeus-sevilla.html"
+      },
+      "best_for": [
+        "Music lovers"
+      ],
+      "neighborhood": "Santa Cruz"
+    },
+    {
+      "id": "SEV005",
+      "name": "Hotel Bécquer",
+      "city": "Seville",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 170,
+      "coordinates": {
+        "lat": 37.3912,
+        "lng": -5.9961
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 9.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hotelbecquer.html"
+      },
+      "best_for": [
+        "Pool lovers"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV006",
+      "name": "Radisson Collection",
+      "city": "Seville",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 220,
+      "coordinates": {
+        "lat": 37.3894,
+        "lng": -5.9933
+      },
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 9.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/radisson-collection-magdalena-plaza-sevilla.html"
+      },
+      "best_for": [
+        "Luxury"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV007",
+      "name": "Hotel Gran Meliá Colon",
+      "city": "Seville",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 200,
+      "coordinates": {
+        "lat": 37.3882,
+        "lng": -5.9947
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/gran-melia-colon.html"
+      },
+      "best_for": [
+        "Luxury"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV008",
+      "name": "Hotel Casual Sevilla",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.3876,
+        "lng": -5.9911
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casual-sevilla-de-las-letras.html"
+      },
+      "best_for": [
+        "Design lovers"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV009",
+      "name": "Only YOU Hotel Sevilla",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 170,
+      "coordinates": {
+        "lat": 37.3888,
+        "lng": -5.9928
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/only-you-hotel-sevilla.html"
+      },
+      "best_for": [
+        "Design"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV010",
+      "name": "Hotel Kivir",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 37.3868,
+        "lng": -5.9892
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/kivir.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV011",
+      "name": "Hotel Itaca",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 150,
+      "coordinates": {
+        "lat": 37.3879,
+        "lng": -5.9918
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/itaca-sevilla.html"
+      },
+      "best_for": [
+        "Design"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV012",
+      "name": "Hotel San Gil",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.3895,
+        "lng": -5.9913
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/san-gil.html"
+      },
+      "best_for": [
+        "Value"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "SEV013",
+      "name": "Catalonia Santa Justa",
+      "city": "Seville",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.3923,
+        "lng": -5.9753
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/catalonia-santa-justa.html"
+      },
+      "best_for": [
+        "Train"
+      ],
+      "neighborhood": "Santa Justa"
+    },
+    {
+      "id": "SEV014",
+      "name": "Melia Sevilla",
+      "city": "Seville",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 160,
+      "coordinates": {
+        "lat": 37.3772,
+        "lng": -5.9869
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/melia-sevilla.html"
+      },
+      "best_for": [
+        "Plaza España"
+      ],
+      "neighborhood": "Park"
+    },
+    {
+      "id": "SEV015",
+      "name": "Petit Palace Triana",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.3857,
+        "lng": -5.9967
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/petit-palace-puerta-de-triana.html"
+      },
+      "best_for": [
+        "Value"
+      ],
+      "neighborhood": "Triana"
+    },
+    {
+      "id": "SEV016",
+      "name": "Hotel Macarena",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 37.3957,
+        "lng": -5.9891
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/macarena-sevilla.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Macarena"
+    },
+    {
+      "id": "SEV017",
+      "name": "Hotel Doña Maria",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 150,
+      "coordinates": {
+        "lat": 37.3859,
+        "lng": -5.9926
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/dona-maria.html"
+      },
+      "best_for": [
+        "Traditional"
+      ],
+      "neighborhood": "Santa Cruz"
+    },
+    {
+      "id": "SEV018",
+      "name": "Hotel Casa 1800",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 180,
+      "coordinates": {
+        "lat": 37.3874,
+        "lng": -5.9898
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casa-1800-sevilla.html"
+      },
+      "best_for": [
+        "Romantic"
+      ],
+      "neighborhood": "Santa Cruz"
+    },
+    {
+      "id": "SEV019",
+      "name": "Hotel Silken Al-Andalus",
+      "city": "Seville",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.3684,
+        "lng": -5.9735
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/silken-al-andalus-palace.html"
+      },
+      "best_for": [
+        "Families"
+      ],
+      "neighborhood": "South"
+    },
+    {
+      "id": "SEV020",
+      "name": "TOC Hostel",
+      "city": "Seville",
+      "category": "Hostel",
+      "star_rating": 2,
+      "avg_price_per_night_couple": 55,
+      "coordinates": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      },
+      "amenities": [
+        "Rooftop",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/toc-hostel-sevilla.html"
+      },
+      "best_for": [
+        "Backpackers"
+      ],
+      "neighborhood": "Historic"
+    },
+    {
+      "id": "SEV021",
+      "name": "Apartamentos Murillo",
+      "city": "Seville",
+      "category": "Apartments",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 85,
+      "coordinates": {
+        "lat": 37.3865,
+        "lng": -5.9912
+      },
+      "amenities": [
+        "Kitchen",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/apartamentos-murillo.html"
+      },
+      "best_for": [
+        "Self-catering"
+      ],
+      "neighborhood": "Santa Cruz"
+    },
+    {
+      "id": "SEV022",
+      "name": "Hotel Inglaterra",
+      "city": "Seville",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 165,
+      "coordinates": {
+        "lat": 37.3877,
+        "lng": -5.9934
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/inglaterra-sevilla.html"
+      },
+      "best_for": [
+        "Historic"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "SEV023",
+      "name": "Hotel Monte Triana",
+      "city": "Seville",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 37.3821,
+        "lng": -6.0032
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/monte-triana.html"
+      },
+      "best_for": [
+        "Triana"
+      ],
+      "neighborhood": "Triana"
+    },
+    {
+      "id": "SEV024",
+      "name": "Sacristía Santa Ana",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 155,
+      "coordinates": {
+        "lat": 37.3848,
+        "lng": -6.0015
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/sacristia-de-santa-ana.html"
+      },
+      "best_for": [
+        "Authentic"
+      ],
+      "neighborhood": "Triana"
+    },
+    {
+      "id": "SEV025",
+      "name": "Exe Isla Cartuja",
+      "city": "Seville",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 37.4021,
+        "lng": -6.0087
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.2,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/exe-isla-cartuja.html"
+      },
+      "best_for": [
+        "Budget pool"
+      ],
+      "neighborhood": "Cartuja"
+    },
+    {
+      "id": "SEV026",
+      "name": "Hotel Pasarela",
+      "city": "Seville",
+      "category": "Budget",
+      "star_rating": 2,
+      "avg_price_per_night_couple": 75,
+      "coordinates": {
+        "lat": 37.3823,
+        "lng": -5.9876
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.2,
+      "guest_rating": 7.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/pasarela.html"
+      },
+      "best_for": [
+        "Backpackers"
+      ],
+      "neighborhood": "Near Center"
+    },
+    {
+      "id": "SEV027",
+      "name": "Hilton Garden Inn",
+      "city": "Seville",
+      "category": "Chain",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 37.3956,
+        "lng": -5.9789
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC",
+        "Gym"
+      ],
+      "location_score": 8.3,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hilton-garden-inn-sevilla.html"
+      },
+      "best_for": [
+        "Business"
+      ],
+      "neighborhood": "North"
+    },
+    {
+      "id": "SEV028",
+      "name": "Ribera de Triana",
+      "city": "Seville",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 37.3844,
+        "lng": -6.0021
+      },
+      "amenities": [
+        "River Views",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ribera-de-triana.html"
+      },
+      "best_for": [
+        "River views"
+      ],
+      "neighborhood": "Triana"
+    },
+    {
+      "id": "SEV029",
+      "name": "Vértice Sevilla",
+      "city": "Seville",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 100,
+      "coordinates": {
+        "lat": 37.3689,
+        "lng": -5.9823
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 7.8,
+      "guest_rating": 7.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/vertice-sevilla.html"
+      },
+      "best_for": [
+        "Budget car"
+      ],
+      "neighborhood": "South"
+    },
+    {
+      "id": "SEV030",
+      "name": "Hotel Cervantes",
+      "city": "Seville",
+      "category": "Budget",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 85,
+      "coordinates": {
+        "lat": 37.3869,
+        "lng": -5.9898
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 7.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/cervantes-sevilla.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Near Santa Cruz"
+    },
+    {
+      "id": "GRA001",
+      "name": "Parador de Granada",
+      "city": "Granada",
+      "category": "Historic Luxury",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 320,
+      "coordinates": {
+        "lat": 37.1761,
+        "lng": -3.5881
+      },
+      "amenities": [
+        "Historic",
+        "Restaurant",
+        "Garden",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 10,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-granada.html"
+      },
+      "best_for": [
+        "History"
+      ],
+      "neighborhood": "Alhambra"
+    },
+    {
+      "id": "GRA002",
+      "name": "Hotel Alhambra Palace",
+      "city": "Granada",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 180,
+      "coordinates": {
+        "lat": 37.1774,
+        "lng": -3.5897
+      },
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/alhambra-palace.html"
+      },
+      "best_for": [
+        "Views"
+      ],
+      "neighborhood": "Alhambra Hill"
+    },
+    {
+      "id": "GRA003",
+      "name": "Áurea Washington Irving",
+      "city": "Granada",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 160,
+      "coordinates": {
+        "lat": 37.1775,
+        "lng": -3.5903
+      },
+      "amenities": [
+        "Courtyard",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/washington-irving.html"
+      },
+      "best_for": [
+        "Historic"
+      ],
+      "neighborhood": "Albaicín"
+    },
+    {
+      "id": "GRA004",
+      "name": "Hotel Casa Morisca",
+      "city": "Granada",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.1789,
+        "lng": -3.5925
+      },
+      "amenities": [
+        "Courtyard",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casa-morisca.html"
+      },
+      "best_for": [
+        "Authentic"
+      ],
+      "neighborhood": "Albaicín"
+    },
+    {
+      "id": "GRA005",
+      "name": "Hotel Casa 1800",
+      "city": "Granada",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 170,
+      "coordinates": {
+        "lat": 37.1768,
+        "lng": -3.5989
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casa-1800-granada.html"
+      },
+      "best_for": [
+        "Central"
+      ],
+      "neighborhood": "City Center"
+    },
+    {
+      "id": "GRA006",
+      "name": "Hotel Palacio Gran Vía",
+      "city": "Granada",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 200,
+      "coordinates": {
+        "lat": 37.1771,
+        "lng": -3.5982
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 9.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/palacio-gran-via.html"
+      },
+      "best_for": [
+        "Luxury"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA007",
+      "name": "Hotel Villa Oniria",
+      "city": "Granada",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.1765,
+        "lng": -3.5995
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/villa-oniria.html"
+      },
+      "best_for": [
+        "Design"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA008",
+      "name": "Hotel Maciá Real",
+      "city": "Granada",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 37.1758,
+        "lng": -3.5912
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/macia-real-de-la-alhambra.html"
+      },
+      "best_for": [
+        "Alhambra"
+      ],
+      "neighborhood": "Realejo"
+    },
+    {
+      "id": "GRA009",
+      "name": "Hotel Saray",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 37.1752,
+        "lng": -3.6018
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/saray-granada.html"
+      },
+      "best_for": [
+        "Value"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA010",
+      "name": "Hotel Carmen",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 37.1773,
+        "lng": -3.5997
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/carmen-granada.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA011",
+      "name": "Hotel Dauro",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.1779,
+        "lng": -3.5991
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/dauro.html"
+      },
+      "best_for": [
+        "Mid-range"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA012",
+      "name": "Hotel Los Ángeles",
+      "city": "Granada",
+      "category": "Budget",
+      "star_rating": 2,
+      "avg_price_per_night_couple": 150,
+      "coordinates": {
+        "lat": 37.1788,
+        "lng": -3.6004
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 7.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/los-angeles-granada.html"
+      },
+      "best_for": [
+        "Backpackers"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA013",
+      "name": "Boutique Hotel Luna",
+      "city": "Granada",
+      "category": "Modern Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.1717,
+        "lng": -3.6006
+      },
+      "amenities": [
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/boutique-hotel-luna-granada.html"
+      },
+      "best_for": [
+        "Modern"
+      ],
+      "neighborhood": "Centro"
+    },
+    {
+      "id": "GRA014",
+      "name": "Hotel Anacapri",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 100,
+      "coordinates": {
+        "lat": 37.1751,
+        "lng": -3.6012
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/anacapri-granada.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA015",
+      "name": "Hotel Porcel Sabica",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 37.1742,
+        "lng": -3.5923
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.3,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/porcel-sabica.html"
+      },
+      "best_for": [
+        "Business"
+      ],
+      "neighborhood": "South"
+    },
+    {
+      "id": "GRA016",
+      "name": "Carmen Alcubilla",
+      "city": "Granada",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 185,
+      "coordinates": {
+        "lat": 37.1792,
+        "lng": -3.5931
+      },
+      "amenities": [
+        "Garden",
+        "Views",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 9.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/carmen-alcubilla-caracol.html"
+      },
+      "best_for": [
+        "Romantic"
+      ],
+      "neighborhood": "Albaicín"
+    },
+    {
+      "id": "GRA017",
+      "name": "Hotel Zentral Suites",
+      "city": "Granada",
+      "category": "Apartments",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 37.1763,
+        "lng": -3.5994
+      },
+      "amenities": [
+        "Kitchen",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.1,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/zentral-suites.html"
+      },
+      "best_for": [
+        "Self-catering"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA018",
+      "name": "Hotel Guadalupe",
+      "city": "Granada",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 37.1767,
+        "lng": -3.5889
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.3,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/guadalupe-granada.html"
+      },
+      "best_for": [
+        "Alhambra"
+      ],
+      "neighborhood": "Alhambra"
+    },
+    {
+      "id": "GRA019",
+      "name": "Abades Nevada Palace",
+      "city": "Granada",
+      "category": "Conference",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 37.1698,
+        "lng": -3.6123
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 7.9,
+      "guest_rating": 7.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/abades-nevada-palace.html"
+      },
+      "best_for": [
+        "Business"
+      ],
+      "neighborhood": "South"
+    },
+    {
+      "id": "GRA020",
+      "name": "NH Victoria",
+      "city": "Granada",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 37.1769,
+        "lng": -3.5987
+      },
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Gym"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/nh-collection-granada-victoria.html"
+      },
+      "best_for": [
+        "Reliable"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "GRA021",
+      "name": "AC Palacio Santa Paula",
+      "city": "Granada",
+      "category": "Historic Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 195,
+      "coordinates": {
+        "lat": 37.1779,
+        "lng": -3.5981
+      },
+      "amenities": [
+        "Historic",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ac-palacio-de-santa-paula.html"
+      },
+      "best_for": [
+        "Historic luxury"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR001",
+      "name": "Hospes Palacio Bailío",
+      "city": "Córdoba",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 205,
+      "coordinates": {
+        "lat": 37.8821,
+        "lng": -4.7734
+      },
+      "amenities": [
+        "Spa",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 9.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hospes-palacio-del-bailio.html"
+      },
+      "best_for": [
+        "Luxury",
+        "Spa"
+      ],
+      "neighborhood": "Historic Center"
+    },
+    {
+      "id": "COR002",
+      "name": "NH Amistad",
+      "city": "Córdoba",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 37.8794,
+        "lng": -4.7803
+      },
+      "amenities": [
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/nh-amistad-cordoba.html"
+      },
+      "best_for": [
+        "Central"
+      ],
+      "neighborhood": "Jewish Quarter"
+    },
+    {
+      "id": "COR003",
+      "name": "Hotel Maciá Alfaros",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 37.8812,
+        "lng": -4.7759
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/macia-alfaros.html"
+      },
+      "best_for": [
+        "Value"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR004",
+      "name": "Hotel Los Omeyas",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 37.8799,
+        "lng": -4.7791
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/los-omeyas.html"
+      },
+      "best_for": [
+        "Traditional"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR005",
+      "name": "Hotel Sercotel",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 37.8808,
+        "lng": -4.7742
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/cordoba-sercotel.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR006",
+      "name": "Hotel Tryp",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 37.8801,
+        "lng": -4.7768
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/tryp-cordoba.html"
+      },
+      "best_for": [
+        "Reliable"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR007",
+      "name": "Hotel Conquistador",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 37.8789,
+        "lng": -4.7795
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/conquistador-cordoba.html"
+      },
+      "best_for": [
+        "Mezquita"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR008",
+      "name": "Hotel Mezquita",
+      "city": "Córdoba",
+      "category": "Budget",
+      "star_rating": 2,
+      "avg_price_per_night_couple": 160,
+      "coordinates": {
+        "lat": 37.8788,
+        "lng": -4.7799
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 7.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/mezquita-cordoba.html"
+      },
+      "best_for": [
+        "Backpackers"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "COR009",
+      "name": "Eurostars Palace",
+      "city": "Córdoba",
+      "category": "Upscale",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 185,
+      "coordinates": {
+        "lat": 37.8898,
+        "lng": -4.7892
+      },
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.8,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/eurostars-palace-cordoba.html"
+      },
+      "best_for": [
+        "Luxury"
+      ],
+      "neighborhood": "Near Center"
+    },
+    {
+      "id": "COR010",
+      "name": "Hesperia Córdoba",
+      "city": "Córdoba",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 37.8845,
+        "lng": -4.7823
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.4,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hesperia-cordoba.html"
+      },
+      "best_for": [
+        "Reliable"
+      ],
+      "neighborhood": "Outskirts"
+    },
+    {
+      "id": "COR011",
+      "name": "Casas Judería",
+      "city": "Córdoba",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 37.8791,
+        "lng": -4.7798
+      },
+      "amenities": [
+        "Patios",
+        "WiFi",
+        "AC",
+        "Pool"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casas-juderia-cordoba.html"
+      },
+      "best_for": [
+        "Patios"
+      ],
+      "neighborhood": "Jewish Quarter"
+    },
+    {
+      "id": "COR012",
+      "name": "Hotel Viento10",
+      "city": "Córdoba",
+      "category": "Boutique",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 37.8784,
+        "lng": -4.7805
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.1,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/viento10.html"
+      },
+      "best_for": [
+        "Intimate"
+      ],
+      "neighborhood": "Historic"
+    },
+    {
+      "id": "MAL001",
+      "name": "Gran Hotel Miramar",
+      "city": "Málaga",
+      "category": "Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 340,
+      "coordinates": {
+        "lat": 36.7158,
+        "lng": -4.4042
+      },
+      "amenities": [
+        "Beachfront",
+        "Spa",
+        "Pool",
+        "Restaurants",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 9.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/gran-hotel-miramar.html"
+      },
+      "best_for": [
+        "Beach luxury"
+      ],
+      "neighborhood": "La Malagueta"
+    },
+    {
+      "id": "MAL002",
+      "name": "Only YOU Málaga",
+      "city": "Málaga",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 160,
+      "coordinates": {
+        "lat": 36.7207,
+        "lng": -4.4214
+      },
+      "amenities": [
+        "Rooftop Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/only-you-hotel-malaga.html"
+      },
+      "best_for": [
+        "Modern"
+      ],
+      "neighborhood": "Historic Center"
+    },
+    {
+      "id": "MAL003",
+      "name": "Vincci Málaga",
+      "city": "Málaga",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 150,
+      "coordinates": {
+        "lat": 36.7198,
+        "lng": -4.4221
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/vincci-malaga.html"
+      },
+      "best_for": [
+        "City"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL004",
+      "name": "Room Mate Larios",
+      "city": "Málaga",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 180,
+      "coordinates": {
+        "lat": 36.7211,
+        "lng": -4.4205
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/room-mate-larios.html"
+      },
+      "best_for": [
+        "Shopping"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL005",
+      "name": "Hotel Molina Lario",
+      "city": "Málaga",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 200,
+      "coordinates": {
+        "lat": 36.7204,
+        "lng": -4.4198
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/molina-lario.html"
+      },
+      "best_for": [
+        "Central"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL006",
+      "name": "AC Palacio",
+      "city": "Málaga",
+      "category": "Upscale",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 170,
+      "coordinates": {
+        "lat": 36.7192,
+        "lng": -4.4187
+      },
+      "amenities": [
+        "WiFi",
+        "AC",
+        "Gym"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ac-malaga-palacio.html"
+      },
+      "best_for": [
+        "Business"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL007",
+      "name": "Parador Gibralfaro",
+      "city": "Málaga",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 155,
+      "coordinates": {
+        "lat": 36.7234,
+        "lng": -4.4089
+      },
+      "amenities": [
+        "Views",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-malaga-gibralfaro.html"
+      },
+      "best_for": [
+        "Views"
+      ],
+      "neighborhood": "Gibralfaro"
+    },
+    {
+      "id": "MAL008",
+      "name": "MS Maestranza",
+      "city": "Málaga",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 36.7187,
+        "lng": -4.4176
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.8,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ms-maestranza.html"
+      },
+      "best_for": [
+        "Modern"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL009",
+      "name": "Soho Boutique Opera",
+      "city": "Málaga",
+      "category": "Boutique",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 36.7213,
+        "lng": -4.4223
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/soho-boutique-opera.html"
+      },
+      "best_for": [
+        "Budget design"
+      ],
+      "neighborhood": "Soho"
+    },
+    {
+      "id": "MAL010",
+      "name": "Málaga Premium",
+      "city": "Málaga",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 36.7196,
+        "lng": -4.4203
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/malaga-premium.html"
+      },
+      "best_for": [
+        "City"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL011",
+      "name": "Salles Málaga Centro",
+      "city": "Málaga",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 36.7178,
+        "lng": -4.4189
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/salles-malaga-centro.html"
+      },
+      "best_for": [
+        "City"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAL012",
+      "name": "NH Málaga",
+      "city": "Málaga",
+      "category": "Chain",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 36.7189,
+        "lng": -4.4201
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/nh-malaga.html"
+      },
+      "best_for": [
+        "Business"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "RON001",
+      "name": "Parador de Ronda",
+      "city": "Ronda",
+      "category": "Historic Luxury",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 165,
+      "coordinates": {
+        "lat": 36.7441,
+        "lng": -5.1633
+      },
+      "amenities": [
+        "Views",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-ronda.html"
+      },
+      "best_for": [
+        "Views"
+      ],
+      "neighborhood": "Cliff"
+    },
+    {
+      "id": "RON002",
+      "name": "Hotel Ronda",
+      "city": "Ronda",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 36.7425,
+        "lng": -5.1656
+      },
+      "amenities": [
+        "Bridge Views",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 10,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hotel-ronda.html"
+      },
+      "best_for": [
+        "Bridge views"
+      ],
+      "neighborhood": "Old Town"
+    },
+    {
+      "id": "RON003",
+      "name": "Hotel Alavera",
+      "city": "Ronda",
+      "category": "Boutique",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 36.7398,
+        "lng": -5.1681
+      },
+      "amenities": [
+        "Pool",
+        "Garden",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/alavera-de-los-banos.html"
+      },
+      "best_for": [
+        "Peaceful"
+      ],
+      "neighborhood": "Near Arab Baths"
+    },
+    {
+      "id": "RON004",
+      "name": "Hotel Don Miguel",
+      "city": "Ronda",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 36.7423,
+        "lng": -5.1658
+      },
+      "amenities": [
+        "Bridge Views",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.8,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/don-miguel-ronda.html"
+      },
+      "best_for": [
+        "Bridge"
+      ],
+      "neighborhood": "Old Town"
+    },
+    {
+      "id": "RON005",
+      "name": "Hotel Maestranza",
+      "city": "Ronda",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 36.7418,
+        "lng": -5.1641
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 7.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/maestranza-ronda.html"
+      },
+      "best_for": [
+        "Budget"
+      ],
+      "neighborhood": "Old Town"
+    },
+    {
+      "id": "CAD001",
+      "name": "BYPILLOW La Sal",
+      "city": "Cádiz",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 36.5286,
+        "lng": -6.2934
+      },
+      "amenities": [
+        "Near Beach",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/bypillow-la-sal.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Historic"
+    },
+    {
+      "id": "CAD002",
+      "name": "Hotel Patagonia Sur",
+      "city": "Cádiz",
+      "category": "Boutique",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 36.5298,
+        "lng": -6.2945
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/patagonia-sur.html"
+      },
+      "best_for": [
+        "Old town"
+      ],
+      "neighborhood": "Old Town"
+    },
+    {
+      "id": "CAD003",
+      "name": "Monte Puertatierra",
+      "city": "Cádiz",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 36.5312,
+        "lng": -6.2867
+      },
+      "amenities": [
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/monte-puertatierra.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Puertatierra"
+    },
+    {
+      "id": "CAD004",
+      "name": "Parador de Cádiz",
+      "city": "Cádiz",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 155,
+      "coordinates": {
+        "lat": 36.5321,
+        "lng": -6.2891
+      },
+      "amenities": [
+        "Sea Views",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-cadiz.html"
+      },
+      "best_for": [
+        "Sea views"
+      ],
+      "neighborhood": "Seafront"
+    },
+    {
+      "id": "MAR001",
+      "name": "Marbella Club",
+      "city": "Marbella",
+      "category": "Luxury Beach",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 380,
+      "coordinates": {
+        "lat": 36.4975,
+        "lng": -4.9344
+      },
+      "amenities": [
+        "Beachfront",
+        "Pools",
+        "Spa",
+        "Restaurants",
+        "Golf",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.3,
+      "guest_rating": 9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/marbella-club.html"
+      },
+      "best_for": [
+        "Luxury beach"
+      ],
+      "neighborhood": "Golden Mile"
+    },
+    {
+      "id": "MAR002",
+      "name": "Puente Romano",
+      "city": "Marbella",
+      "category": "Luxury Beach",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 420,
+      "coordinates": {
+        "lat": 36.4941,
+        "lng": -4.9398
+      },
+      "amenities": [
+        "Beachfront",
+        "Tennis",
+        "Spa",
+        "Restaurants",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/puente-romano.html"
+      },
+      "best_for": [
+        "Tennis"
+      ],
+      "neighborhood": "Golden Mile"
+    },
+    {
+      "id": "MAR003",
+      "name": "Fuerte Marbella",
+      "city": "Marbella",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 190,
+      "coordinates": {
+        "lat": 36.5098,
+        "lng": -4.8821
+      },
+      "amenities": [
+        "Beachfront",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.8,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/fuerte-marbella.html"
+      },
+      "best_for": [
+        "Families"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAR004",
+      "name": "Hotel Claude",
+      "city": "Marbella",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 195,
+      "coordinates": {
+        "lat": 36.5112,
+        "lng": -4.8856
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.6,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/claude-marbella.html"
+      },
+      "best_for": [
+        "Art lovers"
+      ],
+      "neighborhood": "Old Town"
+    },
+    {
+      "id": "MAR005",
+      "name": "NH Marbella",
+      "city": "Marbella",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 36.5098,
+        "lng": -4.8912
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/nh-marbella.html"
+      },
+      "best_for": [
+        "Reliable"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "MAR006",
+      "name": "Amàre Beach",
+      "city": "Marbella",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 220,
+      "coordinates": {
+        "lat": 36.5001,
+        "lng": -4.9212
+      },
+      "amenities": [
+        "Beachfront",
+        "Pools",
+        "Spa",
+        "Restaurants",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/amare-beach-marbella.html"
+      },
+      "best_for": [
+        "Adults only"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "NER001",
+      "name": "Parador de Nerja",
+      "city": "Nerja",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 36.7489,
+        "lng": -3.8777
+      },
+      "amenities": [
+        "Sea Views",
+        "Pool",
+        "Beach",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.1,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-nerja.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Cliffs"
+    },
+    {
+      "id": "NER002",
+      "name": "Hotel Balcón Europa",
+      "city": "Nerja",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 36.7502,
+        "lng": -3.8758
+      },
+      "amenities": [
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.5,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/balcon-de-europa.html"
+      },
+      "best_for": [
+        "Central"
+      ],
+      "neighborhood": "Balcón"
+    },
+    {
+      "id": "NER003",
+      "name": "Hotel Carabeo",
+      "city": "Nerja",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 36.7494,
+        "lng": -3.8765
+      },
+      "amenities": [
+        "Sea Views",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/carabeo.html"
+      },
+      "best_for": [
+        "Sea views"
+      ],
+      "neighborhood": "Cliff"
+    },
+    {
+      "id": "NER004",
+      "name": "Plaza Cavana",
+      "city": "Nerja",
+      "category": "Mid-Range",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 36.7511,
+        "lng": -3.8751
+      },
+      "amenities": [
+        "Rooftop Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/plaza-cavana.html"
+      },
+      "best_for": [
+        "Central"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "TAR001",
+      "name": "Hotel Dos Mares",
+      "city": "Tarifa",
+      "category": "Beach",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 36.0134,
+        "lng": -5.6065
+      },
+      "amenities": [
+        "Beachfront",
+        "Water Sports",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.8,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/dos-mares-tarifa.html"
+      },
+      "best_for": [
+        "Windsurfing"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "TAR002",
+      "name": "Hotel Hurricane",
+      "city": "Tarifa",
+      "category": "Beach",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 36.0089,
+        "lng": -5.6123
+      },
+      "amenities": [
+        "Beachfront",
+        "Pool",
+        "Bar",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/hurricane-tarifa.html"
+      },
+      "best_for": [
+        "Surf"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "EST001",
+      "name": "Kempinski Bahía",
+      "city": "Estepona",
+      "category": "Luxury Beach",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 320,
+      "coordinates": {
+        "lat": 36.4281,
+        "lng": -5.1448
+      },
+      "amenities": [
+        "Beachfront",
+        "Pools",
+        "Spa",
+        "Kids Club",
+        "Restaurants",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9,
+      "guest_rating": 8.9,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/kempinski-hotel-bahia.html"
+      },
+      "best_for": [
+        "Families",
+        "Beach"
+      ],
+      "neighborhood": "Beachfront"
+    },
+    {
+      "id": "EST002",
+      "name": "Fuerte Estepona",
+      "city": "Estepona",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 175,
+      "coordinates": {
+        "lat": 36.4267,
+        "lng": -5.1489
+      },
+      "amenities": [
+        "Beach",
+        "Pools",
+        "Kids Club",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/fuerte-estepona.html"
+      },
+      "best_for": [
+        "Families"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "CAS001",
+      "name": "Finca Cortesin",
+      "city": "Casares",
+      "category": "Ultra Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 450,
+      "coordinates": {
+        "lat": 36.4512,
+        "lng": -5.2789
+      },
+      "amenities": [
+        "Golf",
+        "Spa",
+        "Pools",
+        "Beach Club",
+        "Restaurants",
+        "Tennis",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 9.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/finca-cortesin.html"
+      },
+      "best_for": [
+        "Golf",
+        "Ultra luxury"
+      ],
+      "neighborhood": "Countryside"
+    },
+    {
+      "id": "ALM001",
+      "name": "Helios Costa Tropical",
+      "city": "Almuñécar",
+      "category": "Budget Beach",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 75,
+      "coordinates": {
+        "lat": 36.7333,
+        "lng": -3.6833
+      },
+      "amenities": [
+        "Beach",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/helios-costa-tropical.html"
+      },
+      "best_for": [
+        "Budget beach"
+      ],
+      "neighborhood": "Costa Tropical"
+    },
+    {
+      "id": "ALM002",
+      "name": "Hotel Casablanca",
+      "city": "Almuñécar",
+      "category": "Mid-Range",
+      "star_rating": 3,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 36.7345,
+        "lng": -3.6845
+      },
+      "amenities": [
+        "Beach",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/casablanca-almunecar.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "JER001",
+      "name": "Bodega Tio Pepe",
+      "city": "Jerez",
+      "category": "Boutique",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 36.6849,
+        "lng": -6.1367
+      },
+      "amenities": [
+        "Wine Tours",
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 8.9,
+      "guest_rating": 8.7,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/bodega-tio-pepe.html"
+      },
+      "best_for": [
+        "Wine"
+      ],
+      "neighborhood": "Center"
+    },
+    {
+      "id": "JER002",
+      "name": "Palacio Garvey",
+      "city": "Jerez",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 36.6867,
+        "lng": -6.1389
+      },
+      "amenities": [
+        "Historic",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 9.1,
+      "guest_rating": 8.8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/palacio-garvey.html"
+      },
+      "best_for": [
+        "Historic"
+      ],
+      "neighborhood": "Historic"
+    },
+    {
+      "id": "UBE001",
+      "name": "Convento Aracena",
+      "city": "Aracena",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 115,
+      "coordinates": {
+        "lat": 37.8892,
+        "lng": -6.5567
+      },
+      "amenities": [
+        "Historic",
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8.5,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/convento-aracena.html"
+      },
+      "best_for": [
+        "Mountain"
+      ],
+      "neighborhood": "Sierra"
+    },
+    {
+      "id": "CAZ001",
+      "name": "Parador Cazorla",
+      "city": "Cazorla",
+      "category": "Mountain",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 135,
+      "coordinates": {
+        "lat": 37.8923,
+        "lng": -2.9456
+      },
+      "amenities": [
+        "Mountain Views",
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.8,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-cazorla.html"
+      },
+      "best_for": [
+        "Nature"
+      ],
+      "neighborhood": "Natural Park"
+    },
+    {
+      "id": "ANT001",
+      "name": "Parador Antequera",
+      "city": "Antequera",
+      "category": "Historic",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 105,
+      "coordinates": {
+        "lat": 37.0189,
+        "lng": -4.5589
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-antequera.html"
+      },
+      "best_for": [
+        "Stopover"
+      ],
+      "neighborhood": "Antequera"
+    },
+    {
+      "id": "MOJ001",
+      "name": "Parador Mojácar",
+      "city": "Mojácar",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 37.1234,
+        "lng": -1.8523
+      },
+      "amenities": [
+        "Beachfront",
+        "Pool",
+        "WiFi",
+        "AC",
+        "Restaurant"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-mojacar.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Mojácar Beach"
+    },
+    {
+      "id": "AYA001",
+      "name": "Parador Ayamonte",
+      "city": "Ayamonte",
+      "category": "Modern",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 95,
+      "coordinates": {
+        "lat": 37.2098,
+        "lng": -7.4012
+      },
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.2,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-ayamonte.html"
+      },
+      "best_for": [
+        "Border"
+      ],
+      "neighborhood": "Ayamonte"
+    },
+    {
+      "id": "SAN001",
+      "name": "Guadalmina Spa Golf",
+      "city": "San Pedro",
+      "category": "Golf Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 185,
+      "coordinates": {
+        "lat": 36.4823,
+        "lng": -5.0234
+      },
+      "amenities": [
+        "Golf",
+        "Spa",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.4,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/guadalmina-spa-golf.html"
+      },
+      "best_for": [
+        "Golf"
+      ],
+      "neighborhood": "Guadalmina"
+    },
+    {
+      "id": "TOR001",
+      "name": "MS Amaragua",
+      "city": "Torremolinos",
+      "category": "Beach",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 110,
+      "coordinates": {
+        "lat": 36.6234,
+        "lng": -4.5012
+      },
+      "amenities": [
+        "Beachfront",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ms-amaragua.html"
+      },
+      "best_for": [
+        "Family beach"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "BEN001",
+      "name": "Sunset Beach Club",
+      "city": "Benalmádena",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 165,
+      "coordinates": {
+        "lat": 36.5923,
+        "lng": -4.5423
+      },
+      "amenities": [
+        "All-Inclusive",
+        "Beach",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/sunset-beach-club.html"
+      },
+      "best_for": [
+        "All-inclusive"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "FUE001",
+      "name": "Fuengirola Park",
+      "city": "Fuengirola",
+      "category": "Beach",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 125,
+      "coordinates": {
+        "lat": 36.5401,
+        "lng": -4.6234
+      },
+      "amenities": [
+        "Beach",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.7,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/fuengirola-park.html"
+      },
+      "best_for": [
+        "Family"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "MIJ001",
+      "name": "La Cala Resort",
+      "city": "Mijas",
+      "category": "Golf Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 175,
+      "coordinates": {
+        "lat": 36.5712,
+        "lng": -4.6789
+      },
+      "amenities": [
+        "Golf",
+        "Spa",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.3,
+      "guest_rating": 8.4,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/la-cala-resort.html"
+      },
+      "best_for": [
+        "Golf"
+      ],
+      "neighborhood": "Mountains"
+    },
+    {
+      "id": "OSU001",
+      "name": "Elba Costa Ballena",
+      "city": "Rota",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 145,
+      "coordinates": {
+        "lat": 36.6234,
+        "lng": -6.3567
+      },
+      "amenities": [
+        "Beach",
+        "Pools",
+        "Kids Club",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.4,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/elba-costa-ballena.html"
+      },
+      "best_for": [
+        "Family"
+      ],
+      "neighborhood": "Costa Ballena"
+    },
+    {
+      "id": "CHI001",
+      "name": "Fuerte Conil",
+      "city": "Conil",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 155,
+      "coordinates": {
+        "lat": 36.2789,
+        "lng": -6.0912
+      },
+      "amenities": [
+        "Beach",
+        "Pools",
+        "Spa",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.6,
+      "guest_rating": 8.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/fuerte-conil.html"
+      },
+      "best_for": [
+        "Beach"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "SAL001",
+      "name": "Playa Senator",
+      "city": "Roquetas",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 130,
+      "coordinates": {
+        "lat": 36.7612,
+        "lng": -2.6234
+      },
+      "amenities": [
+        "All-Inclusive",
+        "Beach",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.4,
+      "guest_rating": 8.1,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/playa-senator.html"
+      },
+      "best_for": [
+        "All-inclusive"
+      ],
+      "neighborhood": "Beach"
+    },
+    {
+      "id": "CAR001",
+      "name": "AR Almerimar",
+      "city": "El Ejido",
+      "category": "Golf Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 140,
+      "coordinates": {
+        "lat": 36.7123,
+        "lng": -2.7945
+      },
+      "amenities": [
+        "Golf",
+        "Beach",
+        "Pools",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.2,
+      "guest_rating": 8,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/ar-almerimar.html"
+      },
+      "best_for": [
+        "Golf beach"
+      ],
+      "neighborhood": "Almerimar"
+    },
+    {
+      "id": "HUE001",
+      "name": "Parador Mazagón",
+      "city": "Mazagón",
+      "category": "Beach Resort",
+      "star_rating": 4,
+      "avg_price_per_night_couple": 120,
+      "coordinates": {
+        "lat": 37.1234,
+        "lng": -6.8456
+      },
+      "amenities": [
+        "Beach",
+        "Pool",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.5,
+      "guest_rating": 8.2,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/parador-de-mazagon.html"
+      },
+      "best_for": [
+        "Nature beach"
+      ],
+      "neighborhood": "Doñana"
+    },
+    {
+      "id": "SAN002",
+      "name": "Villa Padierna Palace",
+      "city": "Benahavís",
+      "category": "Ultra Luxury",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 550,
+      "coordinates": {
+        "lat": 36.4989,
+        "lng": -5.0567
+      },
+      "amenities": [
+        "Golf",
+        "Spa",
+        "Pools",
+        "Fine Dining",
+        "WiFi",
+        "AC"
+      ],
+      "location_score": 8.3,
+      "guest_rating": 9.3,
+      "booking_links": {
+        "booking_com": "https://www.booking.com/hotel/es/villa-padierna-palace.html"
+      },
+      "best_for": [
+        "Ultimate luxury"
+      ],
+      "neighborhood": "Mountains"
+    },
+    {
+      "id": "COS146",
+      "name": "Ikos Andalusia",
+      "city": "Estepona",
+      "category": "Ultra Luxury All-Inclusive",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 550,
+      "coordinates": {
+        "lat": 36.43,
+        "lng": -5.02
+      },
+      "amenities": [
+        "Ultra All-Inclusive",
+        "9 Pools",
+        "Spa (Anne Semonin)",
+        "9 Restaurants & 9 Bars",
+        "Kids' Club",
+        "Gym",
+        "Beachfront",
+        "Tennis",
+        "Padel",
+        "WiFi"
+      ],
+      "location_score": 9.3,
+      "guest_rating": 9.2,
+      "booking_links": {
+        "tui": "TBD",
+        "jet2holidays": "TBD"
+      },
+      "best_for": [
+        "Luxury Families",
+        "All-Inclusive",
+        "Beach Resort"
+      ],
+      "neighborhood": "Guadalmansa/Marbella-Estepona"
+    },
+    {
+      "id": "COS147",
+      "name": "Kimpton Los Monteros Marbella",
+      "city": "Marbella",
+      "category": "Luxury Boutique/Lifestyle",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 450,
+      "coordinates": {
+        "lat": 36.503,
+        "lng": -4.809
+      },
+      "amenities": [
+        "La Cabane D&G Beach Club",
+        "Rooftop Pool",
+        "Racquet Club (Tennis/Padel)",
+        "Spa (Codage Paris)",
+        "Indoor Pool",
+        "Gym",
+        "Pet Friendly",
+        "Restaurant",
+        "Yoga",
+        "WiFi"
+      ],
+      "location_score": 9.2,
+      "guest_rating": 9.4,
+      "booking_links": {
+        "official": "TBD",
+        "booking_com": "TBD"
+      },
+      "best_for": [
+        "Lifestyle",
+        "Padel/Tennis",
+        "Exclusive Beach Club"
+      ],
+      "neighborhood": "Los Monteros"
+    },
+    {
+      "id": "CAD001",
+      "name": "Fairmont La Hacienda Costa del Sol",
+      "city": "San Roque",
+      "category": "Luxury Golf & Beach Resort",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 500,
+      "coordinates": {
+        "lat": 36.216,
+        "lng": -5.253
+      },
+      "amenities": [
+        "Private Beach",
+        "On-site Golf Course (Links)",
+        "Spa (Hydrotherapy)",
+        "4 Restaurants",
+        "3 Outdoor Pools",
+        "Indoor Pool",
+        "Gym",
+        "Kids' Club",
+        "AC",
+        "WiFi"
+      ],
+      "location_score": 9.0,
+      "guest_rating": 9.8,
+      "booking_links": {
+        "fairmont": "TBD",
+        "expedia": "TBD"
+      },
+      "best_for": [
+        "Golfers",
+        "Relaxation",
+        "Exclusive Retreat"
+      ],
+      "neighborhood": "Alcaidesa/San Roque"
+    },
+    {
+      "id": "COS148",
+      "name": "Gran Marbella Resort & Beach Club",
+      "city": "Marbella",
+      "category": "Luxury Beach Club",
+      "star_rating": 5,
+      "avg_price_per_night_couple": 480,
+      "coordinates": {
+        "lat": 36.467,
+        "lng": -4.755
+      },
+      "amenities": [
+        "Amù Beach Club",
+        "Champneys Spa",
+        "4 Outdoor Pools",
+        "Restaurant",
+        "24h Gym",
+        "Beachfront",
+        "AC",
+        "WiFi"
+      ],
+      "location_score": 9.4,
+      "guest_rating": 9.5,
+      "booking_links": {
+        "official": "TBD",
+        "idealista": "TBD"
+      },
+      "best_for": [
+        "Beach Club",
+        "Wellness",
+        "Slow Luxury"
+      ],
+      "neighborhood": "Real de Zaragoza"
+    }
+  ]
+}

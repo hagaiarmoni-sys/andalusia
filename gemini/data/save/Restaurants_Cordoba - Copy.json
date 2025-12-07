@@ -1,0 +1,720 @@
+[
+  {
+    "name": "Bodegas Mezquita Cruz Del Rastro",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": "Bodegas Mezquita, 2, Plaza Cruz del Rastro, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8799524,
+    "lon": -4.7755551
+  },
+  {
+    "name": "Sibuya Urban Sushi Bar Córdoba",
+    "topic": "Japanese, Sushi",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": "Sibuya Urban Sushi Bar, 37, Avenida del Gran Capitán, Campo de la Merced - Molinos Alta, Santiago, Córdoba, Andalucía, 14008, España",
+    "lat": 37.8900469,
+    "lon": -4.7831145
+  },
+  {
+    "name": "Bodegas Mezquita Corregidor",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Bambú",
+    "topic": "Japanese, Sushi",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": "Bambu, Carril bici Av. Aeropuerto, Ciudad Jardín, Distrito Poniente Sur, Córdoba, Andalucía, 14004, España",
+    "lat": 37.8793055,
+    "lon": -4.7883127
+  },
+  {
+    "name": "Bodegas Mezquita Céspedes",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": "Bodegas Mezquita, 12, Calle Céspedes, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8799836,
+    "lon": -4.7800481
+  },
+  {
+    "name": "Taberna La Viuda",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Taberna La Viuda, 52, Calle San Basilio, Vista Alegre, San Basilio, Santiago, Córdoba, Andalucía, 14004, España",
+    "lat": 37.8754894,
+    "lon": -4.7852337
+  },
+  {
+    "name": "Restaurante Damasco",
+    "topic": "Lebanese, Mediterranean",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Cielito Lindo Café",
+    "topic": "Mexican, Healthy",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Cielito Lindo Café, 5, Calle Ronda de La Manca, Barrio Fuensanta, Santiago, Córdoba, Andalucía, 14010, España",
+    "lat": 37.8867962,
+    "lon": -4.765226
+  },
+  {
+    "name": "Taberna Casa Pedro Ximénez",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Onakasita",
+    "topic": "Japanese, Sushi",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Onakasita, Calle José María Martorell, Vista Alegre, Poniente, Distrito Poniente Sur, Córdoba, Andalucía, 14005, España",
+    "lat": 37.8802488,
+    "lon": -4.7983376
+  },
+  {
+    "name": "El Envero",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": "El Envero, 21, Calle Teruel, Camping, Distrito Norte Sierra, Córdoba, Andalucía, 14011, España",
+    "lat": 37.8984659,
+    "lon": -4.7885567
+  },
+  {
+    "name": "Bodegas Mezquita Ribera",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Puerta Sevilla",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Taberna Restaurante Puerta Sevilla, 51, Calle Postrera, Vista Alegre, San Basilio, Santiago, Córdoba, Andalucía, 14004, España",
+    "lat": 37.8752566,
+    "lon": -4.7857865
+  },
+  {
+    "name": "Bocaito Andalusi Halal",
+    "topic": "Moroccan, Middle Eastern",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Paseo Iberico",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Paseo Ibérico, Calle Lucano, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8801305,
+    "lon": -4.7753911
+  },
+  {
+    "name": "Pasillo Oriental",
+    "topic": "Mediterranean, Middle Eastern",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": "Pasillo Oriental, Calle Velázquez Bosco, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.880514,
+    "lon": -4.7799444
+  },
+  {
+    "name": "ReComiendo",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "ReComiendo, 5, Calle Alcalá Zamora, Urbanización Las Brisas, Valdeolleros, Distrito Norte Sierra, Córdoba, Andalucía, 14006, España",
+    "lat": 37.9083408,
+    "lon": -4.7762494
+  },
+  {
+    "name": "Taberna La Cuarta",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": "Taberna La Cuarta, Calle Capitulares, San Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8849588,
+    "lon": -4.7758335
+  },
+  {
+    "name": "Regadera",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": "La Regadera, 10, Ronda de Isasa, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8786045,
+    "lon": -4.7774464
+  },
+  {
+    "name": "The Club",
+    "topic": "American, Bar",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "The Club, Calle de Luis Braille, Fray Albino, Distrito Sur, Córdoba, Andalucía, 14009, España",
+    "lat": 37.8732795,
+    "lon": -4.7785069
+  },
+  {
+    "name": "LaMundi",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Lamundi, Avenida del Gran Capitán, Campo de la Merced - Molinos Alta, Santiago, Córdoba, Andalucía, 14008, España",
+    "lat": 37.8899228,
+    "lon": -4.7831
+  },
+  {
+    "name": "Restaurante",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": "Aparcamiento del Restaurante Cuevas Romanas, Calle Las Cuevas, Peñatejada, Córdoba, Andalucía, 14005, España",
+    "lat": 37.9216985,
+    "lon": -4.7522086
+  },
+  {
+    "name": "Taberna El Abanico Ribera",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "La Perla Azul Cafetería - Tetería - Restaurante",
+    "topic": "Moroccan, Cafe",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Vaquena Burger",
+    "topic": "American",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Vaquena Burger, Calle de la Virgen del Perpetuo Socorro, Ciudad Jardín, Distrito Poniente Sur, Córdoba, Andalucía, 14004, España",
+    "lat": 37.8813267,
+    "lon": -4.7877647
+  },
+  {
+    "name": "Tu Pescaíto",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Tu Pescaito, Plaza de la Corredera, San Pedro, Plaza de la Corredera, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8835109,
+    "lon": -4.7751387
+  },
+  {
+    "name": "Restaurante Ermita de La Candelaria",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Ermita de la Calendaria, 2, Calle Candelaria, San Pedro, Cerro de la Golondrina - Salesianos, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8821932,
+    "lon": -4.773855
+  },
+  {
+    "name": "Restaurante Sant'angelo",
+    "topic": "Italian, Pizza",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Umaueyon",
+    "topic": "Lebanese, Moroccan",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna El Abanico",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Taberna El Abanico, Calle Velázquez Bosco, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8803042,
+    "lon": -4.7797281
+  },
+  {
+    "name": "Noor Restaurant",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Noor, Calle de Pablo Ruiz Picasso, Fidiana, Distrito Sureste, Córdoba, Andalucía, 14007, España",
+    "lat": 37.8897912,
+    "lon": -4.7584891
+  },
+  {
+    "name": "Restaurante El Rincon de Carmen",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Restaurante El Rincón de Carmen, 4, Calle Romero, Vista Alegre, La Trinidad, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8798994,
+    "lon": -4.7814016
+  },
+  {
+    "name": "Patio Romano",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Patio Romano, 11, Calle de los Deanes, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8797611,
+    "lon": -4.7811036
+  },
+  {
+    "name": "La Posada Del Caballo Andaluz",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna San Cristobal",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "La Taberna de Almodovar",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "La Taberna de Almodóvar, Calle Benito Pérez Galdós, Campo de la Merced - Molinos Alta, Santiago, Córdoba, Andalucía, 14008, España",
+    "lat": 37.8898768,
+    "lon": -4.7823501
+  },
+  {
+    "name": "Amaltea",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Amaltea, 10, Ronda de Isasa, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8787122,
+    "lon": -4.777275
+  },
+  {
+    "name": "Con Acento Parrilla Resto Bar",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.6,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna Los Berengueles",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Taberna los Berengueles, Calle del Conde Torres Cabrera, San Miguel - Capuchinos, Santiago, Córdoba, Andalucía, 14001, España",
+    "lat": 37.8864666,
+    "lon": -4.778852
+  },
+  {
+    "name": "Restaurante Qurtubah",
+    "topic": "Moroccan, Mediterranean",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Casa Qurtubah, 8, Calle Céspedes, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8802657,
+    "lon": -4.7801941
+  },
+  {
+    "name": "Patio De La Judería",
+    "topic": "Mediterranean, European",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "Patio de la Judería, 6, Calle Conde y Luque, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8806581,
+    "lon": -4.7806368
+  },
+  {
+    "name": "Terra Olea",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Choco Restaurant",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Choco, 14, Calle del Compositor Serrano Lucena, Barrio Fuensanta, Distrito Sureste, Córdoba, Andalucía, 14010, España",
+    "lat": 37.8851847,
+    "lon": -4.7623794
+  },
+  {
+    "name": "Taberna El Abanico Patio",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Montevideo Steak House",
+    "topic": "Steakhouse",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna Gongora",
+    "topic": "Spanish",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Taberna Góngora, 4, Calle del Conde Torres Cabrera, San Miguel - Capuchinos, Santiago, Córdoba, Andalucía, 14001, España",
+    "lat": 37.8863576,
+    "lon": -4.7787781
+  },
+  {
+    "name": "Taberna Salinas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Taberna Salinas, Calle Tundidores, San Pedro, San Andrés - San Pablo, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8841275,
+    "lon": -4.7757482
+  },
+  {
+    "name": "Taberna La Montillana",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Taberna La Montillana, 5, Calle San Álvaro, Centro Comercial, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8857332,
+    "lon": -4.779818
+  },
+  {
+    "name": "La Tinaja",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "La Tinaja, 12, Paseo Ribera, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8806164,
+    "lon": -4.7737297
+  },
+  {
+    "name": "Restaurante Sociedad Plateros Maria Auxiliadora‎",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Sociedad de Plateros María Auxiliadora, Calle María Auxiliadora, San Lorenzo, Santiago, Córdoba, Andalucía, 14007, España",
+    "lat": 37.88958,
+    "lon": -4.7669608
+  },
+  {
+    "name": "Casa Rubio",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Casa Rubio, 5, Calle Puerta de Almodóvar, Vista Alegre, La Trinidad, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8807125,
+    "lon": -4.7838236
+  },
+  {
+    "name": "Doble de Cepa",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Calle de Doble de Cepa, Fray Albino, Distrito Sur, Córdoba, Andalucía, 14009, España",
+    "lat": 37.8699234,
+    "lon": -4.7733672
+  },
+  {
+    "name": "Restaurante Almudaina",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "Restaurante Almudaina, 1, Calle Tomás Conde, Huerta del Rey - Vallellano, Santiago, Córdoba, Andalucía, 14004, España",
+    "lat": 37.8780589,
+    "lon": -4.7819062
+  },
+  {
+    "name": "La Fragua",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "La Fragua, Calleja del Salmorejo Cordobés, San Pedro, Huerta del Rey - Vallellano, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8782884,
+    "lon": -4.7816637
+  },
+  {
+    "name": "El Choto Restaurante",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Restaurante El Choto, Calle Almanzor, Vista Alegre, La Trinidad, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8805072,
+    "lon": -4.7827051
+  },
+  {
+    "name": "Casa Pepe De La Juderia",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Casa Pepe de la Judería, Calle Romero, Vista Alegre, La Trinidad, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8798604,
+    "lon": -4.7815207
+  },
+  {
+    "name": "Mesón San Basilio",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Mesón San Basilio, Calle San Basilio, Vista Alegre, San Basilio, Santiago, Córdoba, Andalucía, 14004, España",
+    "lat": 37.876517,
+    "lon": -4.783808
+  },
+  {
+    "name": "La Tranquera Restaurante",
+    "topic": "Steakhouse, Latin",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "La Tranquera, Plaza de la Alhóndiga, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8791555,
+    "lon": -4.7774307
+  },
+  {
+    "name": "Casa Mazal - Restaurante Sefardí",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Restaurante El Churrasco",
+    "topic": "Spanish",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "El Churrasco, Calle Romero, Vista Alegre, La Trinidad, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8800938,
+    "lon": -4.7819054
+  },
+  {
+    "name": "La Furgo",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "La Furgo, 7, Ronda de Isasa, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8790506,
+    "lon": -4.7766788
+  },
+  {
+    "name": "La Cuchara de San Lorenzo",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "La Cuchara, Calle Arroyo de San Lorenzo, San Pedro, San Lorenzo, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8878352,
+    "lon": -4.7693287
+  },
+  {
+    "name": "Restaurante La Boca",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "La Boca, 39, Calle San Fernando, San Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8822998,
+    "lon": -4.7763714
+  },
+  {
+    "name": "El Patio Andaluz",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Taberna El Patio Andaluz, Calle Velázquez Bosco, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8805747,
+    "lon": -4.7799872
+  },
+  {
+    "name": "La Siesta",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "La Siesta, Calle Enrique Romero de Torres, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8805336,
+    "lon": -4.7745609
+  },
+  {
+    "name": "Massamore",
+    "topic": "Italian, Pizza",
+    "rating": 5.0,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna Rincon De Las Beatillas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Panzamorena",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": "Panzamorena, Calle Rodríguez Marín, San Pedro, San Andrés - San Pablo, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8844671,
+    "lon": -4.775558
+  },
+  {
+    "name": "Taberna Casa Pepe Salinas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna El Capricho",
+    "topic": "Mediterranean, European",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "Taberna El Capricho, Calle Velázquez Bosco, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.880483,
+    "lon": -4.7799174
+  },
+  {
+    "name": "La Taberna del Río",
+    "topic": "Mediterranean, European",
+    "rating": 4.2,
+    "city": "Córdoba",
+    "address": "La Muralla, Calle Virgen del Rosario, Palma del Río, Córdoba, Andalucía, 14700, España",
+    "lat": 37.7019425,
+    "lon": -5.2840529
+  },
+  {
+    "name": "Taberna La Alqueria",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": "Taberna La Alquería, Calle Enrique Romero de Torres, San Pedro, Campo de la Verdad - Miraflores, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8806638,
+    "lon": -4.7744182
+  },
+  {
+    "name": "Campos de Toro",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Córdoba",
+    "address": "Campos de Toro, 73, Calle del Corregidor Luis de la Cerda, San Pedro, El Salvador y La Compañía, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.8785679,
+    "lon": -4.7783057
+  },
+  {
+    "name": "De Cobre Y Picón",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.9,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Horma",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": "Horma, 3, Calle Albucasis, Vista Alegre, Huerta del Rey - Vallellano, Santiago, Córdoba, Andalucía, 14003, España",
+    "lat": 37.878973,
+    "lon": -4.7820382
+  },
+  {
+    "name": "Macsura Gastrotaberna",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Horno San Luis",
+    "topic": "Mediterranean, European",
+    "rating": 4.1,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "La Fabbrica Pizzeria",
+    "topic": "Italian, Pizza",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Si Quiero",
+    "topic": "Italian, Pizza",
+    "rating": 4.5,
+    "city": "Córdoba",
+    "address": "Sí, quiero, Go!, 10, Avenida Arroyo del Moro, Las Margaritas, Distrito Noroeste, Córdoba, Andalucía, 14011, España",
+    "lat": 37.8877008,
+    "lon": -4.7962197
+  },
+  {
+    "name": "Barra y Mesa",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Bodegas Campos",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Córdoba",
+    "address": "Bodegas Campos, Calle Lineros, San Pedro, Cerro de la Golondrina - Salesianos, Santiago, Córdoba, Andalucía, 14002, España",
+    "lat": 37.8815188,
+    "lon": -4.7735678
+  },
+  {
+    "name": "Canadian Bar and Tapas",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Elminibar",
+    "topic": "American, Mediterranean",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "restaurante tablao el jaleo",
+    "topic": "Spanish",
+    "rating": 4.7,
+    "city": "Córdoba",
+    "address": ""
+  },
+  {
+    "name": "Taberna El Poema",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.1,
+    "city": "Córdoba",
+    "address": "Taberna El Poema, 2, Calle Alonso de Burgos, Centro Comercial, Santiago, Córdoba, Andalucía, 14008, España",
+    "lat": 37.8859614,
+    "lon": -4.7838093
+  },
+  {
+    "name": "La Cazuela de la Esparteria",
+    "topic": "Spanish",
+    "rating": 4.0,
+    "city": "Córdoba",
+    "address": ""
+  }
+]

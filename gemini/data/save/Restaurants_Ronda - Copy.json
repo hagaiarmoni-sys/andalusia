@@ -1,0 +1,694 @@
+[
+  {
+    "name": "La Niña Adela",
+    "topic": "2,047 Mediterranean, European",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Tropicana",
+    "topic": "3,994 International, Mediterranean",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": "tropicana, Avenida de Málaga, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7483786,
+    "lon": -5.1550045
+  },
+  {
+    "name": "La Piconera Ronda",
+    "topic": "199 Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Pizzeria Da Vinci",
+    "topic": "1,645 Italian, Pizza",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Tapa´s Bar Elias",
+    "topic": "493 Bar, Mediterranean",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "KÜTRAL",
+    "topic": "283 Steakhouse, Grill",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Taberna Quinto Tramo",
+    "topic": "1,462 Bar, Mediterranean",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Siempre Igual",
+    "topic": "1,739 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": "Siempre Igual, Calle Jerez, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7450512,
+    "lon": -5.1675649
+  },
+  {
+    "name": "Las Bridas Ronda",
+    "topic": "117 Steakhouse, Bar",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Puerta Grande",
+    "topic": "1,445 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": "Puerta Grande, Calle Nueva, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7416245,
+    "lon": -5.165582
+  },
+  {
+    "name": "Restaurante Pizzería Savoy",
+    "topic": "198 Steakhouse, Pizza",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Bardal",
+    "topic": "380 Mediterranean, European",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Las Tablas",
+    "topic": "515 Steakhouse, International",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Carrera Oficial",
+    "topic": "203 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Mi Manuela Taberna",
+    "topic": "88 Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": "Taberna Mi Manuela, Plaza Carmen Abela, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7426131,
+    "lon": -5.1638769
+  },
+  {
+    "name": "La Abacería Ronda",
+    "topic": "372 Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": "La Abacería, Calle Virgen de los Remedios, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7414066,
+    "lon": -5.164741
+  },
+  {
+    "name": "La Barfina Ronda",
+    "topic": "450 Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Panorámico Restaurant",
+    "topic": "578 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Al-Zahrà Arabian Food",
+    "topic": "159 Moroccan, Mediterranean",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "El Zucio",
+    "topic": "329 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": "El Zucio, Plaza Ruedo Alameda, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7334183,
+    "lon": -5.1646663
+  },
+  {
+    "name": "Pizzeria Michelangelo",
+    "topic": "393 Italian, Pizza",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Taberna El Almacen",
+    "topic": "552 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Casa María",
+    "topic": "4,139 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": "Casa Maria, Plaza Ruedo Alameda, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7338056,
+    "lon": -5.1651077
+  },
+  {
+    "name": "Carmen La De Ronda",
+    "topic": "632 Mediterranean, European",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "Mesón Carmen la de Ronda, Plaza Duquesa de Parcent, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7371931,
+    "lon": -5.16555
+  },
+  {
+    "name": "Restaurante Pedro Romero",
+    "topic": "881 Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": "Pedro Romero, 18, Calle Virgen de la Paz, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7427684,
+    "lon": -5.1666384
+  },
+  {
+    "name": "Casa Mateos",
+    "topic": "490 Mediterranean, European",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "casa mateos, Calle Virgen de la Paz, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7449072,
+    "lon": -5.1674921
+  },
+  {
+    "name": "Meson El Sacristan",
+    "topic": "1,484 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "Mesón El Sacristán, 14, Plaza Duquesa de Parcent, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7375527,
+    "lon": -5.1651532
+  },
+  {
+    "name": "Tabanco Los Arcos",
+    "topic": "501 Bar, Mediterranean",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": "Tabanco Los Arcos, 6, Calle Armiñán, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7401111,
+    "lon": -5.165717
+  },
+  {
+    "name": "La Picarona",
+    "topic": "124 Steakhouse, Mediterranean",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "El Lechuguita",
+    "topic": "1,728 Bar, Mediterranean",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "El Lechuguita, Calle Virgen de los Remedios, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7414513,
+    "lon": -5.164662
+  },
+  {
+    "name": "Restaurante Azahar",
+    "topic": "654 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "La Taberna",
+    "topic": "1,713 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "La Taberna, 8, Plaza del Socorro, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7430016,
+    "lon": -5.1659647
+  },
+  {
+    "name": "Entrevinos",
+    "topic": "632 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bodeguita El Coto",
+    "topic": "390 Bar, Mediterranean",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": "Bodeguita El Coto, Calle Virgen de los Remedios, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7418029,
+    "lon": -5.1649908
+  },
+  {
+    "name": "Tragatá | Benito Gómez | Ronda",
+    "topic": "1,519 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Las Maravillas",
+    "topic": "2,376 Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": "Las Maravillas, 12, Carrera Espinel, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7422766,
+    "lon": -5.1660108
+  },
+  {
+    "name": "Gastro-bar Mk",
+    "topic": "135 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Albacara",
+    "topic": "777 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": "Albacara, Calle Tenorio, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7396871,
+    "lon": -5.1660036
+  },
+  {
+    "name": "Los Cazadores",
+    "topic": "339 Mediterranean, Seafood",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Café Restaurante La Vendimya",
+    "topic": "70 Bar, Cafe",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bodega San Francisco",
+    "topic": "1,184 Mediterranean",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": "Bodega San Francisco, 32, Plaza Ruedo Alameda, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7340335,
+    "lon": -5.1650165
+  },
+  {
+    "name": "Bodega El Socorro",
+    "topic": "79 Spanish",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": "Bodega El Socorro, 4, Calle Molino, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7435789,
+    "lon": -5.1658555
+  },
+  {
+    "name": "Toro Tapas",
+    "topic": "1,006 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": "Toro Tapas, 7, Carrera Espinel, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7424324,
+    "lon": -5.1659531
+  },
+  {
+    "name": "Bifana Bar",
+    "topic": "188 Bars & Pubs, Bar",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": "Bifana Bar, Calle Comandante Salvador Carrasco, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.745576,
+    "lon": -5.1649745
+  },
+  {
+    "name": "Bar Casa Clemente",
+    "topic": "304 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Sensur Gastrobar",
+    "topic": "855 Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar Restaurante Casa Lourdes",
+    "topic": "100 Mediterranean, European",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "La Vita e Bella",
+    "topic": "404 Italian, Pizza",
+    "rating": 4.2,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Brucho",
+    "topic": "60 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Kiosko De La Alameda",
+    "topic": "58 Bars & Pubs, Mediterranean",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Abades Ronda",
+    "topic": "409 Mediterranean, European",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": "Abades, 11, Calle Recogidas, Barrio de la Magdalena, Fígares, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18005, España",
+    "lat": 37.1724891,
+    "lon": -3.6013279
+  },
+  {
+    "name": "Il Forno a Legna",
+    "topic": "395 Italian, Pizza",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bodeguita El Buen Comer",
+    "topic": "52 Bars & Pubs, Mediterranean",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar El Convento",
+    "topic": "134 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": "Bar El convento, Calle San Francisco de Asís, Rosalejo, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7292515,
+    "lon": -5.1651902
+  },
+  {
+    "name": "Bombay Spice",
+    "topic": "26 Indian, Asian",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Pura Cepa Ronda",
+    "topic": "51 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Las Castañuelas",
+    "topic": "122 Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar El Barrio",
+    "topic": "30 Steakhouse, Barbecue",
+    "rating": 5.0,
+    "city": "Ronda",
+    "address": "El Barrio, Calle Arabial, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18003, España",
+    "lat": 37.1799352,
+    "lon": -3.6133724
+  },
+  {
+    "name": "Restaurante Luciano",
+    "topic": "58 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "BAR RESTAURANTE LOS PUEBLOS",
+    "topic": "24 Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Mi Rinconcito",
+    "topic": "112 Mediterranean, Spanish",
+    "rating": 4.2,
+    "city": "Ronda",
+    "address": "Mi Rinconcito, Plaza Ruedo Alameda, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7343847,
+    "lon": -5.164307
+  },
+  {
+    "name": "El Rincon de la Manzanilla",
+    "topic": "154 Bar, Mediterranean",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": "El rincón de la manzanilla, Calle Virgen de los Remedios, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7423112,
+    "lon": -5.1650975
+  },
+  {
+    "name": "Sabor Andaluz",
+    "topic": "52 Seafood, Mediterranean",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Cerveceria Meson Rondeno",
+    "topic": "218 Mediterranean, European",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Tape-Art",
+    "topic": "166 Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "La Cascada Restaurante & Bar",
+    "topic": "213 International, Mediterranean",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar Restaurante La Bodega",
+    "topic": "125 Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar La Plaza",
+    "topic": "21 Mediterranean, Spanish",
+    "rating": 5.0,
+    "city": "Ronda",
+    "address": "Bar La Plaza, Ronda de Verasol, Vera, Almería, Andalucía, 04620, España",
+    "lat": 37.2425219,
+    "lon": -1.8584931
+  },
+  {
+    "name": "Cerveceria El Bandolero",
+    "topic": "163 Bars & Pubs, Mediterranean",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Los Caracoles",
+    "topic": "150 Bars & Pubs, Mediterranean",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": "Los Caracoles, Calle Comandante Salvador Carrasco, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7460291,
+    "lon": -5.1652644
+  },
+  {
+    "name": "Camping El Sur",
+    "topic": "143 Spanish",
+    "rating": 4.2,
+    "city": "Ronda",
+    "address": "El Sur, A-369, Rosalejo, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7210648,
+    "lon": -5.1722783
+  },
+  {
+    "name": "Bar Antonio",
+    "topic": "97 Bar, Mediterranean",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": "Antonio Pérez Copas, 2, Calle Pintor Rodríguez Acosta, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1782296,
+    "lon": -3.608041
+  },
+  {
+    "name": "Emecuatro Bar",
+    "topic": "32 Bar, Mediterranean",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Akelarre (fuego Y Tierra)",
+    "topic": "19 Spanish",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Gloria Bendita",
+    "topic": "38 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "BBT otra Ronda",
+    "topic": "43 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "New Street Grill, Ronda",
+    "topic": "39 Steakhouse, Seafood",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Elpere Tapas",
+    "topic": "18 Bar, Mediterranean",
+    "rating": 4.8,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Taperia La Flamenka",
+    "topic": "54 Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar los Capeas",
+    "topic": "63 Mediterranean, European",
+    "rating": 4.0,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "El Castaño",
+    "topic": "39 Spanish",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": "Bar Cafetería El Castaño, Avenida Martínez Astein, Ronda, Serranía de Ronda, Málaga, Andalucía, 29400, España",
+    "lat": 36.7458812,
+    "lon": -5.1602108
+  },
+  {
+    "name": "Restaurante Alhambra",
+    "topic": "27 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante La Cuadra Ronda",
+    "topic": "92 Spanish, Grill",
+    "rating": 4.1,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Sol y Sombra",
+    "topic": "105 Mediterranean, European",
+    "rating": 4.0,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Cafe Tapas A Tu Vera",
+    "topic": "168 Mediterranean, European",
+    "rating": 4.0,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bar La Alegria",
+    "topic": "30 Bar, European",
+    "rating": 4.9,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "La Taska",
+    "topic": "20 Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "Bodeguita Ramos",
+    "topic": "28 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "La Merendera",
+    "topic": "8 Spanish",
+    "rating": 5.0,
+    "city": "Ronda",
+    "address": ""
+  },
+  {
+    "name": "PizzaUtopia",
+    "topic": "30 Italian, Pizza",
+    "rating": 4.4,
+    "city": "Ronda",
+    "address": ""
+  }
+]

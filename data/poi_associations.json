@@ -1,0 +1,1469 @@
+{
+  "version": "1.0",
+  "generated": "2025-12-04T06:38:08.827416",
+  "source_file": "andalusia_community_itineraries_enriched.json",
+  "total_itineraries_analyzed": 16,
+  "total_pois": 84,
+  "total_pair_occurrences": 218,
+  "methodology": {
+    "description": "Score = (times A and B appear same day) / (total itineraries with A)",
+    "interpretation": "Score of 0.8 means 80% of visitors to A also visited B",
+    "min_covisits_threshold": 1
+  },
+  "poi_appearance_counts": {
+    "calle_larios_malaga": 1,
+    "alcazaba_malaga": 7,
+    "malaga_cathedral": 3,
+    "picasso_museum_malaga": 5,
+    "albaicin_granada": 13,
+    "mirador_san_nicolas_granada": 10,
+    "alhambra_granada": 13,
+    "realejo_granada": 1,
+    "generalife_gardens_granada": 11,
+    "royal_chapel_granada": 5,
+    "mezquita_cathedral_cordoba": 8,
+    "jewish_quarter_cordoba": 8,
+    "roman_bridge_cordoba": 6,
+    "giralda_seville": 8,
+    "santa_cruz_seville": 7,
+    "real_alcazar_seville": 12,
+    "seville_cathedral": 10,
+    "maria_luisa_park_seville": 3,
+    "plaza_de_espana_seville": 10,
+    "metropol_parasol_seville": 2,
+    "triana_seville": 5,
+    "casa_de_pilatos_seville": 3,
+    "hammam_al_andalus_granada": 3,
+    "sacromonte_granada": 5,
+    "puente_nuevo_ronda": 6,
+    "old_town_ronda": 3,
+    "ronda_bullring": 3,
+    "zahara_de_la_sierra": 2,
+    "sierra_de_grazalema_natural_park": 3,
+    "arcos_de_la_frontera": 2,
+    "grazalema_village": 3,
+    "cadiz_cathedral": 3,
+    "old_town_cadiz": 2,
+    "la_caleta_beach_cadiz": 5,
+    "malagueta_beach_malaga": 2,
+    "gibralfaro_castle_malaga": 2,
+    "el_torcal_de_antequera": 2,
+    "caminito_del_rey": 3,
+    "alcazar_cordoba": 4,
+    "granada_cathedral": 1,
+    "parque_ciencias_granada": 1,
+    "synagogue_cordoba": 1,
+    "setenil_de_las_bodegas": 1,
+    "olvera_village": 1,
+    "tarifa_old_town": 2,
+    "rock_of_gibraltar": 1,
+    "bolonia_beach": 1,
+    "patios_cordoba": 1,
+    "balcon_de_europa_nerja": 2,
+    "frigiliana_village": 1,
+    "nerja_caves": 2,
+    "centre_pompidou_malaga": 1,
+    "maro_beach_nerja": 1,
+    "marbella_old_town": 1,
+    "puerto_banus_marbella": 1,
+    "tarifa_beach": 1,
+    "mijas_village": 1,
+    "el_chorro_lakes": 1,
+    "antequera_dolmens": 1,
+    "ronda_gorge_trail": 1,
+    "pinsapar_hike": 1,
+    "triana_market_seville": 1,
+    "bodegas_tio_pepe_jerez": 1,
+    "jerez_old_town": 1,
+    "cadiz_central_market": 1,
+    "sacra_capilla_salvador_ubeda": 1,
+    "ubeda_plaza_vazquez_molina": 1,
+    "baeza_cathedral": 1,
+    "baeza_old_university": 1,
+    "jabalquinto_palace_baeza": 1,
+    "almeria_cathedral": 1,
+    "alcazaba_almeria": 1,
+    "cabo_de_gata_natural_park": 1,
+    "playa_monsul": 1,
+    "san_jose_village": 1,
+    "playa_genoveses": 1,
+    "tabernas_desert": 1,
+    "mini_hollywood": 1,
+    "guadix_cathedral": 1,
+    "guadix_cave_houses": 1,
+    "museo_baile_flamenco_seville": 1,
+    "centro_andaluz_flamenco_jerez": 1,
+    "royal_equestrian_school_jerez": 1,
+    "cadiz_old_town": 1
+  },
+  "associations": {
+    "calle_larios_malaga": [
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "malaga_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "picasso_museum_malaga",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "alcazaba_malaga": [
+      {
+        "poi_id": "picasso_museum_malaga",
+        "score": 0.571,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "malagueta_beach_malaga",
+        "score": 0.286,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "gibralfaro_castle_malaga",
+        "score": 0.286,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "calle_larios_malaga",
+        "score": 0.143,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "malaga_cathedral",
+        "score": 0.143,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "grazalema_village",
+        "score": 0.143,
+        "co_visits": 1
+      }
+    ],
+    "malaga_cathedral": [
+      {
+        "poi_id": "picasso_museum_malaga",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "calle_larios_malaga",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "centre_pompidou_malaga",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "picasso_museum_malaga": [
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 0.8,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "malaga_cathedral",
+        "score": 0.4,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "calle_larios_malaga",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "malagueta_beach_malaga",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "gibralfaro_castle_malaga",
+        "score": 0.2,
+        "co_visits": 1
+      }
+    ],
+    "albaicin_granada": [
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.615,
+        "co_visits": 8
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.231,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "alhambra_granada",
+        "score": 0.231,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.154,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.077,
+        "co_visits": 1
+      }
+    ],
+    "mirador_san_nicolas_granada": [
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.8,
+        "co_visits": 8
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "alhambra_granada",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.1,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.1,
+        "co_visits": 1
+      }
+    ],
+    "alhambra_granada": [
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.846,
+        "co_visits": 11
+      },
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.231,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.154,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "realejo_granada",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "granada_cathedral",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "parque_ciencias_granada",
+        "score": 0.077,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.077,
+        "co_visits": 1
+      }
+    ],
+    "realejo_granada": [
+      {
+        "poi_id": "alhambra_granada",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "generalife_gardens_granada": [
+      {
+        "poi_id": "alhambra_granada",
+        "score": 1.0,
+        "co_visits": 11
+      },
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.182,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "realejo_granada",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "granada_cathedral",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "parque_ciencias_granada",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.091,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.091,
+        "co_visits": 1
+      }
+    ],
+    "royal_chapel_granada": [
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.4,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "alhambra_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "realejo_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "mezquita_cathedral_cordoba",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.2,
+        "co_visits": 1
+      }
+    ],
+    "mezquita_cathedral_cordoba": [
+      {
+        "poi_id": "jewish_quarter_cordoba",
+        "score": 0.875,
+        "co_visits": 7
+      },
+      {
+        "poi_id": "roman_bridge_cordoba",
+        "score": 0.375,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "alcazar_cordoba",
+        "score": 0.125,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.125,
+        "co_visits": 1
+      }
+    ],
+    "jewish_quarter_cordoba": [
+      {
+        "poi_id": "mezquita_cathedral_cordoba",
+        "score": 0.875,
+        "co_visits": 7
+      },
+      {
+        "poi_id": "roman_bridge_cordoba",
+        "score": 0.5,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "alcazar_cordoba",
+        "score": 0.25,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "synagogue_cordoba",
+        "score": 0.125,
+        "co_visits": 1
+      }
+    ],
+    "roman_bridge_cordoba": [
+      {
+        "poi_id": "jewish_quarter_cordoba",
+        "score": 0.667,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "mezquita_cathedral_cordoba",
+        "score": 0.5,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "alcazar_cordoba",
+        "score": 0.5,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "synagogue_cordoba",
+        "score": 0.167,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "patios_cordoba",
+        "score": 0.167,
+        "co_visits": 1
+      }
+    ],
+    "giralda_seville": [
+      {
+        "poi_id": "seville_cathedral",
+        "score": 1.0,
+        "co_visits": 8
+      },
+      {
+        "poi_id": "real_alcazar_seville",
+        "score": 0.875,
+        "co_visits": 7
+      },
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 0.25,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.125,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "casa_de_pilatos_seville",
+        "score": 0.125,
+        "co_visits": 1
+      }
+    ],
+    "santa_cruz_seville": [
+      {
+        "poi_id": "real_alcazar_seville",
+        "score": 0.714,
+        "co_visits": 5
+      },
+      {
+        "poi_id": "seville_cathedral",
+        "score": 0.429,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "giralda_seville",
+        "score": 0.286,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.143,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "triana_seville",
+        "score": 0.143,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "triana_market_seville",
+        "score": 0.143,
+        "co_visits": 1
+      }
+    ],
+    "real_alcazar_seville": [
+      {
+        "poi_id": "seville_cathedral",
+        "score": 0.75,
+        "co_visits": 9
+      },
+      {
+        "poi_id": "giralda_seville",
+        "score": 0.583,
+        "co_visits": 7
+      },
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 0.417,
+        "co_visits": 5
+      },
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.25,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "casa_de_pilatos_seville",
+        "score": 0.083,
+        "co_visits": 1
+      }
+    ],
+    "seville_cathedral": [
+      {
+        "poi_id": "real_alcazar_seville",
+        "score": 0.9,
+        "co_visits": 9
+      },
+      {
+        "poi_id": "giralda_seville",
+        "score": 0.8,
+        "co_visits": 8
+      },
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 0.3,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "casa_de_pilatos_seville",
+        "score": 0.1,
+        "co_visits": 1
+      }
+    ],
+    "maria_luisa_park_seville": [
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 1.0,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "metropol_parasol_seville",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "plaza_de_espana_seville": [
+      {
+        "poi_id": "triana_seville",
+        "score": 0.4,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "maria_luisa_park_seville",
+        "score": 0.3,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "real_alcazar_seville",
+        "score": 0.3,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "metropol_parasol_seville",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "casa_de_pilatos_seville",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "seville_cathedral",
+        "score": 0.2,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "giralda_seville",
+        "score": 0.1,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 0.1,
+        "co_visits": 1
+      }
+    ],
+    "metropol_parasol_seville": [
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "maria_luisa_park_seville",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "triana_seville",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "triana_seville": [
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.8,
+        "co_visits": 4
+      },
+      {
+        "poi_id": "casa_de_pilatos_seville",
+        "score": 0.4,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "metropol_parasol_seville",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "museo_baile_flamenco_seville",
+        "score": 0.2,
+        "co_visits": 1
+      }
+    ],
+    "casa_de_pilatos_seville": [
+      {
+        "poi_id": "plaza_de_espana_seville",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "triana_seville",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "giralda_seville",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "real_alcazar_seville",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "seville_cathedral",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "hammam_al_andalus_granada": [
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "sacromonte_granada",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "alhambra_granada",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "sacromonte_granada": [
+      {
+        "poi_id": "albaicin_granada",
+        "score": 0.6,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "mirador_san_nicolas_granada",
+        "score": 0.4,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "alhambra_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "royal_chapel_granada",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "hammam_al_andalus_granada",
+        "score": 0.2,
+        "co_visits": 1
+      }
+    ],
+    "puente_nuevo_ronda": [
+      {
+        "poi_id": "old_town_ronda",
+        "score": 0.5,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "ronda_bullring",
+        "score": 0.5,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "caminito_del_rey",
+        "score": 0.167,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "mijas_village",
+        "score": 0.167,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "ronda_gorge_trail",
+        "score": 0.167,
+        "co_visits": 1
+      }
+    ],
+    "old_town_ronda": [
+      {
+        "poi_id": "puente_nuevo_ronda",
+        "score": 1.0,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "ronda_bullring",
+        "score": 1.0,
+        "co_visits": 3
+      }
+    ],
+    "ronda_bullring": [
+      {
+        "poi_id": "puente_nuevo_ronda",
+        "score": 1.0,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "old_town_ronda",
+        "score": 1.0,
+        "co_visits": 3
+      }
+    ],
+    "zahara_de_la_sierra": [
+      {
+        "poi_id": "sierra_de_grazalema_natural_park",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "grazalema_village",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "arcos_de_la_frontera",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "sierra_de_grazalema_natural_park": [
+      {
+        "poi_id": "zahara_de_la_sierra",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "grazalema_village",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "arcos_de_la_frontera",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "pinsapar_hike",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "arcos_de_la_frontera": [
+      {
+        "poi_id": "zahara_de_la_sierra",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "sierra_de_grazalema_natural_park",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "grazalema_village",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "setenil_de_las_bodegas",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "olvera_village",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "grazalema_village": [
+      {
+        "poi_id": "zahara_de_la_sierra",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "sierra_de_grazalema_natural_park",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "arcos_de_la_frontera",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "cadiz_cathedral": [
+      {
+        "poi_id": "la_caleta_beach_cadiz",
+        "score": 1.0,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "old_town_cadiz",
+        "score": 0.667,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "bolonia_beach",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "old_town_cadiz": [
+      {
+        "poi_id": "cadiz_cathedral",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "la_caleta_beach_cadiz",
+        "score": 1.0,
+        "co_visits": 2
+      }
+    ],
+    "la_caleta_beach_cadiz": [
+      {
+        "poi_id": "cadiz_cathedral",
+        "score": 0.6,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "old_town_cadiz",
+        "score": 0.4,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "bolonia_beach",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "cadiz_central_market",
+        "score": 0.2,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "cadiz_old_town",
+        "score": 0.2,
+        "co_visits": 1
+      }
+    ],
+    "malagueta_beach_malaga": [
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "picasso_museum_malaga",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "gibralfaro_castle_malaga": [
+      {
+        "poi_id": "alcazaba_malaga",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "picasso_museum_malaga",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "el_torcal_de_antequera": [
+      {
+        "poi_id": "caminito_del_rey",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "antequera_dolmens",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "caminito_del_rey": [
+      {
+        "poi_id": "el_torcal_de_antequera",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "puente_nuevo_ronda",
+        "score": 0.333,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "el_chorro_lakes",
+        "score": 0.333,
+        "co_visits": 1
+      }
+    ],
+    "alcazar_cordoba": [
+      {
+        "poi_id": "roman_bridge_cordoba",
+        "score": 0.75,
+        "co_visits": 3
+      },
+      {
+        "poi_id": "jewish_quarter_cordoba",
+        "score": 0.5,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "mezquita_cathedral_cordoba",
+        "score": 0.25,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "synagogue_cordoba",
+        "score": 0.25,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "patios_cordoba",
+        "score": 0.25,
+        "co_visits": 1
+      }
+    ],
+    "granada_cathedral": [
+      {
+        "poi_id": "alhambra_granada",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "parque_ciencias_granada": [
+      {
+        "poi_id": "alhambra_granada",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "generalife_gardens_granada",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "synagogue_cordoba": [
+      {
+        "poi_id": "alcazar_cordoba",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "jewish_quarter_cordoba",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "roman_bridge_cordoba",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "setenil_de_las_bodegas": [
+      {
+        "poi_id": "arcos_de_la_frontera",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "olvera_village",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "olvera_village": [
+      {
+        "poi_id": "setenil_de_las_bodegas",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "arcos_de_la_frontera",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "tarifa_old_town": [
+      {
+        "poi_id": "rock_of_gibraltar",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "tarifa_beach",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "rock_of_gibraltar": [
+      {
+        "poi_id": "tarifa_old_town",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "bolonia_beach": [
+      {
+        "poi_id": "cadiz_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "la_caleta_beach_cadiz",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "patios_cordoba": [
+      {
+        "poi_id": "alcazar_cordoba",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "roman_bridge_cordoba",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "balcon_de_europa_nerja": [
+      {
+        "poi_id": "nerja_caves",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "frigiliana_village",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "maro_beach_nerja",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "frigiliana_village": [
+      {
+        "poi_id": "balcon_de_europa_nerja",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "nerja_caves",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "nerja_caves": [
+      {
+        "poi_id": "balcon_de_europa_nerja",
+        "score": 1.0,
+        "co_visits": 2
+      },
+      {
+        "poi_id": "frigiliana_village",
+        "score": 0.5,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "maro_beach_nerja",
+        "score": 0.5,
+        "co_visits": 1
+      }
+    ],
+    "centre_pompidou_malaga": [
+      {
+        "poi_id": "malaga_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "maro_beach_nerja": [
+      {
+        "poi_id": "balcon_de_europa_nerja",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "nerja_caves",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "marbella_old_town": [
+      {
+        "poi_id": "puerto_banus_marbella",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "puerto_banus_marbella": [
+      {
+        "poi_id": "marbella_old_town",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "tarifa_beach": [
+      {
+        "poi_id": "tarifa_old_town",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "mijas_village": [
+      {
+        "poi_id": "puente_nuevo_ronda",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "el_chorro_lakes": [
+      {
+        "poi_id": "caminito_del_rey",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "antequera_dolmens": [
+      {
+        "poi_id": "el_torcal_de_antequera",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "ronda_gorge_trail": [
+      {
+        "poi_id": "puente_nuevo_ronda",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "pinsapar_hike": [
+      {
+        "poi_id": "sierra_de_grazalema_natural_park",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "triana_market_seville": [
+      {
+        "poi_id": "santa_cruz_seville",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "bodegas_tio_pepe_jerez": [
+      {
+        "poi_id": "jerez_old_town",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "jerez_old_town": [
+      {
+        "poi_id": "bodegas_tio_pepe_jerez",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "cadiz_central_market": [
+      {
+        "poi_id": "la_caleta_beach_cadiz",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "sacra_capilla_salvador_ubeda": [
+      {
+        "poi_id": "ubeda_plaza_vazquez_molina",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "ubeda_plaza_vazquez_molina": [
+      {
+        "poi_id": "sacra_capilla_salvador_ubeda",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "baeza_cathedral": [
+      {
+        "poi_id": "baeza_old_university",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "jabalquinto_palace_baeza",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "baeza_old_university": [
+      {
+        "poi_id": "baeza_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "jabalquinto_palace_baeza",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "jabalquinto_palace_baeza": [
+      {
+        "poi_id": "baeza_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      },
+      {
+        "poi_id": "baeza_old_university",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "almeria_cathedral": [
+      {
+        "poi_id": "alcazaba_almeria",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "alcazaba_almeria": [
+      {
+        "poi_id": "almeria_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "cabo_de_gata_natural_park": [
+      {
+        "poi_id": "playa_monsul",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "playa_monsul": [
+      {
+        "poi_id": "cabo_de_gata_natural_park",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "san_jose_village": [
+      {
+        "poi_id": "playa_genoveses",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "playa_genoveses": [
+      {
+        "poi_id": "san_jose_village",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "tabernas_desert": [
+      {
+        "poi_id": "mini_hollywood",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "mini_hollywood": [
+      {
+        "poi_id": "tabernas_desert",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "guadix_cathedral": [
+      {
+        "poi_id": "guadix_cave_houses",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "guadix_cave_houses": [
+      {
+        "poi_id": "guadix_cathedral",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "museo_baile_flamenco_seville": [
+      {
+        "poi_id": "triana_seville",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "centro_andaluz_flamenco_jerez": [
+      {
+        "poi_id": "royal_equestrian_school_jerez",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "royal_equestrian_school_jerez": [
+      {
+        "poi_id": "centro_andaluz_flamenco_jerez",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ],
+    "cadiz_old_town": [
+      {
+        "poi_id": "la_caleta_beach_cadiz",
+        "score": 1.0,
+        "co_visits": 1
+      }
+    ]
+  }
+}

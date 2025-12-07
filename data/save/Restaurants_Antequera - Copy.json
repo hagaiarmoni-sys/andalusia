@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Restaurante Mar De Gloria",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Mesón Adarve",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": "Mesón Adarve, Calle Merecillas, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0209389,
+    "lon": -4.5611601
+  },
+  {
+    "name": "Recuerdos Tapas Bodega",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": "Recuerdos Tapas Bodega, Calle Laguna, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0208271,
+    "lon": -4.5616044
+  },
+  {
+    "name": "Caserio de San Benito",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Abrasador Bodegas Triana",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Mesón Casa Diego",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Antequera",
+    "address": "Méson Casa Diego, Calle Merecillas, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0209708,
+    "lon": -4.5613707
+  },
+  {
+    "name": "Arte de Cozina",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": "Arte de Cozina, 27, Calle Calzada, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0183284,
+    "lon": -4.5579799
+  },
+  {
+    "name": "Alma de Triana Taberna Urbana",
+    "topic": "Bars & Pubs, Mediterranean",
+    "rating": 4.7,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "La Cayetana Restaurante Andaluz",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.7,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "A La Fuerza",
+    "topic": "Cafe, Mediterranean",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": "Bar A La Fuerza, 32, Alameda de Andalucía, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0215378,
+    "lon": -4.5649227
+  },
+  {
+    "name": "Mesón La Bombonera Casa Memé",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Lorenzo y María",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Cervecería Casa Diego",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante A Mi Manera",
+    "topic": "Mexican, Cafe",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": "A mi Manera, Calle Diego Ponce, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0191142,
+    "lon": -4.5592707
+  },
+  {
+    "name": "Loulu Bistró",
+    "topic": "Bar, Cafe",
+    "rating": 4.5,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Campo de Golf",
+    "topic": "International, Mediterranean",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Cafeteria Restaurante \"El Mercado\"",
+    "topic": "Cafe, Mediterranean",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurant Torcal Alto",
+    "topic": "Cafe, Mediterranean",
+    "rating": 4.5,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Mesón Coso Viejo",
+    "topic": "Steakhouse, Pizza",
+    "rating": 4.2,
+    "city": "Antequera",
+    "address": "Mesón Ibérico Dehesa Las Hazuelas, Coso Viejo, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0167008,
+    "lon": -4.5577873
+  },
+  {
+    "name": "Restaurante Leila",
+    "topic": "Mediterranean, European",
+    "rating": 4.1,
+    "city": "Antequera",
+    "address": "Leila, Calle Nueva, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0161884,
+    "lon": -4.5594368
+  },
+  {
+    "name": "La Mafia Se Sienta A La Mesa",
+    "topic": "Italian, Pizza",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Malabar Gastro.taberna",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Bar Carrera",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": "Bar Carrera, 18, Calle Carrera de Madre Carmen, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0192571,
+    "lon": -4.5553537
+  },
+  {
+    "name": "El Jardín",
+    "topic": "Cafe, European",
+    "rating": 4.9,
+    "city": "Antequera",
+    "address": "Cafetería Crepería El Jardín, Plaza de Castilla, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.021195,
+    "lon": -4.5663766
+  },
+  {
+    "name": "Ristorante Italiano Il Castello",
+    "topic": "Italian, Pizza",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Taberna el Rincón de Lola",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Antequera",
+    "address": "Taberna El Rincón de Lola, 8, Calle Encarnación, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0165204,
+    "lon": -4.5584212
+  },
+  {
+    "name": "Restaurante Nela Sushi Bar & Fusión Food",
+    "topic": "Japanese, Sushi",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "hotel restaurant Castilla",
+    "topic": "Mediterranean, European",
+    "rating": 4.2,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Meson Restaurante Juan Manuel",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Meson Hace Buche",
+    "topic": "Spanish",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Baraka Restaurante",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Refectorio",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "I Romani Pizza",
+    "topic": "Italian, Pizza",
+    "rating": 4.5,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Casa Paco",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Bar Chicón",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Venta El Conejo",
+    "topic": "Spanish",
+    "rating": 4.2,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Anfitrión",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Finca Eslava",
+    "topic": "Mediterranean, European",
+    "rating": 4.0,
+    "city": "Antequera",
+    "address": "Finca Eslava, A-7281, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0334553,
+    "lon": -4.5615584
+  },
+  {
+    "name": "Bar Restaurante La Nave",
+    "topic": "Mediterranean, Spanish",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Cervecería Bocatería Triana",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Bienmesabe",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": "Bienmesabe, Plaza del Escribano, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0150176,
+    "lon": -4.5563172
+  },
+  {
+    "name": "La Cantina",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": "La Cantina, Alameda de Andalucía, Antequera, Málaga, Andalucía, 29200, España",
+    "lat": 37.0210459,
+    "lon": -4.5640564
+  },
+  {
+    "name": "Parrilla San Bartolome",
+    "topic": "Steakhouse, Cajun & Creole",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Saborio Del Hacebuche",
+    "topic": "16",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Casa Caro",
+    "topic": "Bars & Pubs, Bar",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Terra",
+    "topic": "Mediterranean, Barbecue",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Casa Pepe Fox",
+    "topic": "Bars & Pubs, Spanish",
+    "rating": 4.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Fuente del Sol",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante El Rincon Del Hortelano",
+    "topic": "miLa JoyaMediterranean, Spanish",
+    "rating": 4.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Gastrobar Casa Lucía",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Bar Ladron",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "La Fabrica. El restaurante de la Escuela",
+    "topic": "Spanish, Fusion",
+    "rating": 4.8,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Cafeteria Bar, Toral",
+    "topic": "Spanish",
+    "rating": 4.2,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "La Bohème Restaurant",
+    "topic": "Chinese, Japanese",
+    "rating": 4.6,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Contradiccion",
+    "topic": "American, Fast Food",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Entre Olivos",
+    "topic": "Seafood, Mediterranean",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Bar Asador El Patio",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Meson Momotombo",
+    "topic": "Spanish",
+    "rating": 4.4,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Efebo",
+    "topic": "Spanish",
+    "rating": 4.3,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Sushi Ki",
+    "topic": "Spanish",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Parque Verónica",
+    "topic": "Steakhouse, Seafood",
+    "rating": 5.0,
+    "city": "Antequera",
+    "address": ""
+  },
+  {
+    "name": "Asador de Pollos Samuel",
+    "topic": "Trato nefasto",
+    "rating": 4.2,
+    "city": "Antequera",
+    "address": ""
+  }
+]

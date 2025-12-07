@@ -1,0 +1,920 @@
+[
+  {
+    "name": "La Caravana - Cocina Viajera",
+    "topic": "Latin, International",
+    "rating": 4.9,
+    "address": "Calle José Denis Belgrano 25, 29008 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Caos",
+    "topic": "Latin, Spanish",
+    "rating": 4.9,
+    "address": "Calle Gómez Pallete 5, Local 12, 29013 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Budare Venezuelan Food",
+    "topic": "Latin, Healthy",
+    "rating": 4.9,
+    "address": "Calle Beatas 40, 29008 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Trattoria Mamma Franca",
+    "topic": "Italian, Pizza",
+    "rating": 4.8,
+    "address": "Avenida Imperio Argentina 7, Locales 9-10, 29004 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Alegría Flamenco Y Gastronomía",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.9,
+    "address": "Calle Vélez Málaga 6, 29016 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Anyway Wine Bar",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "address": "Paseo de la Farola 8, 29016 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Ristobottega",
+    "topic": "Italian, Pizza",
+    "rating": 4.9,
+    "address": "Calle Cañón 3, 29015 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Arrebato Gastrotaberna",
+    "topic": "Spanish, Fusion",
+    "rating": 4.9,
+    "address": "Calle San Juan de Letrán 17, 29012 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Andino Huelin",
+    "topic": "Mexican, Peruvian",
+    "rating": 4.9,
+    "address": "Calle Tomás Echeverría 5, 29002 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Amigos Plaza Mayor",
+    "topic": "Mexican, Indian",
+    "rating": 4.8,
+    "address": "Calle Alfonso Ponce de León 3, 29140 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Encuentro",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.8,
+    "address": "Calle Ayala 43, 29002 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Mezcal Gastrobar Mexicano",
+    "topic": "Mexican, Latin",
+    "rating": 4.9,
+    "address": "Calle Moreno Monroy 7, 29015 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Casa Ovi",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.9,
+    "address": "Avenida de Sor Teresa Prat 72, 29004 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Buenavista Gastrobar & Tapas",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "address": "Calle Gaona 8, 29012 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Tasca Láska Malagueta",
+    "topic": "Mediterranean, European",
+    "rating": 4.9,
+    "address": "Calle Fernando Camino 15, 29016 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Balcón de las Flores",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "address": "Calle Martínez 12, 29005 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Restaurante Vino Mío",
+    "topic": "International, Spanish",
+    "rating": 4.5,
+    "address": "Plaza de Jerónimo Cuervo 2, 29012 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Rincon de Lola",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "address": "Plaza Moreno Villa 9, 29002 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Tercer Acto",
+    "topic": "Mediterranean, Sushi",
+    "rating": 4.8,
+    "address": "Calle Córdoba 13, 29001 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Spago's Pasta Fresca",
+    "topic": "Italian, Fast Food",
+    "rating": 4.9,
+    "address": "Calle Calderería 11, 29008 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Sibuya Urban Sushi Bar Málaga",
+    "topic": "Japanese, Sushi",
+    "rating": 4.8,
+    "address": "Calle Granada 36, 29015 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Restaurante Da Saveria",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.7,
+    "address": "Calle Ancha del Carmen 30, 29002 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Comparte",
+    "topic": "International, Mediterranean",
+    "rating": 4.8,
+    "address": "Calle Moreno Monroy 6, 29015 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Andino Gastrobar",
+    "topic": "American, Peruvian",
+    "rating": 4.8,
+    "address": "Calle Calderón de la Barca 3, 29005 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Papá Piquillo",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.8,
+    "address": "Calle Cárcer 2, 29008 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Blossom",
+    "topic": "International, Contemporary",
+    "rating": 4.8,
+    "address": "Plaza de la Aduana s/n, 29015 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Lagar de Verum",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.8,
+    "address": "Calle Olmos 43, 29018 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Gastronauta",
+    "topic": "International, Mediterranean",
+    "rating": 4.6,
+    "address": "Calle Dos Aceras 20, 29012 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Barra De Doña Inés",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "Alameda Principal 15, 29001 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Angus Muelle Uno",
+    "topic": "Steakhouse",
+    "rating": 4.5,
+    "address": "Muelle Uno, Local 55, Paseo de la Farola, 29001 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Alacena de Francis",
+    "topic": "Spanish, Russian",
+    "rating": 4.8,
+    "address": "Calle Montalbán 1, 29002 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Saloniki",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "address": "Muelle Uno - Puerto de Málaga, Local 60, 29016 Málaga, Spain",
+    "city": "Málaga"
+  },
+  {
+    "name": "Ultramarinos Benjamín",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Amigos Malaga Centro",
+    "topic": "Mexican, Indian",
+    "rating": 4.7,
+    "address": "Amigos, 6, Calle Bolsa, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7193115,
+    "lon": -4.4208004
+  },
+  {
+    "name": "Taberna Taperia Los 13",
+    "topic": "Mediterranean",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Tasca Láska",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "address": "Tasca Láska Bistrobar, 1, Avenida de la Aurora, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "city": "Málaga",
+    "lat": 36.7156491,
+    "lon": -4.4270261
+  },
+  {
+    "name": "Gaucho Grill",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.3,
+    "address": "Gaucho Grill, Paseo del Muelle Uno, Puerto de Málaga, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7150473,
+    "lon": -4.4144956
+  },
+  {
+    "name": "Verum - El Asador de Málaga",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Pikon",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "address": "El Pikón, 7, Plaza Lex Flavia Malacitana, El Ejido, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "city": "Málaga",
+    "lat": 36.7299302,
+    "lon": -4.4171747
+  },
+  {
+    "name": "Tundra Fusión Burger",
+    "topic": "American",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Kortxo",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "address": "Kortxo, 3, Calle Salinas, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.720151,
+    "lon": -4.4211935
+  },
+  {
+    "name": "Doña Inés",
+    "topic": "Grill, Fusion",
+    "rating": 4.7,
+    "address": "Calle Doña Inés, Los Calveles I y II, La Cala, Mijas, Costa del Sol Occidental, Málaga, Andalucía, 29648, España",
+    "city": "Málaga",
+    "lat": 36.5054345,
+    "lon": -4.6735719
+  },
+  {
+    "name": "Calanmor",
+    "topic": "Bar, European",
+    "rating": 4.9,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Radici Osteria Italiana",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "L'expérience",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.5,
+    "address": "L'experience, Calle Salinas, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7200218,
+    "lon": -4.4205232
+  },
+  {
+    "name": "La Barra de Zapata",
+    "topic": "International, Mediterranean",
+    "rating": 4.8,
+    "address": "La Barra de Zapata, 10, Calle Salinas, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.720179,
+    "lon": -4.4208935
+  },
+  {
+    "name": "Las Golondrinas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "Las Golondrinas Vacation Holiday Home, 2, Carril Ermita de Verdiales, Palma-Palmilla, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29014, España",
+    "city": "Málaga",
+    "lat": 36.798494,
+    "lon": -4.4547161
+  },
+  {
+    "name": "Luxalad Málaga Centro",
+    "topic": "Cafe, International",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Pizzeria Italiana Vittoria",
+    "topic": "Italian, Pizza",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Niña Bonita Cantina",
+    "topic": "Mexican, Latin",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Amigos Grill Muelle Uno",
+    "topic": "Mexican, Indian",
+    "rating": 4.4,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Oliva Tapas",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Andino Gastrobar La Paz",
+    "topic": "Peruvian, Latin",
+    "rating": 5.0,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Gastrobar Bassoa",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Mura Mura Osteria",
+    "topic": "Mediterranean, Contemporary",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Los Marangós Molina Lario",
+    "topic": "European, Spanish",
+    "rating": 4.6,
+    "address": "Los Marangos Molina Lario, Calle Molina Lario, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7211565,
+    "lon": -4.4202243
+  },
+  {
+    "name": "TORO Muelle Uno",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.5,
+    "address": "Toro, Paseo del Muelle Uno, Puerto de Málaga, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7148418,
+    "lon": -4.4145779
+  },
+  {
+    "name": "Santa Mónica Restaurant Sánchez Pastor",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Atrezzo",
+    "topic": "Italian, Pizza",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Terra Mia 2.0",
+    "topic": "Italian, Pizza",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Osteria Angelino dal 1899 Malaga",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Amici Pizzería Gourmet",
+    "topic": "Pizza",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "La casa del perro",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "address": "La Casa del Perro, Calle Andrés Pérez, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29008, España",
+    "city": "Málaga",
+    "lat": 36.7228683,
+    "lon": -4.4229319
+  },
+  {
+    "name": "Illari Vinos y Tapas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Mesón Alberto",
+    "topic": "Spanish",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "The Great India Halal",
+    "topic": "Indian",
+    "rating": 4.6,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Cantarrana Restaurante",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "Restaurante Cantarrana, Avenida de Ronda, Almargen, Guadalteba, Málaga, Andalucía, 29330, España",
+    "city": "Málaga",
+    "lat": 36.998459,
+    "lon": -5.0264977
+  },
+  {
+    "name": "El Envero",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.6,
+    "address": "El Envero, Calle Luis Barahona de Soto, Parque Mediterráneo, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29003, España",
+    "city": "Málaga",
+    "lat": 36.6949957,
+    "lon": -4.4435397
+  },
+  {
+    "name": "El Patio Del Ángel",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "address": "El Patio del Ángel, 4, Calle Ángel, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29008, España",
+    "city": "Málaga",
+    "lat": 36.7221152,
+    "lon": -4.4211503
+  },
+  {
+    "name": "Meson Mariano",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Antxoeta",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "1981 Restaurant Gourmet",
+    "topic": "Brew Pub, Cafe",
+    "rating": 4.9,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Santa Monica Restaurant Correo Viejo",
+    "topic": "International, Mediterranean",
+    "rating": 4.8,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Terraza De Las Flores",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Meson Iberico",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "address": "Mesón Ibérico, 27, Calle San Lorenzo, Ensanche Centro, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29001, España",
+    "city": "Málaga",
+    "lat": 36.7146773,
+    "lon": -4.4239115
+  },
+  {
+    "name": "Aire Gastrobar",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "address": "Aire Gastrobar y Restaurante, 16, Avenida de Príes, La Caleta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "city": "Málaga",
+    "lat": 36.7210213,
+    "lon": -4.4064849
+  },
+  {
+    "name": "Boca Llena Teatinos",
+    "topic": "European, Spanish",
+    "rating": 4.5,
+    "address": "Boca Llena, 10, Avenida Parménides, El Cónsul, Teatinos-Universidad, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29010, España",
+    "city": "Málaga",
+    "lat": 36.7221754,
+    "lon": -4.4801382
+  },
+  {
+    "name": "Matiz",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "No Name Restaurante",
+    "topic": "International, Mediterranean",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Madeinterranea",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.4,
+    "address": "Madeinterranea, Calle Granados, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7223693,
+    "lon": -4.4201481
+  },
+  {
+    "name": "Puerto Cristal Restaurante",
+    "topic": "Seafood, International",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Pérgola del Mediterráneo",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "address": "La Pérgola del Mediterráneo, Paseo Matías Prats, La Malagueta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7140513,
+    "lon": -4.4141199
+  },
+  {
+    "name": "La Burguesita Malaga",
+    "topic": "American, Fast Food",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Gloria Hoyos",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.5,
+    "address": "Gloria Hoyos, 89, Calle Carretería, La Goleta, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29008, España",
+    "city": "Málaga",
+    "lat": 36.7241264,
+    "lon": -4.4217963
+  },
+  {
+    "name": "Chiringuito Nuevo Mediterráneo",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "El Mesón De Cervantes",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "address": "El Mesón de Cervantes, 11, Calle Álamos, La Merced, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "city": "Málaga",
+    "lat": 36.7240319,
+    "lon": -4.4198565
+  },
+  {
+    "name": "Meet Vegano",
+    "topic": "Japanese, European",
+    "rating": 4.9,
+    "address": "Meet Vegano, 6, Calle Marín García, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "city": "Málaga",
+    "lat": 36.7192719,
+    "lon": -4.4225766
+  },
+  {
+    "name": "Candamil",
+    "topic": "European, Spanish",
+    "rating": 4.3,
+    "address": "Candamil, 15, Calle Cuarteles, El Perchel, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "city": "Málaga",
+    "lat": 36.7144723,
+    "lon": -4.4272098
+  },
+  {
+    "name": "Terra Mia",
+    "topic": "Italian, Pizza",
+    "rating": 4.5,
+    "address": "Terra Mia, Calle Molina Lario, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7212108,
+    "lon": -4.4200733
+  },
+  {
+    "name": "Pez Lola Taberna Marinera",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Restaurante Al-yamal",
+    "topic": "Moroccan, Middle Eastern",
+    "rating": 4.4,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Marisqueria Jacinto",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Beluga Málaga",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "address": "Beluga, 3, Plaza de Las Flores, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "city": "Málaga",
+    "lat": 36.720385,
+    "lon": -4.4219753
+  },
+  {
+    "name": "Restaurante Miguel",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "address": "Restaurante Don Miguel, Calle Chambel, La Cala del Moral, Rincón de la Victoria, La Axarquía, Málaga, Andalucía, 29720, España",
+    "city": "Málaga",
+    "lat": 36.7166512,
+    "lon": -4.3112177
+  },
+  {
+    "name": "La Barra Inka",
+    "topic": "Peruvian, Latin",
+    "rating": 4.6,
+    "address": "La Barra Inka By Henry Wong, 5, Plaza María Guerrero, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29013, España",
+    "city": "Málaga",
+    "lat": 36.7226515,
+    "lon": -4.4172537
+  },
+  {
+    "name": "Araboka Casa de Vinos y Comidas",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Malvón Málaga Cisneros",
+    "topic": "Argentinean",
+    "rating": 4.8,
+    "address": "Malvón, Calle Cisneros, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "city": "Málaga",
+    "lat": 36.7207324,
+    "lon": -4.4240123
+  },
+  {
+    "name": "GastroBar GallarVi",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "address": "Gastrobar Gallarvi, Avenida Salvador Allende, Echeverría del Palo, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29017, España",
+    "city": "Málaga",
+    "lat": 36.7198598,
+    "lon": -4.3626428
+  },
+  {
+    "name": "La Tranca",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.6,
+    "address": "La Tranca, 92, Calle Carretería, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29008, España",
+    "city": "Málaga",
+    "lat": 36.7241766,
+    "lon": -4.421155
+  },
+  {
+    "name": "SushiClub",
+    "topic": "Japanese, Sushi",
+    "rating": 4.6,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "La Peregrina Centro",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.4,
+    "address": "La Peregrina Centro, 37, Calle Madre de Dios, La Merced, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "city": "Málaga",
+    "lat": 36.7244609,
+    "lon": -4.4193878
+  },
+  {
+    "name": "Helas",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Picasso Bar Tapas",
+    "topic": "International, Mediterranean",
+    "rating": 4.4,
+    "address": "Picasso Bar Tapas, 20, Plaza de la Merced, La Merced, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29012, España",
+    "city": "Málaga",
+    "lat": 36.7235877,
+    "lon": -4.4169704
+  },
+  {
+    "name": "Brunchit - Museo",
+    "topic": "Cafe, International",
+    "rating": 4.9,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Restaurante Amador",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "address": "Amador, 6, Calle Bandaneira, El Atabal, Puerto de la Torre, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29190, España",
+    "city": "Málaga",
+    "lat": 36.7361506,
+    "lon": -4.4747962
+  },
+  {
+    "name": "El Vegetariano de la Alcazabilla",
+    "topic": "Spanish, Mediterranean",
+    "rating": 4.2,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Divinno",
+    "topic": "Mediterranean, European",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Sabor a Fuego",
+    "topic": "Latin, Mediterranean",
+    "rating": 4.4,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "LOS MARANGOS BEATAS - Comida Española",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Canadu Vegetariano",
+    "topic": "Mediterranean, Healthy",
+    "rating": 4.2,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Ciao Carretería 69",
+    "topic": "Italian, Pizza",
+    "rating": 4.3,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Uvedoble Taberna",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Astrid Taperia Organica",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.3,
+    "address": "Astrid Tapería Orgánica, Calle Calderón de la Barca, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29005, España",
+    "city": "Málaga",
+    "lat": 36.7203026,
+    "lon": -4.4240402
+  },
+  {
+    "name": "Óleo Restaurante",
+    "topic": "Japanese, Mediterranean",
+    "rating": 4.4,
+    "address": "Óleo Restaurante, 4, Calle Casas de Campos, Soho, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29001, España",
+    "city": "Málaga",
+    "lat": 36.7165787,
+    "lon": -4.4217637
+  },
+  {
+    "name": "Los Marangós Niño De Guevara",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Hotel Castillo de Santa Catalina",
+    "topic": "Spanish",
+    "rating": 4.8,
+    "address": "Soho Boutique Castillo de Santa Catalina, 38, Calle Ramos Carrión, Santa Paula Miramar, Este, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29016, España",
+    "city": "Málaga",
+    "lat": 36.725063,
+    "lon": -4.3940251
+  },
+  {
+    "name": "La Cordobesa",
+    "topic": "Mediterranean, Spanish",
+    "rating": 5.0,
+    "address": "Carril de la Cordobesa, Polígono Industrial La Pelusa, Carretera de Cádiz, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29002, España",
+    "city": "Málaga",
+    "lat": 36.7062712,
+    "lon": -4.4395995
+  },
+  {
+    "name": "La Farola de Orellana",
+    "topic": "Spanish",
+    "rating": 4.4,
+    "address": "La Farola de Orellana, 5, Calle Moreno Monroy, Centro Histórico, Centro, Málaga, Málaga-Costa del Sol, Málaga, Andalucía, 29015, España",
+    "city": "Málaga",
+    "lat": 36.7204689,
+    "lon": -4.4210292
+  },
+  {
+    "name": "Esquina Padilla",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "address": "",
+    "city": "Málaga"
+  },
+  {
+    "name": "Japantaco Japomex",
+    "topic": "Mexican, Japanese",
+    "rating": 4.7,
+    "address": "",
+    "city": "Málaga"
+  }
+]

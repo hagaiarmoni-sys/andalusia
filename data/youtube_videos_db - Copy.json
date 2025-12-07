@@ -1,0 +1,589 @@
+{
+  "metadata": {
+    "description": "Short YouTube videos (under 4 min) for Andalusia destinations",
+    "video_duration": "short (< 4 minutes)",
+    "generated_by": "youtube_fetcher.py"
+  },
+  "destinations": {
+    "Seville": [
+      {
+        "title": "SEVILLA FC 4 - 1 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
+        "video_id": "XRIYPfozwwI",
+        "channel": "LALIGA EA SPORTS",
+        "thumbnail_url": "https://i.ytimg.com/vi/XRIYPfozwwI/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=XRIYPfozwwI",
+        "embed_url": "https://www.youtube.com/embed/XRIYPfozwwI",
+        "short_embed": "https://youtu.be/XRIYPfozwwI"
+      },
+      {
+        "title": "ATHLETIC CLUB 3 - 2 SEVILLA FC | RESUMEN LALIGA EA SPORTS",
+        "video_id": "mHPTne26Q0I",
+        "channel": "LALIGA EA SPORTS",
+        "thumbnail_url": "https://i.ytimg.com/vi/mHPTne26Q0I/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=mHPTne26Q0I",
+        "embed_url": "https://www.youtube.com/embed/mHPTne26Q0I",
+        "short_embed": "https://youtu.be/mHPTne26Q0I"
+      },
+      {
+        "title": "Travel to Sevilla - Spain - 4K",
+        "video_id": "9-PCsRiv6Us",
+        "channel": "MarkingMyWorld",
+        "thumbnail_url": "https://i.ytimg.com/vi/9-PCsRiv6Us/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=9-PCsRiv6Us",
+        "embed_url": "https://www.youtube.com/embed/9-PCsRiv6Us",
+        "short_embed": "https://youtu.be/9-PCsRiv6Us"
+      }
+    ],
+    "Granada": [
+      {
+        "title": "Granada, Spain: The Exquisite Alhambra - Rick Steves’ Europe Travel Guide - Travel Bite",
+        "video_id": "iEseJViidy8",
+        "channel": "Rick Steves' Europe",
+        "thumbnail_url": "https://i.ytimg.com/vi/iEseJViidy8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=iEseJViidy8",
+        "embed_url": "https://www.youtube.com/embed/iEseJViidy8",
+        "short_embed": "https://youtu.be/iEseJViidy8"
+      },
+      {
+        "title": "4 Must-See Cities in Spain",
+        "video_id": "CEx2oOtCFSU",
+        "channel": "Rosetta Stone",
+        "thumbnail_url": "https://i.ytimg.com/vi/CEx2oOtCFSU/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=CEx2oOtCFSU",
+        "embed_url": "https://www.youtube.com/embed/CEx2oOtCFSU",
+        "short_embed": "https://youtu.be/CEx2oOtCFSU"
+      },
+      {
+        "title": "El pueblo más alto de España! 😱 #shorts #alto #mas #pueblo #españa #pradollano #granada #que #ver",
+        "video_id": "VDO6Kblr0-g",
+        "channel": "Doble M Vanlife",
+        "thumbnail_url": "https://i.ytimg.com/vi/VDO6Kblr0-g/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=VDO6Kblr0-g",
+        "embed_url": "https://www.youtube.com/embed/VDO6Kblr0-g",
+        "short_embed": "https://youtu.be/VDO6Kblr0-g"
+      }
+    ],
+    "Córdoba": [
+      {
+        "title": "Highlights of Nicole Marie&#39;s Travels in Spain",
+        "video_id": "q9vHk73kbfY",
+        "channel": "Nicole Marie, MFA",
+        "thumbnail_url": "https://i.ytimg.com/vi/q9vHk73kbfY/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=q9vHk73kbfY",
+        "embed_url": "https://www.youtube.com/embed/q9vHk73kbfY",
+        "short_embed": "https://youtu.be/q9vHk73kbfY"
+      },
+      {
+        "title": "Highlights TOMAS BALCIUNAS (´00) Real Madrid.- MVP Final Torneo Mezquita 2015 (BasketCantera.TV)",
+        "video_id": "DCbKH8BZCLY",
+        "channel": "BasketCantera.TV",
+        "thumbnail_url": "https://i.ytimg.com/vi/DCbKH8BZCLY/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=DCbKH8BZCLY",
+        "embed_url": "https://www.youtube.com/embed/DCbKH8BZCLY",
+        "short_embed": "https://youtu.be/DCbKH8BZCLY"
+      },
+      {
+        "title": "Cordoba, Argentina - Drone video - Droning through the hills!",
+        "video_id": "qgdIDHSaBi0",
+        "channel": "Nacho Boveri",
+        "thumbnail_url": "https://i.ytimg.com/vi/qgdIDHSaBi0/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=qgdIDHSaBi0",
+        "embed_url": "https://www.youtube.com/embed/qgdIDHSaBi0",
+        "short_embed": "https://youtu.be/qgdIDHSaBi0"
+      }
+    ],
+    "Málaga": [
+      {
+        "title": "WHAT A POINT 🤯🤯  | Padel Highlights #bestofpadel",
+        "video_id": "1IFUBKmduk8",
+        "channel": "Best Of Padel",
+        "thumbnail_url": "https://i.ytimg.com/vi/1IFUBKmduk8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=1IFUBKmduk8",
+        "embed_url": "https://www.youtube.com/embed/1IFUBKmduk8",
+        "short_embed": "https://youtu.be/1IFUBKmduk8"
+      },
+      {
+        "title": "HIGHLIGHTS | Real Madrid 4-0 Valencia | LaLiga",
+        "video_id": "0VJbnTBWvcQ",
+        "channel": "Real Madrid",
+        "thumbnail_url": "https://i.ytimg.com/vi/0VJbnTBWvcQ/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=0VJbnTBWvcQ",
+        "embed_url": "https://www.youtube.com/embed/0VJbnTBWvcQ",
+        "short_embed": "https://youtu.be/0VJbnTBWvcQ"
+      },
+      {
+        "title": "Caminito del Rey completo, El Chorro, Málaga, Spain - Filmed with a drone - Aerial video | 2017",
+        "video_id": "mQkVXAvCJQg",
+        "channel": "Lev Vakulin",
+        "thumbnail_url": "https://i.ytimg.com/vi/mQkVXAvCJQg/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=mQkVXAvCJQg",
+        "embed_url": "https://www.youtube.com/embed/mQkVXAvCJQg",
+        "short_embed": "https://youtu.be/mQkVXAvCJQg"
+      }
+    ],
+    "Ronda": [
+      {
+        "title": "Desfiladero del Tajo de Ronda - Malaga.  #drone #malaga #españa #tajo",
+        "video_id": "HufWj8y1f9U",
+        "channel": "Aventurero del Aire",
+        "thumbnail_url": "https://i.ytimg.com/vi/HufWj8y1f9U/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=HufWj8y1f9U",
+        "embed_url": "https://www.youtube.com/embed/HufWj8y1f9U",
+        "short_embed": "https://youtu.be/HufWj8y1f9U"
+      },
+      {
+        "title": "4K Drone footage.Ronda,Spain",
+        "video_id": "I6415ZBirbk",
+        "channel": "Vadim Kolobanov",
+        "thumbnail_url": "https://i.ytimg.com/vi/I6415ZBirbk/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=I6415ZBirbk",
+        "embed_url": "https://www.youtube.com/embed/I6415ZBirbk",
+        "short_embed": "https://youtu.be/I6415ZBirbk"
+      },
+      {
+        "title": "Ronda, Spain | 4K droneshots (2020)",
+        "video_id": "dbfJ9kF0xYY",
+        "channel": "De Paradijsvogels",
+        "thumbnail_url": "https://i.ytimg.com/vi/dbfJ9kF0xYY/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=dbfJ9kF0xYY",
+        "embed_url": "https://www.youtube.com/embed/dbfJ9kF0xYY",
+        "short_embed": "https://youtu.be/dbfJ9kF0xYY"
+      }
+    ],
+    "Cádiz": [
+      {
+        "title": "#CADIZ: Las Dunas de Bolonia, una MARAVILLA NATURAL en #ESPAÑA 🇪🇸 | #Viajar #Travel #Europa",
+        "video_id": "oNI1WoURiDo",
+        "channel": "Daniel en España",
+        "thumbnail_url": "https://i.ytimg.com/vi/oNI1WoURiDo/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=oNI1WoURiDo",
+        "embed_url": "https://www.youtube.com/embed/oNI1WoURiDo",
+        "short_embed": "https://youtu.be/oNI1WoURiDo"
+      },
+      {
+        "title": "Cádiz, Spain 🇪🇸 | 4K Drone Footage",
+        "video_id": "H7gZBb9CPIA",
+        "channel": "MTI Aerials",
+        "thumbnail_url": "https://i.ytimg.com/vi/H7gZBb9CPIA/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=H7gZBb9CPIA",
+        "embed_url": "https://www.youtube.com/embed/H7gZBb9CPIA",
+        "short_embed": "https://youtu.be/H7gZBb9CPIA"
+      },
+      {
+        "title": "Playa Victoria (Cádiz) a vista de drone 4K",
+        "video_id": "bNtn_MMzWcM",
+        "channel": "La costa de Cádiz",
+        "thumbnail_url": "https://i.ytimg.com/vi/bNtn_MMzWcM/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=bNtn_MMzWcM",
+        "embed_url": "https://www.youtube.com/embed/bNtn_MMzWcM",
+        "short_embed": "https://youtu.be/bNtn_MMzWcM"
+      }
+    ],
+    "Jerez": [
+      {
+        "title": "घोड़े का डांस #shorts #youtubeshorts",
+        "video_id": "QR6rOvB5BRw",
+        "channel": "manjeet chandel vlog's",
+        "thumbnail_url": "https://i.ytimg.com/vi/QR6rOvB5BRw/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=QR6rOvB5BRw",
+        "embed_url": "https://www.youtube.com/embed/QR6rOvB5BRw",
+        "short_embed": "https://youtu.be/QR6rOvB5BRw"
+      },
+      {
+        "title": "How The Andalusian Horses Dance  Show- at ADEC 10 FEB 2011.avi",
+        "video_id": "3tKXx0tuktY",
+        "channel": "adequestrianclub",
+        "thumbnail_url": "https://i.ytimg.com/vi/3tKXx0tuktY/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=3tKXx0tuktY",
+        "embed_url": "https://www.youtube.com/embed/3tKXx0tuktY",
+        "short_embed": "https://youtu.be/3tKXx0tuktY"
+      },
+      {
+        "title": "Vinos de Jerez. Las joyas enológicas de Bodegas Osborne",
+        "video_id": "Yh5h1IPb_8k",
+        "channel": "Osborne Oficial",
+        "thumbnail_url": "https://i.ytimg.com/vi/Yh5h1IPb_8k/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=Yh5h1IPb_8k",
+        "embed_url": "https://www.youtube.com/embed/Yh5h1IPb_8k",
+        "short_embed": "https://youtu.be/Yh5h1IPb_8k"
+      }
+    ],
+    "Arcos de la Frontera": [
+      {
+        "title": "Enfrentamiento entre sicarios del CDG en Tamaulipas es captado por Dron",
+        "video_id": "A7_aV7p9m2w",
+        "channel": "EXCELSIOR",
+        "thumbnail_url": "https://i.ytimg.com/vi/A7_aV7p9m2w/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=A7_aV7p9m2w",
+        "embed_url": "https://www.youtube.com/embed/A7_aV7p9m2w",
+        "short_embed": "https://youtu.be/A7_aV7p9m2w"
+      },
+      {
+        "title": "Que visitar en Arcos de la Frontera #travel #history",
+        "video_id": "PShXJhLkqh8",
+        "channel": "Localización perdida",
+        "thumbnail_url": "https://i.ytimg.com/vi/PShXJhLkqh8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=PShXJhLkqh8",
+        "embed_url": "https://www.youtube.com/embed/PShXJhLkqh8",
+        "short_embed": "https://youtu.be/PShXJhLkqh8"
+      },
+      {
+        "title": "Arco - Lo difícil (Videoclip Oficial)",
+        "video_id": "Lye3m04TRxs",
+        "channel": "Warner Music Spain",
+        "thumbnail_url": "https://i.ytimg.com/vi/Lye3m04TRxs/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=Lye3m04TRxs",
+        "embed_url": "https://www.youtube.com/embed/Lye3m04TRxs",
+        "short_embed": "https://youtu.be/Lye3m04TRxs"
+      }
+    ],
+    "Zahara de la Sierra": [
+      {
+        "title": "🎑 Zahara de la Sierra 🌄 Mountain range Zahara",
+        "video_id": "kbodACPlNUQ",
+        "channel": "Angel Caido Online",
+        "thumbnail_url": "https://i.ytimg.com/vi/kbodACPlNUQ/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=kbodACPlNUQ",
+        "embed_url": "https://www.youtube.com/embed/kbodACPlNUQ",
+        "short_embed": "https://youtu.be/kbodACPlNUQ"
+      },
+      {
+        "title": "Playa de Zahara de los Atunes #andalucia #spain #turismo #viajes #playa #cadiz #kitesurf #parati",
+        "video_id": "ZU8B0FSSlRI",
+        "channel": "smartsevilla tv",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZU8B0FSSlRI/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=ZU8B0FSSlRI",
+        "embed_url": "https://www.youtube.com/embed/ZU8B0FSSlRI",
+        "short_embed": "https://youtu.be/ZU8B0FSSlRI"
+      },
+      {
+        "title": "Bodega Descalzos Viejos, Serrania de Ronda, Malaga, Spain, VINEYARDS AND DRONE 4K",
+        "video_id": "af2jXPNEoTM",
+        "channel": "WineDron The other way to see the wine",
+        "thumbnail_url": "https://i.ytimg.com/vi/af2jXPNEoTM/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=af2jXPNEoTM",
+        "embed_url": "https://www.youtube.com/embed/af2jXPNEoTM",
+        "short_embed": "https://youtu.be/af2jXPNEoTM"
+      }
+    ],
+    "Grazalema": [
+      {
+        "title": "MARBESA CLUB - Marbella Apartments - Costa del Sol - Spain",
+        "video_id": "uD9h2IKOMYo",
+        "channel": "TheHeritageResorts",
+        "thumbnail_url": "https://i.ytimg.com/vi/uD9h2IKOMYo/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=uD9h2IKOMYo",
+        "embed_url": "https://www.youtube.com/embed/uD9h2IKOMYo",
+        "short_embed": "https://youtu.be/uD9h2IKOMYo"
+      },
+      {
+        "title": "Los pueblos más bonitos de CÁDIZ 💛",
+        "video_id": "5CY1Y7PWnIA",
+        "channel": "Márcate un Viaje",
+        "thumbnail_url": "https://i.ytimg.com/vi/5CY1Y7PWnIA/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=5CY1Y7PWnIA",
+        "embed_url": "https://www.youtube.com/embed/5CY1Y7PWnIA",
+        "short_embed": "https://youtu.be/5CY1Y7PWnIA"
+      },
+      {
+        "title": "Caza de Macho Montes en la Sierra de Grazalema HD",
+        "video_id": "jvtt4_ggPEw",
+        "channel": "Fernando Portillo",
+        "thumbnail_url": "https://i.ytimg.com/vi/jvtt4_ggPEw/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=jvtt4_ggPEw",
+        "embed_url": "https://www.youtube.com/embed/jvtt4_ggPEw",
+        "short_embed": "https://youtu.be/jvtt4_ggPEw"
+      }
+    ],
+    "Setenil de las Bodegas": [
+      {
+        "title": "Es Impresionante Ver Cómo la Legión Sube esta Cuesta en Setenil de las Bodegas.",
+        "video_id": "5KV26TPmh8Q",
+        "channel": "Vlogvid España",
+        "thumbnail_url": "https://i.ytimg.com/vi/5KV26TPmh8Q/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=5KV26TPmh8Q",
+        "embed_url": "https://www.youtube.com/embed/5KV26TPmh8Q",
+        "short_embed": "https://youtu.be/5KV26TPmh8Q"
+      },
+      {
+        "title": "A unique town built into rocks in Spain 🇪🇸📍Setenil de las Bodegas #shorts #spain #travel",
+        "video_id": "lhSNFgmRjTo",
+        "channel": "SilvanaEverywhere",
+        "thumbnail_url": "https://i.ytimg.com/vi/lhSNFgmRjTo/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=lhSNFgmRjTo",
+        "embed_url": "https://www.youtube.com/embed/lhSNFgmRjTo",
+        "short_embed": "https://youtu.be/lhSNFgmRjTo"
+      },
+      {
+        "title": "¿Te atreverías a dormir bajo una roca gigante?",
+        "video_id": "UkkzXzZHTr8",
+        "channel": "Vortex Entretenimiento",
+        "thumbnail_url": "https://i.ytimg.com/vi/UkkzXzZHTr8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=UkkzXzZHTr8",
+        "embed_url": "https://www.youtube.com/embed/UkkzXzZHTr8",
+        "short_embed": "https://youtu.be/UkkzXzZHTr8"
+      }
+    ],
+    "Frigiliana": [
+      {
+        "title": "Frigiliana Axarquía - Viaja Málaga",
+        "video_id": "yB-zw1GjCVM",
+        "channel": "Viaja Málaga",
+        "thumbnail_url": "https://i.ytimg.com/vi/yB-zw1GjCVM/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=yB-zw1GjCVM",
+        "embed_url": "https://www.youtube.com/embed/yB-zw1GjCVM",
+        "short_embed": "https://youtu.be/yB-zw1GjCVM"
+      },
+      {
+        "title": "Viñedos Verticales, Sierras de Málaga, Spain. VINEYARDS AND drone 4K",
+        "video_id": "6AvYIzXKdNA",
+        "channel": "WineDron The other way to see the wine",
+        "thumbnail_url": "https://i.ytimg.com/vi/6AvYIzXKdNA/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=6AvYIzXKdNA",
+        "embed_url": "https://www.youtube.com/embed/6AvYIzXKdNA",
+        "short_embed": "https://youtu.be/6AvYIzXKdNA"
+      },
+      {
+        "title": "Frigiliana - Light of Andalucia - Costa Del Sol, Spain",
+        "video_id": "BEXl9sD1yIE",
+        "channel": "Tweed Creations",
+        "thumbnail_url": "https://i.ytimg.com/vi/BEXl9sD1yIE/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=BEXl9sD1yIE",
+        "embed_url": "https://www.youtube.com/embed/BEXl9sD1yIE",
+        "short_embed": "https://youtu.be/BEXl9sD1yIE"
+      }
+    ],
+    "Mijas": [
+      {
+        "title": "Mijas Pueblo Spain 2016",
+        "video_id": "N9E7TcMnK6A",
+        "channel": "Right Spain",
+        "thumbnail_url": "https://i.ytimg.com/vi/N9E7TcMnK6A/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=N9E7TcMnK6A",
+        "embed_url": "https://www.youtube.com/embed/N9E7TcMnK6A",
+        "short_embed": "https://youtu.be/N9E7TcMnK6A"
+      },
+      {
+        "title": "🇪🇦 Authentic andalusian white village in Spain, Mijas Pueblo 💃 #spainwalkingtour #citywalk #spain",
+        "video_id": "kg0cji0jHcA",
+        "channel": "Spain Walking Tour",
+        "thumbnail_url": "https://i.ytimg.com/vi/kg0cji0jHcA/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=kg0cji0jHcA",
+        "embed_url": "https://www.youtube.com/embed/kg0cji0jHcA",
+        "short_embed": "https://youtu.be/kg0cji0jHcA"
+      },
+      {
+        "title": "Villa Mijas Costa",
+        "video_id": "8s85ojGq3pU",
+        "channel": "Marina Homes",
+        "thumbnail_url": "https://i.ytimg.com/vi/8s85ojGq3pU/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=8s85ojGq3pU",
+        "embed_url": "https://www.youtube.com/embed/8s85ojGq3pU",
+        "short_embed": "https://youtu.be/8s85ojGq3pU"
+      }
+    ],
+    "Alhambra": [
+      {
+        "title": "Granada, Spain: The Exquisite Alhambra - Rick Steves’ Europe Travel Guide - Travel Bite",
+        "video_id": "iEseJViidy8",
+        "channel": "Rick Steves' Europe",
+        "thumbnail_url": "https://i.ytimg.com/vi/iEseJViidy8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=iEseJViidy8",
+        "embed_url": "https://www.youtube.com/embed/iEseJViidy8",
+        "short_embed": "https://youtu.be/iEseJViidy8"
+      },
+      {
+        "title": "4 Must-See Cities in Spain",
+        "video_id": "CEx2oOtCFSU",
+        "channel": "Rosetta Stone",
+        "thumbnail_url": "https://i.ytimg.com/vi/CEx2oOtCFSU/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=CEx2oOtCFSU",
+        "embed_url": "https://www.youtube.com/embed/CEx2oOtCFSU",
+        "short_embed": "https://youtu.be/CEx2oOtCFSU"
+      },
+      {
+        "title": "La Alhambra de Granada (Highlights) - 4K UHD Walking Virtual Tour Spain 2023",
+        "video_id": "5W-02Fa_AAI",
+        "channel": "4KMINOS - virtual tour - ",
+        "thumbnail_url": "https://i.ytimg.com/vi/5W-02Fa_AAI/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=5W-02Fa_AAI",
+        "embed_url": "https://www.youtube.com/embed/5W-02Fa_AAI",
+        "short_embed": "https://youtu.be/5W-02Fa_AAI"
+      }
+    ],
+    "Caminito del Rey": [
+      {
+        "title": "Traut ihr euch?😳 #reisetipps #caminitodelrey #reiseinspo #reiseblogger #malaga #shorts",
+        "video_id": "nuB5GSGqvhQ",
+        "channel": "Frederike Alex",
+        "thumbnail_url": "https://i.ytimg.com/vi/nuB5GSGqvhQ/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=nuB5GSGqvhQ",
+        "embed_url": "https://www.youtube.com/embed/nuB5GSGqvhQ",
+        "short_embed": "https://youtu.be/nuB5GSGqvhQ"
+      },
+      {
+        "title": "Events at Caminito del Rey ❤️ Meridional Events",
+        "video_id": "fKI9LyxqhgQ",
+        "channel": "Meridional Events",
+        "thumbnail_url": "https://i.ytimg.com/vi/fKI9LyxqhgQ/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=fKI9LyxqhgQ",
+        "embed_url": "https://www.youtube.com/embed/fKI9LyxqhgQ",
+        "short_embed": "https://youtu.be/fKI9LyxqhgQ"
+      },
+      {
+        "title": "Conocer el Caminito del Rey. Ardales. Málaga",
+        "video_id": "9HJhwenwOf0",
+        "channel": "Canal Sur Turismo",
+        "thumbnail_url": "https://i.ytimg.com/vi/9HJhwenwOf0/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=9HJhwenwOf0",
+        "embed_url": "https://www.youtube.com/embed/9HJhwenwOf0",
+        "short_embed": "https://youtu.be/9HJhwenwOf0"
+      }
+    ],
+    "Alcázar Seville": [
+      {
+        "title": "Fietstour in Sevilla: Ontdek de Highlights  met Baja Bikes | Boek Nu!",
+        "video_id": "Bot_zVIA8ps",
+        "channel": "Baja Bikes",
+        "thumbnail_url": "https://i.ytimg.com/vi/Bot_zVIA8ps/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=Bot_zVIA8ps",
+        "embed_url": "https://www.youtube.com/embed/Bot_zVIA8ps",
+        "short_embed": "https://youtu.be/Bot_zVIA8ps"
+      },
+      {
+        "title": "Top 5 Things to Do in Seville, Spain 🇪🇸 #seville #spain",
+        "video_id": "zyn3bQ9in3g",
+        "channel": "Oriana Findlay",
+        "thumbnail_url": "https://i.ytimg.com/vi/zyn3bQ9in3g/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=zyn3bQ9in3g",
+        "embed_url": "https://www.youtube.com/embed/zyn3bQ9in3g",
+        "short_embed": "https://youtu.be/zyn3bQ9in3g"
+      },
+      {
+        "title": "Seville, Andalusia, Spain by Drone - 4K Video Ultra HD [HDR]",
+        "video_id": "PAtZ-FqFPNU",
+        "channel": "Travel World XP",
+        "thumbnail_url": "https://i.ytimg.com/vi/PAtZ-FqFPNU/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=PAtZ-FqFPNU",
+        "embed_url": "https://www.youtube.com/embed/PAtZ-FqFPNU",
+        "short_embed": "https://youtu.be/PAtZ-FqFPNU"
+      }
+    ],
+    "Mezquita": [
+      {
+        "title": "CÓRDOBA 🇪🇦 a Magical Place in Spain, Andalucía 💙🌺 #spain #travel #andalucia",
+        "video_id": "tmQU--mKEeQ",
+        "channel": "Spain Walking Tour",
+        "thumbnail_url": "https://i.ytimg.com/vi/tmQU--mKEeQ/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=tmQU--mKEeQ",
+        "embed_url": "https://www.youtube.com/embed/tmQU--mKEeQ",
+        "short_embed": "https://youtu.be/tmQU--mKEeQ"
+      },
+      {
+        "title": "Inside La Mezquita (Córdoba) | 360° VR Guided Tour",
+        "video_id": "05PO-z2xNCA",
+        "channel": "ESCAPE NOW",
+        "thumbnail_url": "https://i.ytimg.com/vi/05PO-z2xNCA/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=05PO-z2xNCA",
+        "embed_url": "https://www.youtube.com/embed/05PO-z2xNCA",
+        "short_embed": "https://youtu.be/05PO-z2xNCA"
+      },
+      {
+        "title": "🇪🇸 THEY TURNED A EUROPEAN MOSQUE INTO A CHURCH!",
+        "video_id": "vq2g3QyIsmY",
+        "channel": "The Sunnah Guy",
+        "thumbnail_url": "https://i.ytimg.com/vi/vq2g3QyIsmY/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=vq2g3QyIsmY",
+        "embed_url": "https://www.youtube.com/embed/vq2g3QyIsmY",
+        "short_embed": "https://youtu.be/vq2g3QyIsmY"
+      }
+    ],
+    "Sierra Nevada": [
+      {
+        "title": "Video oficial de Sierra Nevada 2016/17",
+        "video_id": "gTOq9cIEwds",
+        "channel": "Sierra Nevada",
+        "thumbnail_url": "https://i.ytimg.com/vi/gTOq9cIEwds/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=gTOq9cIEwds",
+        "embed_url": "https://www.youtube.com/embed/gTOq9cIEwds",
+        "short_embed": "https://youtu.be/gTOq9cIEwds"
+      },
+      {
+        "title": "Cuánto cuesta skiar en España 🇪🇸 Sierra Nevada Granada",
+        "video_id": "rLuw1SIicsc",
+        "channel": "Manu Guija",
+        "thumbnail_url": "https://i.ytimg.com/vi/rLuw1SIicsc/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=rLuw1SIicsc",
+        "embed_url": "https://www.youtube.com/embed/rLuw1SIicsc",
+        "short_embed": "https://youtu.be/rLuw1SIicsc"
+      },
+      {
+        "title": "Solo backpacking in the high Sierra &amp; dropping my phone in the lake #solobackpacker #solobackpacking",
+        "video_id": "YoZGd8WorHs",
+        "channel": "Kate Ventures Outdoors",
+        "thumbnail_url": "https://i.ytimg.com/vi/YoZGd8WorHs/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=YoZGd8WorHs",
+        "embed_url": "https://www.youtube.com/embed/YoZGd8WorHs",
+        "short_embed": "https://youtu.be/YoZGd8WorHs"
+      }
+    ],
+    "Doñana": [
+      {
+        "title": "Parque Nacional de Doñana 💚  50 Aniversario",
+        "video_id": "5kXbwIkldSk",
+        "channel": "Organismo Autónomo Parques Nacionales",
+        "thumbnail_url": "https://i.ytimg.com/vi/5kXbwIkldSk/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=5kXbwIkldSk",
+        "embed_url": "https://www.youtube.com/embed/5kXbwIkldSk",
+        "short_embed": "https://youtu.be/5kXbwIkldSk"
+      },
+      {
+        "title": "APROBADA con POLÉMICA la regulación de REGADÍOS en DOÑANA, declarada SOBREEXPLOTADA | RTVE Noticias",
+        "video_id": "XOWSBVGj0nU",
+        "channel": "RTVE Noticias",
+        "thumbnail_url": "https://i.ytimg.com/vi/XOWSBVGj0nU/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=XOWSBVGj0nU",
+        "embed_url": "https://www.youtube.com/embed/XOWSBVGj0nU",
+        "short_embed": "https://youtu.be/XOWSBVGj0nU"
+      },
+      {
+        "title": "Dos hermanitos de zorro jugando en la marisma de Doñana",
+        "video_id": "smAns7rasOs",
+        "channel": "Carlos Romero",
+        "thumbnail_url": "https://i.ytimg.com/vi/smAns7rasOs/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=smAns7rasOs",
+        "embed_url": "https://www.youtube.com/embed/smAns7rasOs",
+        "short_embed": "https://youtu.be/smAns7rasOs"
+      }
+    ],
+    "El Torcal": [
+      {
+        "title": "El Torcal de Antequera como nunca se había visto (Málaga, Spain)",
+        "video_id": "j056QO3sUF8",
+        "channel": "Torcal Antequera",
+        "thumbnail_url": "https://i.ytimg.com/vi/j056QO3sUF8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=j056QO3sUF8",
+        "embed_url": "https://www.youtube.com/embed/j056QO3sUF8",
+        "short_embed": "https://youtu.be/j056QO3sUF8"
+      },
+      {
+        "title": "El Torcal de Antequera. Málaga",
+        "video_id": "10ckSR7pvf4",
+        "channel": "Canal Sur Turismo",
+        "thumbnail_url": "https://i.ytimg.com/vi/10ckSR7pvf4/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=10ckSR7pvf4",
+        "embed_url": "https://www.youtube.com/embed/10ckSR7pvf4",
+        "short_embed": "https://youtu.be/10ckSR7pvf4"
+      },
+      {
+        "title": "El Torcal (Spain)",
+        "video_id": "U9uvBvFnis8",
+        "channel": "JSchiere",
+        "thumbnail_url": "https://i.ytimg.com/vi/U9uvBvFnis8/hqdefault.jpg",
+        "watch_url": "https://www.youtube.com/watch?v=U9uvBvFnis8",
+        "embed_url": "https://www.youtube.com/embed/U9uvBvFnis8",
+        "short_embed": "https://youtu.be/U9uvBvFnis8"
+      }
+    ]
+  }
+}

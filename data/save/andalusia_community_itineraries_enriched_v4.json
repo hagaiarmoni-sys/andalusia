@@ -1,0 +1,1196 @@
+{
+  "version": "4.0",
+  "last_updated": "2025-12-03",
+  "total_itineraries": 15,
+  "sources": [
+    "Reddit r/travel",
+    "Rick Steves Forum",
+    "Lametayel (Israeli forum)",
+    "TripAdvisor",
+    "Travel blogs",
+    "Family travel sites"
+  ],
+  "itineraries": [
+    {
+      "id": "classic_golden_triangle_7d",
+      "name": "Classic Golden Triangle - 7 Days",
+      "duration_days": 7,
+      "type": "Cultural Heritage",
+      "source": "Multiple travel guides",
+      "cities_visited": [
+        "Málaga",
+        "Granada",
+        "Córdoba",
+        "Seville"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "picasso_museum_malaga",
+            "malaga_cathedral",
+            "calle_larios_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "royal_chapel_granada",
+            "realejo_granada"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba",
+            "roman_bridge_cordoba"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "maria_luisa_park_seville",
+            "triana_seville",
+            "metropol_parasol_seville"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": []
+        }
+      ]
+    },
+    {
+      "id": "ronda_white_villages_8d",
+      "name": "Ronda & White Villages - 8 Days",
+      "duration_days": 8,
+      "type": "Road Trip",
+      "source": "Curious Travel Bug / Rick Steves",
+      "cities_visited": [
+        "Málaga",
+        "Ronda",
+        "Grazalema",
+        "Seville",
+        "Granada"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "gibralfaro_castle_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "caminito_del_rey",
+            "el_torcal_de_antequera"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda",
+            "ronda_bullring",
+            "old_town_ronda"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Grazalema",
+          "poi_ids_for_day": [
+            "grazalema_village",
+            "zahara_de_la_sierra",
+            "sierra_de_grazalema_natural_park"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "arcos_de_la_frontera"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville",
+            "plaza_de_espana_seville"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada",
+            "sacromonte_granada"
+          ]
+        },
+        {
+          "day_number": 8,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "train_only_7d",
+      "name": "Andalusia by Train (No Car) - 7 Days",
+      "duration_days": 7,
+      "type": "Train Travel",
+      "source": "Bon Traveler Blog",
+      "cities_visited": [
+        "Seville",
+        "Córdoba",
+        "Granada",
+        "Málaga"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "maria_luisa_park_seville"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville",
+            "casa_de_pilatos_seville"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba",
+            "alcazar_cordoba"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "granada_cathedral"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "royal_chapel_granada",
+            "sacromonte_granada",
+            "hammam_al_andalus_granada"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "alcazaba_malaga"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family_kids_6d",
+      "name": "Andalusia with Kids - 6 Days",
+      "duration_days": 6,
+      "type": "Family",
+      "source": "TraveLynn Family",
+      "cities_visited": [
+        "Málaga",
+        "Granada",
+        "Seville"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "malagueta_beach_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "parque_ciencias_granada"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "maria_luisa_park_seville"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "real_alcazar_seville",
+            "seville_cathedral",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "metropol_parasol_seville"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lametayel_israeli_9d",
+      "name": "Israeli Classic Route - 9 Days",
+      "duration_days": 9,
+      "type": "Cultural Heritage",
+      "source": "Lametayel Israeli Forum",
+      "cities_visited": [
+        "Granada",
+        "Córdoba",
+        "Seville",
+        "Ronda",
+        "Málaga"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "royal_chapel_granada",
+            "mezquita_cathedral_cordoba"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "jewish_quarter_cordoba",
+            "synagogue_cordoba",
+            "alcazar_cordoba",
+            "roman_bridge_cordoba"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "triana_seville",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda",
+            "ronda_bullring",
+            "old_town_ronda"
+          ]
+        },
+        {
+          "day_number": 8,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "grazalema_village",
+            "alcazaba_malaga"
+          ]
+        },
+        {
+          "day_number": 9,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "picasso_museum_malaga",
+            "malaga_cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comprehensive_17d",
+      "name": "Complete Andalusia - 17 Days",
+      "duration_days": 17,
+      "type": "Comprehensive",
+      "source": "Rick Steves Forum",
+      "cities_visited": [
+        "Málaga",
+        "Ronda",
+        "Gibraltar",
+        "Tarifa",
+        "Cádiz",
+        "Seville",
+        "Córdoba",
+        "Granada",
+        "Nerja"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": []
+        },
+        {
+          "day_number": 2,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "gibralfaro_castle_malaga",
+            "picasso_museum_malaga"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "caminito_del_rey",
+            "puente_nuevo_ronda"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Arcos",
+          "poi_ids_for_day": [
+            "olvera_village",
+            "setenil_de_las_bodegas",
+            "arcos_de_la_frontera"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Tarifa",
+          "poi_ids_for_day": [
+            "rock_of_gibraltar",
+            "tarifa_old_town"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Cádiz",
+          "poi_ids_for_day": [
+            "bolonia_beach",
+            "cadiz_cathedral",
+            "la_caleta_beach_cadiz"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "jerez_sherry_bodega"
+          ]
+        },
+        {
+          "day_number": 8,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville"
+          ]
+        },
+        {
+          "day_number": 9,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "metropol_parasol_seville",
+            "triana_seville"
+          ]
+        },
+        {
+          "day_number": 10,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba"
+          ]
+        },
+        {
+          "day_number": 11,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "alcazar_cordoba",
+            "roman_bridge_cordoba",
+            "patios_cordoba"
+          ]
+        },
+        {
+          "day_number": 12,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada"
+          ]
+        },
+        {
+          "day_number": 13,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "sacromonte_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 14,
+          "overnight": "Nerja",
+          "poi_ids_for_day": [
+            "frigiliana_village",
+            "nerja_caves",
+            "balcon_de_europa_nerja"
+          ]
+        },
+        {
+          "day_number": 15,
+          "overnight": "Nerja",
+          "poi_ids_for_day": [
+            "maro_beach_nerja"
+          ]
+        },
+        {
+          "day_number": 16,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "centre_pompidou_malaga",
+            "malaga_cathedral"
+          ]
+        },
+        {
+          "day_number": 17,
+          "overnight": "Departure",
+          "poi_ids_for_day": []
+        }
+      ]
+    },
+    {
+      "id": "coastal_beach_10d",
+      "name": "Costa del Sol & Beaches - 10 Days",
+      "duration_days": 10,
+      "type": "Beach",
+      "source": "Petite Suitcase",
+      "cities_visited": [
+        "Málaga",
+        "Nerja",
+        "Marbella",
+        "Tarifa",
+        "Cádiz",
+        "Seville"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "malagueta_beach_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Nerja",
+          "poi_ids_for_day": [
+            "nerja_caves",
+            "balcon_de_europa_nerja",
+            "maro_beach_nerja"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Nerja",
+          "poi_ids_for_day": [
+            "frigiliana_village"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Marbella",
+          "poi_ids_for_day": [
+            "marbella_old_town",
+            "puerto_banus_marbella"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Marbella",
+          "poi_ids_for_day": [
+            "nikki_beach_marbella"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Tarifa",
+          "poi_ids_for_day": [
+            "tarifa_old_town",
+            "tarifa_beach"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Tarifa",
+          "poi_ids_for_day": [
+            "bolonia_beach"
+          ]
+        },
+        {
+          "day_number": 8,
+          "overnight": "Cádiz",
+          "poi_ids_for_day": [
+            "cadiz_cathedral",
+            "la_caleta_beach_cadiz",
+            "old_town_cadiz"
+          ]
+        },
+        {
+          "day_number": 9,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "real_alcazar_seville",
+            "plaza_de_espana_seville"
+          ]
+        },
+        {
+          "day_number": 10,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "seville_cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hub_torremolinos_7d",
+      "name": "Torremolinos Hub Trip - 7 Days",
+      "duration_days": 7,
+      "type": "Hub & Spoke",
+      "source": "Lametayel Israeli Forum",
+      "cities_visited": [
+        "Torremolinos",
+        "Granada",
+        "Córdoba",
+        "Ronda",
+        "Gibraltar",
+        "Seville",
+        "Málaga"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "torremolinos_beach"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "albaicin_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba",
+            "roman_bridge_cordoba"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda",
+            "mijas_village"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "rock_of_gibraltar"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Torremolinos",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "real_alcazar_seville",
+            "plaza_de_espana_seville"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "alcazaba_malaga",
+            "picasso_museum_malaga"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adventure_hiking_8d",
+      "name": "Adventure & Hiking - 8 Days",
+      "duration_days": 8,
+      "type": "Adventure",
+      "source": "Hiking blogs",
+      "cities_visited": [
+        "Málaga",
+        "El Chorro",
+        "Antequera",
+        "Ronda",
+        "Grazalema",
+        "Granada"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "gibralfaro_castle_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "El Chorro",
+          "poi_ids_for_day": [
+            "caminito_del_rey",
+            "el_chorro_lakes"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Antequera",
+          "poi_ids_for_day": [
+            "el_torcal_de_antequera",
+            "antequera_dolmens"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda",
+            "ronda_gorge_trail"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Grazalema",
+          "poi_ids_for_day": [
+            "sierra_de_grazalema_natural_park",
+            "pinsapar_hike"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "albaicin_granada"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "sierra_nevada_national_park"
+          ]
+        },
+        {
+          "day_number": 8,
+          "overnight": "Departure",
+          "poi_ids_for_day": []
+        }
+      ]
+    },
+    {
+      "id": "food_wine_7d",
+      "name": "Food & Wine Gastronomy - 7 Days",
+      "duration_days": 7,
+      "type": "Gastronomy",
+      "source": "Food travel blogs",
+      "cities_visited": [
+        "Málaga",
+        "Córdoba",
+        "Seville",
+        "Jerez",
+        "Cádiz"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Málaga",
+          "poi_ids_for_day": [
+            "atarazanas_market_malaga"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "triana_market_seville",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "real_alcazar_seville"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Jerez",
+          "poi_ids_for_day": [
+            "bodegas_tio_pepe_jerez",
+            "jerez_old_town"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Cádiz",
+          "poi_ids_for_day": [
+            "cadiz_central_market",
+            "la_caleta_beach_cadiz"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": []
+        }
+      ]
+    },
+    {
+      "id": "romantic_honeymoon_7d",
+      "name": "Romantic Honeymoon - 7 Days",
+      "duration_days": 7,
+      "type": "Romance",
+      "source": "Honeymoon sites",
+      "cities_visited": [
+        "Granada",
+        "Ronda",
+        "Seville"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "hammam_al_andalus_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "puente_nuevo_ronda"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Ronda",
+          "poi_ids_for_day": [
+            "old_town_ronda"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "real_alcazar_seville",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quick_highlights_5d",
+      "name": "Quick Highlights - 5 Days",
+      "duration_days": 5,
+      "type": "Express",
+      "source": "Genuine Andalusia",
+      "cities_visited": [
+        "Seville",
+        "Córdoba",
+        "Granada"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "seville_cathedral",
+            "giralda_seville",
+            "real_alcazar_seville"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "plaza_de_espana_seville",
+            "casa_de_pilatos_seville",
+            "triana_seville"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "royal_chapel_granada"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ubeda_baeza_renaissance_6d",
+      "name": "Renaissance Cities (Úbeda & Baeza) - 6 Days",
+      "duration_days": 6,
+      "type": "Cultural Heritage",
+      "source": "UNESCO heritage guides",
+      "cities_visited": [
+        "Granada",
+        "Úbeda",
+        "Baeza",
+        "Córdoba"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "generalife_gardens_granada"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "albaicin_granada",
+            "royal_chapel_granada",
+            "mirador_san_nicolas_granada"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Úbeda",
+          "poi_ids_for_day": [
+            "ubeda_plaza_vazquez_molina",
+            "sacra_capilla_salvador_ubeda"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Baeza",
+          "poi_ids_for_day": [
+            "baeza_cathedral",
+            "baeza_old_university",
+            "jabalquinto_palace_baeza"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Córdoba",
+          "poi_ids_for_day": [
+            "mezquita_cathedral_cordoba",
+            "jewish_quarter_cordoba"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "roman_bridge_cordoba",
+            "alcazar_cordoba"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "almeria_desert_coast_7d",
+      "name": "Almería Desert & Coast - 7 Days",
+      "duration_days": 7,
+      "type": "Nature & Beach",
+      "source": "Off-beaten-path blogs",
+      "cities_visited": [
+        "Almería",
+        "Cabo de Gata",
+        "Granada",
+        "Guadix"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Almería",
+          "poi_ids_for_day": [
+            "alcazaba_almeria",
+            "almeria_cathedral"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Cabo de Gata",
+          "poi_ids_for_day": [
+            "cabo_de_gata_natural_park",
+            "playa_monsul"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Cabo de Gata",
+          "poi_ids_for_day": [
+            "san_jose_village",
+            "playa_genoveses"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Almería",
+          "poi_ids_for_day": [
+            "tabernas_desert",
+            "mini_hollywood"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Guadix",
+          "poi_ids_for_day": [
+            "guadix_cave_houses",
+            "guadix_cathedral"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "alhambra_granada",
+            "albaicin_granada"
+          ]
+        },
+        {
+          "day_number": 7,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "mirador_san_nicolas_granada"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flamenco_culture_6d",
+      "name": "Flamenco & Culture Trail - 6 Days",
+      "duration_days": 6,
+      "type": "Cultural",
+      "source": "Flamenco travel guides",
+      "cities_visited": [
+        "Seville",
+        "Jerez",
+        "Cádiz",
+        "Granada"
+      ],
+      "daily_plan": [
+        {
+          "day_number": 1,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "museo_baile_flamenco_seville",
+            "triana_seville"
+          ]
+        },
+        {
+          "day_number": 2,
+          "overnight": "Seville",
+          "poi_ids_for_day": [
+            "real_alcazar_seville",
+            "santa_cruz_seville"
+          ]
+        },
+        {
+          "day_number": 3,
+          "overnight": "Jerez",
+          "poi_ids_for_day": [
+            "centro_andaluz_flamenco_jerez",
+            "royal_equestrian_school_jerez"
+          ]
+        },
+        {
+          "day_number": 4,
+          "overnight": "Cádiz",
+          "poi_ids_for_day": [
+            "cadiz_old_town",
+            "la_caleta_beach_cadiz"
+          ]
+        },
+        {
+          "day_number": 5,
+          "overnight": "Granada",
+          "poi_ids_for_day": [
+            "sacromonte_granada",
+            "albaicin_granada"
+          ]
+        },
+        {
+          "day_number": 6,
+          "overnight": "Departure",
+          "poi_ids_for_day": [
+            "alhambra_granada"
+          ]
+        }
+      ]
+    }
+  ]
+}

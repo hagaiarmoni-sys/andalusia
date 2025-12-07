@@ -1,0 +1,760 @@
+[
+  {
+    "name": "Palacio Andaluz Almona",
+    "topic": "3,029 Moroccan",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "Palacio Andaluz Tetería Almona, 1, Placeta Almona del Albaicín, Albaicín Alto, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1828394,
+    "lon": -3.5939594
+  },
+  {
+    "name": "La Telefonica",
+    "topic": "2,446 Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": "La Telefónica, Calle Arco de las Orejas, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1745782,
+    "lon": -3.5999796
+  },
+  {
+    "name": "d'Sano",
+    "topic": "782 Cafe",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "D'Sano, 24, Calle San Jerónimo, Barrio de San Jerónimo, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1780093,
+    "lon": -3.6008782
+  },
+  {
+    "name": "Flamenco Granada - Tablao Jardines de Zoraya",
+    "topic": "5,451 Steakhouse, Mediterranean",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Betula Nana",
+    "topic": "158 Spanish, Healthy",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": "Betula Nana, Calle Málaga, Barrio de la Duquesa, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1771687,
+    "lon": -3.6022721
+  },
+  {
+    "name": "La Autentica Carmela",
+    "topic": "3,606 International, Mediterranean",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "El Mercader",
+    "topic": "2,004 International, Mediterranean",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "El Mercader, 2, Calle Imprenta, Albaicín Bajo, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1771648,
+    "lon": -3.5962852
+  },
+  {
+    "name": "La Nonna Carmela",
+    "topic": "545 Italian, Pizza",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "La Nonna Carmela, Calle Arco de las Cucharas, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1750089,
+    "lon": -3.6000882
+  },
+  {
+    "name": "Antojitos Mexican Food",
+    "topic": "3,388 Mexican, Latin",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Papas Elvira",
+    "topic": "565 Lebanese, Moroccan",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "Papas Elvira, 9, Calle Elvira, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1770174,
+    "lon": -3.5968852
+  },
+  {
+    "name": "Castillo de Aleppo",
+    "topic": "277 Healthy, Middle Eastern",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Aisushi Restaurante Arabial",
+    "topic": "3,203 Japanese, Sushi",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "Aisushi, 54, Calle Arabial, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18004, España",
+    "lat": 37.1734566,
+    "lon": -3.6092394
+  },
+  {
+    "name": "El Pescaito De Carmela",
+    "topic": "3,398 Seafood, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "El Pescaíto de Carmela, 12, Calle Marqués de Gerona, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1757342,
+    "lon": -3.6008349
+  },
+  {
+    "name": "Margarita Empanadas Argentinas - Granada Centro",
+    "topic": "101 Fast Food, Argentinean",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Faralá",
+    "topic": "928 International, Mediterranean",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "Faralā, Cuesta de Gomérez, El Mauror, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1763791,
+    "lon": -3.5952342
+  },
+  {
+    "name": "Reverso gastrobar",
+    "topic": "118 Mexican, Mediterranean",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "La Cuchara De Carmela",
+    "topic": "1,850 Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "La Cuchara de Carmela, 1, Paseo de los Basilios, Ciudad Jardín, Cervantes, Genil, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1679198,
+    "lon": -3.5957596
+  },
+  {
+    "name": "Margarita Empanadas Argentinas - Jardín De La Reina Granada",
+    "topic": "348 Fast Food, Street Food",
+    "rating": 5.0,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Divino Ristorante Italiano",
+    "topic": "782 Italian, European",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "La Piccola Carmela",
+    "topic": "945 Italian, Pizza",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": "La Piccola Carmela, 63, Calle Reyes Católicos, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1763936,
+    "lon": -3.5967522
+  },
+  {
+    "name": "Pizzeria Tradizione Italiana",
+    "topic": "305 Italian, Pizza",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "La Taberna de Kafka",
+    "topic": "245 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": "La Taberna de Kafka, 2, Calle Huete, Realejo, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1724507,
+    "lon": -3.5918808
+  },
+  {
+    "name": "Restaurante Cala",
+    "topic": "305 Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Versos Sueltos",
+    "topic": "177 International, Mediterranean",
+    "rating": 5.0,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Pilar del Toro",
+    "topic": "652 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "Pilar del Toro, Calle Hospital de Santa Ana, La Almanzora, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1769834,
+    "lon": -3.5949756
+  },
+  {
+    "name": "Apö Restaurante",
+    "topic": "568 Steakhouse, Mediterranean",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": "Apo, Calle Parra Baja, San Lázaro, Plaza Toros - Doctores - San Lázaro, Beiro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18012, España",
+    "lat": 37.1863182,
+    "lon": -3.6056532
+  },
+  {
+    "name": "El Trillo Restaurante Granada",
+    "topic": "3,240 Mediterranean, European",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "El Trillo, Callejón Aljibe de Trillo, Albaicín Bajo, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1798049,
+    "lon": -3.5933824
+  },
+  {
+    "name": "Capitán Amargo Craft Beer Bar",
+    "topic": "359 Bar, European",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Taberna La Zarzamora",
+    "topic": "372 Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Docetrescientos",
+    "topic": "142 Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "MenuImaginative food with excellent presentation. GranadaPalacio Andaluz Almona",
+    "topic": "3,029 Moroccan",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "El Quejio Wine-bar",
+    "topic": "108 Spanish, Wine Bar",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Cacho & Pepe",
+    "topic": "1,441 Italian, Mediterranean",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "cacho&pepe, Calle Colcha, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1758693,
+    "lon": -3.5965646
+  },
+  {
+    "name": "Escuela de Hosteleria La Inmaculada",
+    "topic": "203 International, Mediterranean",
+    "rating": 5.0,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "KIĀTO",
+    "topic": "368 Japanese, Sushi",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "La Gramola",
+    "topic": "105 Bar, Cafe",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": "Karaoke La Gramola, Calle Ancha de Gracia, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1720947,
+    "lon": -3.6052349
+  },
+  {
+    "name": "Tocateja",
+    "topic": "371 Spanish, Wine Bar",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Tocateja, Calle Trinidad, Barrio de la Duquesa, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1768847,
+    "lon": -3.6015902
+  },
+  {
+    "name": "El Orejas Cocinalenta",
+    "topic": "79 Steakhouse, Mediterranean",
+    "rating": 4.9,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Fogón de Galicia",
+    "topic": "2,083 Spanish",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "El Rincón De Julio",
+    "topic": "319 Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Borsalino",
+    "topic": "444 Bar, Cafe",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Borsalino, Calle Curro Cúchares, Albayda, La Cruz, Beiro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18014, España",
+    "lat": 37.1955584,
+    "lon": -3.6101428
+  },
+  {
+    "name": "Entrebrasas Granada",
+    "topic": "1,836 Steakhouse, Bar",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "EntreBrasas, 27, Calle Navas, La Manigua, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1737106,
+    "lon": -3.5984501
+  },
+  {
+    "name": "Asador Contrapunto",
+    "topic": "300 Steakhouse, Barbecue",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Carmen El Agua",
+    "topic": "1,277 International, Fusion",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Meson El Cordobes De Jose Peregrina",
+    "topic": "836 Seafood, Mediterranean",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": "Mesón El Cordobés de José Peregrina, 5, Calle Artesano Molero, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18004, España",
+    "lat": 37.1809471,
+    "lon": -3.6147491
+  },
+  {
+    "name": "Carmen de Aben Humeya",
+    "topic": "782 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Bar Poe",
+    "topic": "602 Bar, Spanish",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Bar Poë, 40, Calle Verónica de la Magdalena, Barrio de la Magdalena, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1743831,
+    "lon": -3.6034446
+  },
+  {
+    "name": "Pizzería Bella Ciao",
+    "topic": "243 Italian, Pizza",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": "Pizzería Bella Ciao, 1, Calle Músico Vicente Zarzo, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1726275,
+    "lon": -3.6050995
+  },
+  {
+    "name": "Aylin Art Cuisine",
+    "topic": "150 Steakhouse, Mediterranean",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": "Aylin Art Cuisine, 12, Avenida de Madrid, Barrio del Hospital Real, San Ildefonso, Beiro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18012, España",
+    "lat": 37.1845495,
+    "lon": -3.6042959
+  },
+  {
+    "name": "Atelier Casa de Comidas",
+    "topic": "429 Mediterranean, European",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Bar Avila",
+    "topic": "1,145 Bar, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Ávila, 16, Calle Verónica de la Virgen, Barrio de San Antón, Fígares, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18005, España",
+    "lat": 37.1700208,
+    "lon": -3.5990908
+  },
+  {
+    "name": "Bongo",
+    "topic": "543 International, Mediterranean",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Bongo, 2, Plaza de Isabel la Católica, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1756323,
+    "lon": -3.596726
+  },
+  {
+    "name": "Negro Carbón Albayzín",
+    "topic": "1,459 Steakhouse, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Pizzeria La Nonna",
+    "topic": "483 Italian, Pizza",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": "Pizzería La Nonna, Calle Doctor Fleming, Doctores, Plaza Toros - Doctores - San Lázaro, Beiro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18012, España",
+    "lat": 37.1905376,
+    "lon": -3.6094694
+  },
+  {
+    "name": "La Riviera",
+    "topic": "1,832 Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "La Riviera, Calle Cetti Meriem, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1773099,
+    "lon": -3.5975753
+  },
+  {
+    "name": "La Pajuana",
+    "topic": "457 Bar, Mediterranean",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Biloba",
+    "topic": "749 International, Mediterranean",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Carmen Mirador de Aixa",
+    "topic": "1,051 Mediterranean, European",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Estrellas de San Nicolás",
+    "topic": "2,373 Spanish",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Estrellas de San Nicolás, 1, Callejón Atarazana Vieja, Albaicín Alto, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1811465,
+    "lon": -3.5923587
+  },
+  {
+    "name": "Casa Gabriel",
+    "topic": "536 Steakhouse, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Casa Gabriel, 29, Calle Pagés, Albaicín Alto, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1838123,
+    "lon": -3.5933384
+  },
+  {
+    "name": "Restaurante Vegano Hicuri",
+    "topic": "968 European, Spanish",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Restaurante Vegano Hicuri, 4, Plaza de los Girones, El Mauror, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1741865,
+    "lon": -3.5950216
+  },
+  {
+    "name": "Thai w soya.Great vegetarian (vegan) foodPalacio Andaluz Almona",
+    "topic": "3,029 Moroccan",
+    "rating": 4.8,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Los Diamantes - Navas",
+    "topic": "5,651 Bar, Seafood",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "Bar Los Diamantes, 28, Calle Navas, La Manigua, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1737296,
+    "lon": -3.5983333
+  },
+  {
+    "name": "Taberna La Tana",
+    "topic": "1,441 European, Bar",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Taberna La Tana, 3, Placeta del Agua, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1727477,
+    "lon": -3.5960907
+  },
+  {
+    "name": "Om-Kalsum",
+    "topic": "355 Moroccan, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Rincon De Rodri",
+    "topic": "514 Seafood, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "El Rincón de Rodri, Calle Músico Vicente Zarzo, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1724596,
+    "lon": -3.6053837
+  },
+  {
+    "name": "Restaurante Las Tomasas",
+    "topic": "718 Bar",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "Restaurante Las Tomasas, 4, Carril de San Agustín, Albaicín Alto, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.180852,
+    "lon": -3.5908443
+  },
+  {
+    "name": "Pimienta Rosa",
+    "topic": "204 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Pimienta Rosa, Plaza Pescadería, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1756573,
+    "lon": -3.6003892
+  },
+  {
+    "name": "Samarkanda libanés",
+    "topic": "356 Lebanese",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "La Botilleria",
+    "topic": "1,442 Mediterranean, European",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "La Botillería, 10, Calle Varela, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1730062,
+    "lon": -3.5962494
+  },
+  {
+    "name": "Perromedio",
+    "topic": "245 Mediterranean, European",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": "Perromedio, Plaza del Carmen, La Manigua, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1738317,
+    "lon": -3.5986803
+  },
+  {
+    "name": "Restaurante Arrayanes",
+    "topic": "1,472 African, Moroccan",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": "Arrayanes, Cuesta de Marañas, Albaicín Bajo, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1781507,
+    "lon": -3.5968602
+  },
+  {
+    "name": "Restaurante Parador de Granada",
+    "topic": "868 Spanish, Healthy",
+    "rating": 4.1,
+    "city": "Granada",
+    "address": "El Parador, Carretera de Cúllar a Puebla de Don Fadrique por Huéscar, San Miguel - Puente de Hierro, Galera, Comarca de Huéscar, Granada, Andalucía, 18840, España",
+    "lat": 37.755645,
+    "lon": -2.5521968
+  },
+  {
+    "name": "Avila II Bar Tapas",
+    "topic": "608 Bar, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Ruta del Azafrán",
+    "topic": "1,521 International, Mediterranean",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Ruta del Azafrán, 1, Paseo del Padre Manjón, San Pedro, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1788448,
+    "lon": -3.5902914
+  },
+  {
+    "name": "Bar Casa Julio",
+    "topic": "855 Bar, Mediterranean",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": "Bar Casa Julio, Plaza de Bib-Rambla, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España",
+    "lat": 37.1755791,
+    "lon": -3.6001001
+  },
+  {
+    "name": "Bar Los Diamantes II",
+    "topic": "802 Bar, Seafood",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": "Los Diamantes II, 2, Calle Virgen del Rosario, La Manigua, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1726272,
+    "lon": -3.596128
+  },
+  {
+    "name": "Taberna malvasía",
+    "topic": "309 Mediterranean, European",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Taberna Malvasía, 10, Calle Virgen del Rosario, La Manigua, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1727459,
+    "lon": -3.5962939
+  },
+  {
+    "name": "Los Diamantes - Plaza Nueva",
+    "topic": "2,044 Spanish",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Los Diamantes, 13, Plaza Nueva, La Almanzora, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1765964,
+    "lon": -3.595953
+  },
+  {
+    "name": "Rabo de Nube",
+    "topic": "695 Mediterranean, European",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Rabo de Nube, 1, Paseo del Padre Manjón, San Pedro, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1788942,
+    "lon": -3.5901061
+  },
+  {
+    "name": "Mirador de Morayma",
+    "topic": "1,010 Mediterranean, European",
+    "rating": 4.1,
+    "city": "Granada",
+    "address": "Mirador de Morayma, 2, Calle Pianista García Carrillo, San Pedro, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1808972,
+    "lon": -3.5895555
+  },
+  {
+    "name": "Bar Aixa",
+    "topic": "574 Bar, Mediterranean",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Bar Aixa, 5, Plaza Larga, Albaicín Alto, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1827193,
+    "lon": -3.5931544
+  },
+  {
+    "name": "Damasqueros",
+    "topic": "919 International, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Damasqueros, 3, Calle Damasqueros, El Mauror, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1744323,
+    "lon": -3.5940748
+  },
+  {
+    "name": "El Picoteo Casa Torcuato",
+    "topic": "229 Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Sitarilla",
+    "topic": "534 Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "La Sitarilla, Calle San Miguel Alta, Barrio de la Magdalena, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1733955,
+    "lon": -3.6036013
+  },
+  {
+    "name": "Gloria Benedetta Italian food",
+    "topic": "457 Italian, Pizza",
+    "rating": 4.7,
+    "city": "Granada",
+    "address": ""
+  },
+  {
+    "name": "Ossobuco Ristorante Granada",
+    "topic": "195 Italian, Mediterranean",
+    "rating": 4.5,
+    "city": "Granada",
+    "address": "Ristorante Ossobuco, 19, Calle Carrera del Darro, Albaicín Bajo, Albaicín, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1780772,
+    "lon": -3.5936546
+  },
+  {
+    "name": "Restaurante Jardines Alberto",
+    "topic": "996 Mediterranean, European",
+    "rating": 4.0,
+    "city": "Granada",
+    "address": "Jardines Alberto, Paseo del Generalife, Barranco del Abogado, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1741866,
+    "lon": -3.5852181
+  },
+  {
+    "name": "La Vinoteca",
+    "topic": "1,406 Mediterranean, European",
+    "rating": 4.4,
+    "city": "Granada",
+    "address": "La Vinoteca, Calle Joaquín Costa, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18010, España",
+    "lat": 37.1769027,
+    "lon": -3.5974512
+  },
+  {
+    "name": "Masae",
+    "topic": "564 Japanese, International",
+    "rating": 4.6,
+    "city": "Granada",
+    "address": "Masae, 8, Calle General Narváez, Ronda, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18002, España",
+    "lat": 37.1719857,
+    "lon": -3.6035747
+  },
+  {
+    "name": "Rosario Varela",
+    "topic": "1,448 Bar, Mediterranean",
+    "rating": 4.2,
+    "city": "Granada",
+    "address": "Rosario Varela, 10, Calle Varela, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.1728882,
+    "lon": -3.5963634
+  },
+  {
+    "name": "Wild Food",
+    "topic": "379 European, Healthy",
+    "rating": 4.3,
+    "city": "Granada",
+    "address": "Wild Food, 5, Plaza de Isabel la Católica, San Matías, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",
+    "lat": 37.175414,
+    "lon": -3.5972211
+  }
+]

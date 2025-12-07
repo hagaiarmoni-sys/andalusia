@@ -1,0 +1,710 @@
+[
+  {
+    "name": "Asador Puntaparrilla",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": "Asador Puntaparrilla, Paseo Marítimo, Cortadura, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11011, España",
+    "lat": 36.4960588,
+    "lon": -6.2718923
+  },
+  {
+    "name": "Restaurante Puerta del Edén",
+    "topic": "Moroccan, Mediterranean",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Santa Catrina",
+    "topic": "Mexican, Latin",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "La Mafia Se Sienta A La Mesa",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": "La mafia se sienta a la mesa, 5, Glorieta Ana Orantes, La Laguna, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11010, España",
+    "lat": 36.5060683,
+    "lon": -6.2783459
+  },
+  {
+    "name": "Fogón De Mariana",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": "El Fogón de Mariana, Ronda de la Aurora Boreal, San Juan de Dios, Jerez de la Frontera, Campiña de Jerez, Cádiz, Andalucía, 11404, España",
+    "lat": 36.6939226,
+    "lon": -6.1599034
+  },
+  {
+    "name": "Ancá Lidia",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Bar Nono",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Bar nono, Calle Doctor Marañón, La Viña, Distrito 4, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11002, España",
+    "lat": 36.5331394,
+    "lon": -6.3049231
+  },
+  {
+    "name": "Sibuya Urban Sushi Bar Cádiz",
+    "topic": "Japanese, Sushi",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Nëbula Restaurante",
+    "topic": "Italian, Pizza",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": "Nebula Gastrobar, 15, Calle Plocia, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5294315,
+    "lon": -6.2910315
+  },
+  {
+    "name": "Confusione Pizza & Bar",
+    "topic": "Italian, Pizza",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Confusione Pizza & Bar, 21, Calle Buenos Aires, San Carlos, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11002, España",
+    "lat": 36.5360568,
+    "lon": -6.2974367
+  },
+  {
+    "name": "Sonámbulo",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Bar La Ola",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": "La Ola, Calle Calderón de la Barca, Carretera de la Carraca, San Fernando, Bahía de Cádiz, Cádiz, Andalucía, 11100, España",
+    "lat": 36.4647055,
+    "lon": -6.1990887
+  },
+  {
+    "name": "Bar Mediterráneo",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": "Mediterráneo, 1, Plaza de Mina, San Francisco, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11004, España",
+    "lat": 36.5348943,
+    "lon": -6.2974727
+  },
+  {
+    "name": "A Plomo Cádiz",
+    "topic": "Mediterranean, European",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": "Calle Plomo, Parque Comercial Europa, Jerez de la Frontera, Campiña de Jerez, Cádiz, Andalucía, 11405, España",
+    "lat": 36.6993323,
+    "lon": -6.1124762
+  },
+  {
+    "name": "Restaurante EntreCastillos",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Casa Lazo",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Casa Lazo, Calle Barrié, San Francisco, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5324711,
+    "lon": -6.2969093
+  },
+  {
+    "name": "Código de Barra",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Contraseña, 12 D, Plaza Candelaria, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5311327,
+    "lon": -6.2956033
+  },
+  {
+    "name": "La Mafia se Sienta a la Mesa - Cádiz Centro",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "La Candela",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": "La Candela, 3, Calle Feduchy, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5318117,
+    "lon": -6.2951914
+  },
+  {
+    "name": "Sushi Panda Cádiz Avenida",
+    "topic": "Japanese, Sushi",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": "Sushi Panda, Avenida Cayetano del Toro, La Laguna, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11010, España",
+    "lat": 36.5053599,
+    "lon": -6.2762524
+  },
+  {
+    "name": "La Veganesa",
+    "topic": "Mediterranean, European",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "La veganesa, 5, Calle San Antonio Abad, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5290559,
+    "lon": -6.2933804
+  },
+  {
+    "name": "Mesón Cumbres Mayores",
+    "topic": "Spanish, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "El Garbanzo Negro",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Ventorrillo El Chato",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "La Isleta de la Viña",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "La Isleta de la Viña, 54, Calle Corralón de los Carros, La Viña, Distrito 4, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11002, España",
+    "lat": 36.5300599,
+    "lon": -6.3030104
+  },
+  {
+    "name": "Musalima",
+    "topic": "Mediterranean, Fusion",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Musalima, Calle Brasil, Trille, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11009, España",
+    "lat": 36.5073676,
+    "lon": -6.2791134
+  },
+  {
+    "name": "El Viajero Del Merkao",
+    "topic": "International, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Restaurante Arsenio Manila",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Arsenio Manila, Paseo Marítimo, Cortadura, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11010, España",
+    "lat": 36.5027322,
+    "lon": -6.2759582
+  },
+  {
+    "name": "Restaurante Alamar",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Alamar, Calle Plocia, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5297347,
+    "lon": -6.2913188
+  },
+  {
+    "name": "Atxuri",
+    "topic": "European, Spanish",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "Restaurante Atxuri, Calle Suárez de Salazar, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11004, España",
+    "lat": 36.5297113,
+    "lon": -6.2915783
+  },
+  {
+    "name": "Restaurante Café Royalty",
+    "topic": "Spanish",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Recreo Chico",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Recreo Chico, Calle Ancha, San Francisco, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11003, España",
+    "lat": 36.5340273,
+    "lon": -6.2982762
+  },
+  {
+    "name": "Beach Club Potito",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Chiringuito El Potito",
+    "topic": "Spanish",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Salicornia",
+    "topic": "International, Mediterranean",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Salicornia, 2, Calle Plocia, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.529948,
+    "lon": -6.291655
+  },
+  {
+    "name": "Casa Manteca",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Casa Manteca, 66, Calle Corralón de los Carros, La Viña, Distrito 4, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11002, España",
+    "lat": 36.5300525,
+    "lon": -6.3035926
+  },
+  {
+    "name": "Más Que La Cresta",
+    "topic": "Mexican, Latin",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": "Más que la Cresta, 2B, Calle Novena, San Francisco, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5328053,
+    "lon": -6.2969437
+  },
+  {
+    "name": "Meson La Cuesta",
+    "topic": "Seafood, Spanish",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Meson la cuesta, 16, Calle Sacramento, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.531454,
+    "lon": -6.2972564
+  },
+  {
+    "name": "Restaurante Balandro",
+    "topic": "Mediterranean, European",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "El Balandro, Paseo Alameda Clara Campoamor, San Carlos, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11004, España",
+    "lat": 36.5363229,
+    "lon": -6.2957843
+  },
+  {
+    "name": "Restaurante La Despensa",
+    "topic": "Spanish",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "La despensa, Avenida Alcalde Manuel de la Pinta, Santa María del Mar, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11008, España",
+    "lat": 36.5172822,
+    "lon": -6.2855998
+  },
+  {
+    "name": "Bar El Laurel",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Bar El Laurel, Calle Doctor Dacarrete, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5306662,
+    "lon": -6.2958862
+  },
+  {
+    "name": "Casa Rafael Vinos Y Tapas",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Contraseña by Código de Barra",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Bar El Merodio",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Dosbocados",
+    "topic": "Fast Food, Mediterranean",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Taberna la Sorpresa",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Taberna La Sorpresa, 4, Calle Arbolí, San Juan, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5303497,
+    "lon": -6.2966174
+  },
+  {
+    "name": "Septima Malta",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Séptima Malta, Calle San Antonio Abad, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5295183,
+    "lon": -6.29325
+  },
+  {
+    "name": "Bebo Los Vientos",
+    "topic": "Mediterranean, European",
+    "rating": 4.0,
+    "city": "Cadiz",
+    "address": "Bebo los vientos, Paseo Marítimo, Cortadura, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11010, España",
+    "lat": 36.5022833,
+    "lon": -6.2760155
+  },
+  {
+    "name": "Taberna El Tio de la Tiza",
+    "topic": "Spanish, Healthy",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Bar La Tabernita",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "On Egin Cocina Vasca",
+    "topic": "Mediterranean, European",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "La Tapería de Columela",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.0,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Meson Casa Antonio",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Restaurante El Faro de Cádiz",
+    "topic": "Seafood, Mediterranean",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "Restaurante El Faro, Plaza del Faro, Barbate, La Janda, Cádiz, Andalucía, 11160, España",
+    "lat": 36.1869861,
+    "lon": -5.9240577
+  },
+  {
+    "name": "Gadisushi",
+    "topic": "Japanese, Sushi",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Gades tapas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "La Tapita de Plata",
+    "topic": "Bars & Pubs, Mediterranean",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": "La tapita de plata, 12, Calle Sacramento, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5312983,
+    "lon": -6.2967411
+  },
+  {
+    "name": "San Wich",
+    "topic": "American",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Bollywood Indian Restaurant Cadiz",
+    "topic": "Indian, Asian",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Bollywood Indian Restaurant, Carretera de la Barrosa, Complejo Atlántico, La Barrosa, Chiclana de la Frontera, Bahía de Cádiz, Cádiz, Andalucía, 11139, España",
+    "lat": 36.3697776,
+    "lon": -6.1793021
+  },
+  {
+    "name": "Beduino",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Taberna Almarcén",
+    "topic": "Spanish, Healthy",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Garum",
+    "topic": "Mediterranean, European",
+    "rating": 4.0,
+    "city": "Cadiz",
+    "address": "Garum, Calle Plocia, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5298587,
+    "lon": -6.2915524
+  },
+  {
+    "name": "Almanaque Casa de Comidas",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Venta El Casaron",
+    "topic": "Spanish",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": "Venta El Casarón, A-2225, Población Rural de San José de Malcocinado y Los Badalejos, Los Badalejos, Medina Sidonia, La Janda, Cádiz, Andalucía, 11179, España",
+    "lat": 36.3735948,
+    "lon": -5.8755059
+  },
+  {
+    "name": "Casa Pepe",
+    "topic": "Bar, Cafe",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Casa Pepe, Calle Rosa, La Viña, Distrito 4, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11002, España",
+    "lat": 36.5311508,
+    "lon": -6.3020749
+  },
+  {
+    "name": "Abastos Multibar",
+    "topic": "Mediterranean, European",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Tataki Sushi & Gastrobar",
+    "topic": "Japanese, Sushi",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Feng Shui Street",
+    "topic": "Japanese, Sushi",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Aupa Kádi",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.9,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "El Callejon",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": "El Callejón, Villamartín, Sierra de Cádiz, Cádiz, Andalucía, 11660, España",
+    "lat": 36.8013307,
+    "lon": -5.583903
+  },
+  {
+    "name": "Tirabuzon",
+    "topic": "Mediterranean, European",
+    "rating": 4.0,
+    "city": "Cadiz",
+    "address": "Tirabuźon, Avenida Alcalde Manuel de la Pinta, Santa María del Mar, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11008, España",
+    "lat": 36.5178452,
+    "lon": -6.2862318
+  },
+  {
+    "name": "La Fragua",
+    "topic": "Steakhouse, Mediterranean",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Plaza La Fragua, Polígono de San Telmo, Jerez de la Frontera, Campiña de Jerez, Cádiz, Andalucía, 11401, España",
+    "lat": 36.6729575,
+    "lon": -6.1276284
+  },
+  {
+    "name": "Casa Canovas Restaurant",
+    "topic": "Italian, Mediterranean",
+    "rating": 4.5,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "El Boliche",
+    "topic": "Italian, Pizza",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Sabores De Belgica",
+    "topic": "French, Belgian",
+    "rating": 5.0,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Mini Bar",
+    "topic": "Seafood, Spanish",
+    "rating": 4.4,
+    "city": "Cadiz",
+    "address": "Mini Bar, 5, Calle Doctor Dacarrete, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11001, España",
+    "lat": 36.5311443,
+    "lon": -6.2966875
+  },
+  {
+    "name": "Gutini",
+    "topic": "International, Mediterranean",
+    "rating": 5.0,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "El Malagueno",
+    "topic": "Bar, Mediterranean",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "El Malagueño, Calle Nécora, Urbanización Aretusa Luz, Zahara de los Atunes, Barbate, La Janda, Cádiz, Andalucía, 11393, España",
+    "lat": 36.1357183,
+    "lon": -5.8448807
+  },
+  {
+    "name": "meson de las americas",
+    "topic": "Latin, Spanish",
+    "rating": 4.2,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Restaurante La Vendimia",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "La vendimia, Paseo Marítimo, Cortadura, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11010, España",
+    "lat": 36.5003187,
+    "lon": -6.2745705
+  },
+  {
+    "name": "El Faro De La Laguna",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Vinos y Tapas Sur",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Trasversal Restobar",
+    "topic": "Bar, Cafe",
+    "rating": 4.7,
+    "city": "Cadiz",
+    "address": ""
+  },
+  {
+    "name": "Las Nieves",
+    "topic": "Mediterranean, European",
+    "rating": 4.3,
+    "city": "Cadiz",
+    "address": "Las Nieves, Sudamérica, El Puerto de Santa María, Bahía de Cádiz, Cádiz, Andalucía, 11500, España",
+    "lat": 36.6109586,
+    "lon": -6.2313941
+  },
+  {
+    "name": "Taberna La Carbonera",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.1,
+    "city": "Cadiz",
+    "address": "Taberna La Carbonera, Calle San Fernando, El Pópulo, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5299177,
+    "lon": -6.2935152
+  },
+  {
+    "name": "Bohemia",
+    "topic": "Mediterranean, Spanish",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": "Bohemia, Avenida Ana de Viya, Trille, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11009, España",
+    "lat": 36.5102047,
+    "lon": -6.2789931
+  },
+  {
+    "name": "Bar Nuevo Folgar",
+    "topic": "Mediterranean, European",
+    "rating": 4.8,
+    "city": "Cadiz",
+    "address": "Nuevo Folgar, 1, Cuesta de la Jabonería, Santa María, Cádiz, Bahía de Cádiz, Cádiz, Andalucía, 11005, España",
+    "lat": 36.5290786,
+    "lon": -6.2926353
+  },
+  {
+    "name": "Nuevo Burger Brooklyn",
+    "topic": "American, Fast Food",
+    "rating": 4.6,
+    "city": "Cadiz",
+    "address": ""
+  }
+]
